@@ -9,7 +9,18 @@ Maunaually Debloat Windows
 
 Partition Hard Drives
 
-Create Shared Drives
+Create Shared Drives & Network
 
-Install Warm Terminal
+Install Warp Terminal
 
+Install Opera for Simple Browser Use
+
+Install Firefox for Main Browser Bookmarks and Syncing Use
+
+Create Remote Network
+
+Create Coding Development Enviroment
+
+Install Proton Drive
+
+Install Google Drive
