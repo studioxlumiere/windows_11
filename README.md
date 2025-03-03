@@ -18,6 +18,7 @@
   - Install Glasswire - https://www.glasswire.com/
   - Install Whatsapp Desktop
   - Activate Windows Security Systems
+  - Install Spotify Desktop
 
 + Create Coding Development Enviroment
   - Github Desktop
