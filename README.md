@@ -29,4 +29,4 @@ System file checker: Run the "sfc /scannow" command in Command Prompt to scan an
 
 Terminal: DISM /Online /Cleanup-Image /RestoreHealth
 
-Self Operating Computer: https://www.hyperwriteai.com - https://github.com/OthersideAI/self-operating-computer
+Self Operating Computer: https://www.hyperwriteai.com - https://github.com/OthersideAI/self-operating-computer /  Not Free
