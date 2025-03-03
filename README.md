@@ -26,3 +26,5 @@ Install Proton Drive
 Install Google Drive
 
 System file checker: Run the "sfc /scannow" command in Command Prompt to scan and repair corrupted system files 
+
+Terminal: DISM /Online /Cleanup-Image /RestoreHealth
