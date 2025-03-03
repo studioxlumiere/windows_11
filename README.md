@@ -17,6 +17,7 @@
   - Graphics Card Drivers: https://www.gigabyte.com/Graphics-Card/GV-N166SOC-6GD/support#support-dl-utility
   - Install Glasswire - https://www.glasswire.com/
   - Install Whatsapp Desktop
+  - Activate Windows Security Systems
 
 + Create Coding Development Enviroment
   - Github Desktop
