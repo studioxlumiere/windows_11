@@ -16,6 +16,7 @@
   - Terminal: DISM /Online /Cleanup-Image /RestoreHealth
   - Graphics Card Drivers: https://www.gigabyte.com/Graphics-Card/GV-N166SOC-6GD/support#support-dl-utility
   - Install Glasswire - https://www.glasswire.com/
+  - Install Whatsapp Desktop
 
 + Create Coding Development Enviroment
   - Github Desktop
