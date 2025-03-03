@@ -19,6 +19,9 @@
   - Install Whatsapp Desktop
   - Activate Windows Security Systems
   - Install Spotify Desktop
+ 
+  + Projects
+    - Project Managment: Clickup
 
 + Create Coding Development Enviroment
   - Github Desktop
