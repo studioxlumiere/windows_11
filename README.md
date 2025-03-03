@@ -22,6 +22,9 @@
  
 + Projects
   - Project Managment: Clickup
+
++ Communication
+  - Email: www.thunderbird.net/
  
 + Prototyping
   - Figma
