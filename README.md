@@ -38,8 +38,10 @@
   - Affinity Designer
   - Affinity Publisher
  
-+ Notes
++ Notes & Research
   - Windows Notepad
+  - Notebook LLM (Web Catalogue)
+  - MIndamaps: Install Obsidian
  
 + Mind Mapping
   - Obsidian
