@@ -19,13 +19,17 @@
   - Install Whatsapp Desktop
   - Activate Windows Security Systems
   - Install Spotify Desktop
+  - Install Web Catalogue
  
-+ Projects
++ Admin
   - Project Managment: Clickup
+ 
++ Work
+  - Install Airbnb (Web Catalogue)
 
 + Communication
-  - Email: www.thunderbird.net/
-  - Proton Mail Bridge
+  - Email: www.thunderbird.net/ Connect Email Accounts + Calendars
+  - Proton Mail (Web Catalogue)
  
 + Prototyping
   - Figma
@@ -45,3 +49,4 @@
 
 + AI Enviroment
   - Self Operating Computer: https://www.hyperwriteai.com - https://github.com/OthersideAI/self-operating-computer /  Not Free
+  - Install Deepseek (Web Catalogue)
