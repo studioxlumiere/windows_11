@@ -3,7 +3,7 @@ Install a fresh copy of windows 10
 
 Install / Update to Windows 11
 
-Use Chris Windows Debloat
+Use Chris Windows Debloat: https://github.com/ChrisTitusTech/winutil - Shift Start Menu, Run Terminal as Admin - irm "https://christitus.com/win" | iex
 
 Maunaually Debloat Windows
 
@@ -24,3 +24,5 @@ Create Coding Development Enviroment
 Install Proton Drive
 
 Install Google Drive
+
+System file checker: Run the "sfc /scannow" command in Command Prompt to scan and repair corrupted system files 
