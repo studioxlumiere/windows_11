@@ -30,3 +30,5 @@ System file checker: Run the "sfc /scannow" command in Command Prompt to scan an
 Terminal: DISM /Online /Cleanup-Image /RestoreHealth
 
 Self Operating Computer: https://www.hyperwriteai.com - https://github.com/OthersideAI/self-operating-computer /  Not Free
+
+Graphics Card Drivers: https://www.gigabyte.com/Graphics-Card/GV-N166SOC-6GD/support#support-dl-utility
