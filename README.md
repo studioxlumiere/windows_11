@@ -52,3 +52,4 @@
 + AI Enviroment
   - Self Operating Computer: https://www.hyperwriteai.com - https://github.com/OthersideAI/self-operating-computer /  Not Free
   - Install Deepseek (Web Catalogue)
+  - Install SeaArt.ai (Web Catalogue)
