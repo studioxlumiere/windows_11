@@ -20,9 +20,22 @@
   - Activate Windows Security Systems
   - Install Spotify Desktop
  
-  + Projects
-    - Project Managment: Clickup
++ Projects
+  - Project Managment: Clickup
+ 
++ Prototyping
+  - Figma
 
++ Design
+  - Affinity Designer
+  - Affinity Publisher
+ 
++ Notes
+  - Windows Notepad
+ 
++ Mind Mapping
+  - Obsidian
+ 
 + Create Coding Development Enviroment
   - Github Desktop
 
