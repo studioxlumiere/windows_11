@@ -6,6 +6,7 @@
   - Partition Hard Drives
   - Create Shared Drives & Network
   - Install Warp Terminal
+  - Install Nushell - https://www.nushell.sh/
   - Install Opera for Simple Browser Use
   - Install Firefox for Main Browser Bookmarks and Syncing Use
   - Create Remote Network
