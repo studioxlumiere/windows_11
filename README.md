@@ -25,6 +25,7 @@
 
 + Communication
   - Email: www.thunderbird.net/
+  - Proton Mail Bridge
  
 + Prototyping
   - Figma
