@@ -54,6 +54,7 @@
   - Database: https://supabase.com
   - Developer Tool: https://www.docker.com/
   - https://stackblitz.com/
+  - Snippets: https://gist.github.com/
 
 + AI Enviroment
   - Self Operating Computer: https://www.hyperwriteai.com - https://github.com/OthersideAI/self-operating-computer /  Not Free
