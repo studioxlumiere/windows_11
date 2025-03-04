@@ -1,4 +1,5 @@
 # windows_11
+
 # Install and Configure a Fresh Copy of Windows 10/11
 1. **Install / Update to Windows 11**: Upgrade to the latest version of Windows. - [Download Windows 11](https://www.microsoft.com/software-download/windows11)
 2. **Chris Windows Debloat**: Optimize and debloat Windows using Chris Titus Tech's script. - [Chris Windows Debloat](https://github.com/ChrisTitusTech/winutil) - Run: `irm "https://christitus.com/win" | iex`
