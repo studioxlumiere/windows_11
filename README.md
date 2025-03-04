@@ -23,30 +23,30 @@
 19. **Install Spotify Desktop**: Music streaming app. - [Download Spotify](https://www.spotify.com/download/)
 20. **Install Web Catalogue**: Organize and access web apps. - [Download Web Catalogue](https://webcatalog.io/)
  
-+ Admin
-  - Project Managment: Clickup
- 
-+ Work
-  - Install Airbnb (Web Catalogue)
+## Admin
+1. **Project Management: Clickup** - All-in-one project management tool. - [Visit Clickup](https://www.clickup.com/)
 
-+ Communication
-  - Email: www.thunderbird.net/ Connect Email Accounts + Calendars
-  - Proton Mail (Web Catalogue)
- 
-+ Prototyping
-  - Figma
+## Work
+2. **Install Airbnb (Web Catalogue)** - Access Airbnb via the Web Catalogue app. - [Download Web Catalogue](https://webcatalog.io/)
 
-+ Design
-  - Affinity Designer
-  - Affinity Publisher
- 
-+ Notes & Research
-  - Windows Notepad
-  - Notebook LLM (Web Catalogue)
-  - MIndamaps: Install Obsidian
- 
-+ Mind Mapping
-  - Obsidian
+## Communication
+3. **Email: Thunderbird** - Connect email accounts and calendars. - [Download Thunderbird](https://www.thunderbird.net/)
+4. **Proton Mail (Web Catalogue)** - Secure email service. - [Download Web Catalogue](https://webcatalog.io/)
+
+## Prototyping
+5. **Figma** - Collaborative design and prototyping tool. - [Visit Figma](https://www.figma.com/)
+
+## Design
+6. **Affinity Designer** - Professional graphic design software. - [Download Affinity Designer](https://affinity.serif.com/designer/)
+7. **Affinity Publisher** - Professional publishing software. - [Download Affinity Publisher](https://affinity.serif.com/publisher/)
+
+## Notes & Research
+8. **Windows Notepad** - Built-in text editor for quick notes.
+9. **Notebook LLM (Web Catalogue)** - AI-powered note-taking tool. - [Download Web Catalogue](https://webcatalog.io/)
+10. **Mindmaps: Obsidian** - Knowledge management and note-taking tool. - [Download Obsidian](https://obsidian.md/)
+
+## Mind Mapping
+11. **Obsidian** - Create and manage mind maps. - [Download Obsidian](https://obsidian.md/)
  
 ## Create Coding Development Environment
 1. **Github Desktop**: GUI for managing Git repositories. - [Download](https://desktop.github.com/)
