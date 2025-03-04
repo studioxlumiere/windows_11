@@ -51,6 +51,7 @@
   - Github: CoPilot
   - Github: Codespaces
   - Coding Enviroment: https://code.visualstudio.com/
+  - Database: https://supabase.com
 
 + AI Enviroment
   - Self Operating Computer: https://www.hyperwriteai.com - https://github.com/OthersideAI/self-operating-computer /  Not Free
