@@ -50,12 +50,22 @@
   - Github: Github Desktop
   - Github: CoPilot
   - Github: Codespaces
+  - Github: Github Actions / For automating builds and deployments / https://github.com/features/actions
   - Coding Enviroment: https://code.visualstudio.com/
-  - Database: https://supabase.com
+  - Database: https://supabase.com / authentication, database, and serverless functions
   - Developer Tool: https://www.docker.com/
   - https://stackblitz.com/
   - Snippets: https://gist.github.com/
   - Styling: https://tailwindcss.com/)
+  - CI/CD Tools: https://vercel.com / frontend deployment
+  - Node.JS / backend logic / https://nodejs.org
+  - Next.JS / https://nextjs.org/) / Front End Development
+  - Docker: For containerizing your application
+  - https://sentry.io / error tracking
+  - https://newrelic.com/ / performance monitoring
+  - AI Coding: Bolt.new
+  - https://fleek.xyz/ / Build and deploy autonomous apps and AI agents
+  - https://arweave.org/ / Permanent information storage
 
 + AI Enviroment
   - Self Operating Computer: https://www.hyperwriteai.com - https://github.com/OthersideAI/self-operating-computer /  Not Free
