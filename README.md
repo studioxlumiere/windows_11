@@ -68,7 +68,14 @@
 17. **Fleek**: Builds and deploys decentralized apps and AI agents. - [Learn More](https://fleek.xyz/)
 18. **Arweave**: Decentralized storage for permanent data archiving. - [Learn More](https://arweave.org/)
 
-+ AI Enviroment
-  - Self Operating Computer: https://www.hyperwriteai.com - https://github.com/OthersideAI/self-operating-computer /  Not Free
-  - Install Deepseek (Web Catalogue)
-  - Install SeaArt.ai (Web Catalogue)
+# AI Environment
+
+1. **Self Operating Computer**: AI-powered automation tool for computer tasks.  
+   - [Visit Hyperwrite AI](https://www.hyperwriteai.com)  
+   - [GitHub Repository](https://github.com/OthersideAI/self-operating-computer) *(Not Free)*
+
+2. **Install Deepseek (Web Catalogue)**: AI tool for advanced tasks and automation.  
+   - [Download Web Catalogue](https://webcatalog.io/)
+
+3. **Install SeaArt.ai (Web Catalogue)**: AI-powered art and design tool.  
+   - [Download Web Catalogue](https://webcatalog.io/)
