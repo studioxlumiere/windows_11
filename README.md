@@ -1,25 +1,25 @@
 # windows_11
-+ Install a fresh copy of windows 10
-  - Install / Update to Windows 11
-  - Use Chris Windows Debloat: https://github.com/ChrisTitusTech/winutil - Shift Start Menu, Run Terminal as Admin - irm "https://christitus.com/win" | iex
-  - Maunaually Debloat Windows
-  - Partition Hard Drives
-  - Create Shared Drives & Network
-  - Install Warp Terminal
-  - Install Nushell - https://www.nushell.sh/
-  - Install Opera for Simple Browser Use
-  - Install Firefox for Main Browser Bookmarks and Syncing Use
-  - Create Remote Network
-  - Install Proton Drive
-  - Install Google Drive
-  - System file checker: Run the "sfc /scannow" command in Command Prompt to scan and repair corrupted system files
-  - Terminal: DISM /Online /Cleanup-Image /RestoreHealth
-  - Graphics Card Drivers: https://www.gigabyte.com/Graphics-Card/GV-N166SOC-6GD/support#support-dl-utility
-  - Install Glasswire - https://www.glasswire.com/
-  - Install Whatsapp Desktop
-  - Activate Windows Security Systems
-  - Install Spotify Desktop
-  - Install Web Catalogue
+# Install and Configure a Fresh Copy of Windows 10/11
+1. **Install / Update to Windows 11**: Upgrade to the latest version of Windows. - [Download Windows 11](https://www.microsoft.com/software-download/windows11)
+2. **Chris Windows Debloat**: Optimize and debloat Windows using Chris Titus Tech's script. - [Chris Windows Debloat](https://github.com/ChrisTitusTech/winutil) - Run: `irm "https://christitus.com/win" | iex`
+3. **Manually Debloat Windows**: Remove unnecessary apps and services manually.
+4. **Partition Hard Drives**: Organize storage by creating partitions.
+5. **Create Shared Drives & Network**: Set up shared drives and network access.
+6. **Install Warp Terminal**: Modern terminal for developers. - [Download Warp](https://www.warp.dev/)
+7. **Install Nushell**: A new shell for modern systems. - [Download Nushell](https://www.nushell.sh/)
+8. **Install Opera**: Lightweight browser for simple use. - [Download Opera](https://www.opera.com/)
+9. **Install Firefox**: Main browser for bookmarks and syncing. - [Download Firefox](https://www.mozilla.org/firefox/)
+10. **Create Remote Network**: Set up remote access to your network.
+11. **Install Proton Drive**: Secure cloud storage. - [Download Proton Drive](https://proton.me/drive)
+12. **Install Google Drive**: Cloud storage and file synchronization. - [Download Google Drive](https://www.google.com/drive/)
+13. **System File Checker**: Scan and repair corrupted system files. - Run: `sfc /scannow` in Command Prompt.
+14. **DISM Command**: Repair Windows image. - Run: `DISM /Online /Cleanup-Image /RestoreHealth` in Command Prompt.
+15. **Graphics Card Drivers**: Install the latest drivers for your GPU. - [Download Drivers](https://www.gigabyte.com/Graphics-Card/GV-N166SOC-6GD/support#support-dl-utility)
+16. **Install Glasswire**: Monitor network activity and security. - [Download Glasswire](https://www.glasswire.com/)
+17. **Install WhatsApp Desktop**: Desktop version of WhatsApp. - [Download WhatsApp](https://www.whatsapp.com/download)
+18. **Activate Windows Security Systems**: Enable built-in security features.
+19. **Install Spotify Desktop**: Music streaming app. - [Download Spotify](https://www.spotify.com/download/)
+20. **Install Web Catalogue**: Organize and access web apps. - [Download Web Catalogue](https://webcatalog.io/)
  
 + Admin
   - Project Managment: Clickup
