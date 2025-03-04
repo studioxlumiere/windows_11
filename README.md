@@ -46,26 +46,52 @@
 + Mind Mapping
   - Obsidian
  
-+ Create Coding Development Enviroment
-  - Github: Github Desktop
-  - Github: CoPilot
-  - Github: Codespaces
-  - Github: Github Actions / For automating builds and deployments / https://github.com/features/actions
-  - Coding Enviroment: https://code.visualstudio.com/
-  - Database: https://supabase.com / authentication, database, and serverless functions
-  - Developer Tool: https://www.docker.com/
-  - https://stackblitz.com/
-  - Snippets: https://gist.github.com/
-  - Styling: https://tailwindcss.com/)
-  - CI/CD Tools: https://vercel.com / frontend deployment
-  - Node.JS / backend logic / https://nodejs.org
-  - Next.JS / https://nextjs.org/) / Front End Development
-  - Docker: For containerizing your application
-  - https://sentry.io / error tracking
-  - https://newrelic.com/ / performance monitoring
-  - AI Coding: Bolt.new
-  - https://fleek.xyz/ / Build and deploy autonomous apps and AI agents
-  - https://arweave.org/ / Permanent information storage
+# Create Coding Development Environment
+
+## GitHub Tools
+- **Github Desktop**: [Github Desktop](https://desktop.github.com/)
+- **CoPilot**: [Github CoPilot](https://copilot.github.com/)
+- **Codespaces**: [Github Codespaces](https://github.com/features/codespaces)
+- **Github Actions**: For automating builds and deployments - [Github Actions](https://github.com/features/actions)
+
+## Coding Environment
+- **Visual Studio Code**: [VS Code](https://code.visualstudio.com/)
+
+## Database
+- **Supabase**: Authentication, database, and serverless functions - [Supabase](https://supabase.com/)
+
+## Developer Tools
+- **Docker**: [Docker](https://www.docker.com/)
+- **StackBlitz**: [StackBlitz](https://stackblitz.com/)
+- **Gist**: Snippets - [Gist](https://gist.github.com/)
+
+## Styling
+- **Tailwind CSS**: [Tailwind CSS](https://tailwindcss.com/)
+
+## CI/CD Tools
+- **Vercel**: Frontend deployment - [Vercel](https://vercel.com/)
+
+## Backend Development
+- **Node.JS**: Backend logic - [Node.JS](https://nodejs.org/)
+
+## Frontend Development
+- **Next.JS**: [Next.JS](https://nextjs.org/)
+
+## Containerization
+- **Docker**: For containerizing your application - [Docker](https://www.docker.com/)
+
+## Monitoring & Error Tracking
+- **Sentry**: Error tracking - [Sentry](https://sentry.io/)
+- **New Relic**: Performance monitoring - [New Relic](https://newrelic.com/)
+
+## AI Coding
+- **Bolt.new**: [Bolt.new](https://bolt.new/)
+
+## Autonomous Apps & AI Agents
+- **Fleek**: Build and deploy autonomous apps and AI agents - [Fleek](https://fleek.xyz/)
+
+## Permanent Information Storage
+- **Arweave**: [Arweave](https://arweave.org/)
 
 + AI Enviroment
   - Self Operating Computer: https://www.hyperwriteai.com - https://github.com/OthersideAI/self-operating-computer /  Not Free
