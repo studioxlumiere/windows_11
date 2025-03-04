@@ -48,50 +48,25 @@
  
 # Create Coding Development Environment
 
-## GitHub Tools
-- **Github Desktop**: A GUI for managing Git repositories.
-- **CoPilot**: AI-powered code completion tool.
-- **Codespaces**: Cloud-based development environments.
-- **Github Actions**: Automates builds, tests, and deployments.
-
-## Coding Environment
-- **Visual Studio Code**: Lightweight, extensible code editor.
-
-## Database
-- **Supabase**: Open-source Firebase alternative with authentication, database, and serverless functions.
-
-## Developer Tools
-- **Docker**: Containerization platform for building and deploying apps.
-- **StackBlitz**: Online IDE for web development.
-- **Gist**: Share and save code snippets.
-
-## Styling
-- **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
-
-## CI/CD Tools
-- **Vercel**: Platform for deploying and hosting frontend applications.
-
-## Backend Development
-- **Node.JS**: JavaScript runtime for building server-side applications.
-
-## Frontend Development
-- **Next.JS**: React framework for server-rendered and static websites.
-
-## Containerization
-- **Docker**: Packages applications into containers for consistent deployment.
-
-## Monitoring & Error Tracking
-- **Sentry**: Tracks and fixes errors in real-time.
-- **New Relic**: Monitors application performance and infrastructure.
-
-## AI Coding
-- **Bolt.new**: AI-powered coding assistant for faster development.
-
-## Autonomous Apps & AI Agents
-- **Fleek**: Builds and deploys decentralized apps and AI agents.
-
-## Permanent Information Storage
-- **Arweave**: Decentralized storage for permanent data archiving.
+## Tools and Applications
+1. **Github Desktop**: GUI for managing Git repositories.
+2. **Github CoPilot**: AI-powered code completion tool.
+3. **Github Codespaces**: Cloud-based development environments.
+4. **Github Actions**: Automates builds, tests, and deployments.
+5. **Visual Studio Code**: Lightweight, extensible code editor.
+6. **Supabase**: Open-source Firebase alternative with authentication, database, and serverless functions.
+7. **Docker**: Containerization platform for building and deploying apps.
+8. **StackBlitz**: Online IDE for web development.
+9. **Gist**: Share and save code snippets.
+10. **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
+11. **Vercel**: Platform for deploying and hosting frontend applications.
+12. **Node.JS**: JavaScript runtime for building server-side applications.
+13. **Next.JS**: React framework for server-rendered and static websites.
+14. **Sentry**: Tracks and fixes errors in real-time.
+15. **New Relic**: Monitors application performance and infrastructure.
+16. **Bolt.new**: AI-powered coding assistant for faster development.
+17. **Fleek**: Builds and deploys decentralized apps and AI agents.
+18. **Arweave**: Decentralized storage for permanent data archiving.
 
 + AI Enviroment
   - Self Operating Computer: https://www.hyperwriteai.com - https://github.com/OthersideAI/self-operating-computer /  Not Free
