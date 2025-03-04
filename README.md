@@ -1,9 +1,6 @@
-# Windows 11 Enviroment
-
-1. **Install and Configure a Fresh Copy of Windows 10/11**: Set up a clean installation or upgrade to Windows 10/11.  
-   - [Download Windows 10](https://www.microsoft.com/software-download/windows10)  
-   - [Download Windows 11](https://www.microsoft.com/software-download/windows11)
-2. **Chris Windows Debloat**: Optimize and debloat Windows using Chris Titus Tech's script. - [Chris Windows Debloat](https://github.com/ChrisTitusTech/winutil) - Run: `irm "https://christitus.com/win" | iex`
+# Windows 11 Environment
+1. **Install and Configure a Fresh Copy of Windows 10/11**: Set up a clean installation or upgrade. - [Download Windows 10](https://www.microsoft.com/software-download/windows10) | [Download Windows 11](https://www.microsoft.com/software-download/windows11)
+2. **Chris Windows Debloat**: Optimize and debloat Windows. - [Chris Windows Debloat](https://github.com/ChrisTitusTech/winutil) - Run: `irm "https://christitus.com/win" | iex`
 3. **Manually Debloat Windows**: Remove unnecessary apps and services manually.
 4. **Partition Hard Drives**: Organize storage by creating partitions.
 5. **Create Shared Drives & Network**: Set up shared drives and network access.
@@ -22,33 +19,33 @@
 18. **Activate Windows Security Systems**: Enable built-in security features.
 19. **Install Spotify Desktop**: Music streaming app. - [Download Spotify](https://www.spotify.com/download/)
 20. **Install Web Catalogue**: Organize and access web apps. - [Download Web Catalogue](https://webcatalog.io/)
- 
-## Admin
+
+# Admin
 1. **Project Management: Clickup** - All-in-one project management tool. - [Visit Clickup](https://www.clickup.com/)
 
-## Work
-2. **Install Airbnb (Web Catalogue)** - Access Airbnb via the Web Catalogue app. - [Download Web Catalogue](https://webcatalog.io/)
+# Work
+1. **Install Airbnb (Web Catalogue)** - Access Airbnb via the Web Catalogue app. - [Download Web Catalogue](https://webcatalog.io/)
 
-## Communication
-3. **Email: Thunderbird** - Connect email accounts and calendars. - [Download Thunderbird](https://www.thunderbird.net/)
-4. **Proton Mail (Web Catalogue)** - Secure email service. - [Download Web Catalogue](https://webcatalog.io/)
+# Communication
+1. **Email: Thunderbird** - Connect email accounts and calendars. - [Download Thunderbird](https://www.thunderbird.net/)
+2. **Proton Mail (Web Catalogue)** - Secure email service. - [Download Web Catalogue](https://webcatalog.io/)
 
-## Prototyping
-5. **Figma** - Collaborative design and prototyping tool. - [Visit Figma](https://www.figma.com/)
+# Prototyping
+1. **Figma** - Collaborative design and prototyping tool. - [Visit Figma](https://www.figma.com/)
 
-## Design
-6. **Affinity Designer** - Professional graphic design software. - [Download Affinity Designer](https://affinity.serif.com/designer/)
-7. **Affinity Publisher** - Professional publishing software. - [Download Affinity Publisher](https://affinity.serif.com/publisher/)
+# Design
+1. **Affinity Designer** - Professional graphic design software. - [Download Affinity Designer](https://affinity.serif.com/designer/)
+2. **Affinity Publisher** - Professional publishing software. - [Download Affinity Publisher](https://affinity.serif.com/publisher/)
 
-## Notes & Research
-8. **Windows Notepad** - Built-in text editor for quick notes.
-9. **Notebook LLM (Web Catalogue)** - AI-powered note-taking tool. - [Download Web Catalogue](https://webcatalog.io/)
-10. **Mindmaps: Obsidian** - Knowledge management and note-taking tool. - [Download Obsidian](https://obsidian.md/)
+# Notes & Research
+1. **Windows Notepad** - Built-in text editor for quick notes.
+2. **Notebook LLM (Web Catalogue)** - AI-powered note-taking tool. - [Download Web Catalogue](https://webcatalog.io/)
+3. **Mindmaps: Obsidian** - Knowledge management and note-taking tool. - [Download Obsidian](https://obsidian.md/)
 
-## Mind Mapping
-11. **Obsidian** - Create and manage mind maps. - [Download Obsidian](https://obsidian.md/)
- 
-## Create Coding Development Environment
+# Mind Mapping
+1. **Obsidian** - Create and manage mind maps. - [Download Obsidian](https://obsidian.md/)
+
+# Create Coding Development Environment
 1. **Github Desktop**: GUI for managing Git repositories. - [Download](https://desktop.github.com/)
 2. **Github CoPilot**: AI-powered code completion tool. - [Learn More](https://copilot.github.com/)
 3. **Github Codespaces**: Cloud-based development environments. - [Learn More](https://github.com/features/codespaces)
@@ -69,13 +66,6 @@
 18. **Arweave**: Decentralized storage for permanent data archiving. - [Learn More](https://arweave.org/)
 
 # AI Environment
-
-1. **Self Operating Computer**: AI-powered automation tool for computer tasks.  
-   - [Visit Hyperwrite AI](https://www.hyperwriteai.com)  
-   - [GitHub Repository](https://github.com/OthersideAI/self-operating-computer) *(Not Free)*
-
-2. **Install Deepseek (Web Catalogue)**: AI tool for advanced tasks and automation.  
-   - [Download Web Catalogue](https://webcatalog.io/)
-
-3. **Install SeaArt.ai (Web Catalogue)**: AI-powered art and design tool.  
-   - [Download Web Catalogue](https://webcatalog.io/)
+1. **Self Operating Computer**: AI-powered automation tool for computer tasks. - [Visit Hyperwrite AI](https://www.hyperwriteai.com) | [GitHub Repository](https://github.com/OthersideAI/self-operating-computer) *(Not Free)*
+2. **Install Deepseek (Web Catalogue)**: AI tool for advanced tasks and automation. - [Download Web Catalogue](https://webcatalog.io/)
+3. **Install SeaArt.ai (Web Catalogue)**: AI-powered art and design tool. - [Download Web Catalogue](https://webcatalog.io/)
