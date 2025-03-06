@@ -65,13 +65,13 @@
 # Create Coding Development Environment
 1. **Github Desktop**: GUI for managing Git repositories. - [Download](https://desktop.github.com/)
 2. **Github CoPilot**: AI-powered code completion tool. - [Learn More](https://copilot.github.com/) // * Cloud Version - https://github.com/copilot * //
-3. **Github Codespaces**: Cloud-based development environments. - [Learn More](https://github.com/features/codespaces)
+3. **Github Codespaces**: Cloud-based development environments. - [Learn More](https://github.com/features/codespaces) // * Cloud Version - https://github.com/codespaces * //
 4. **Github Actions**: Automates builds, tests, and deployments. - [Learn More](https://github.com/features/actions)
 5. **Visual Studio Code**: Lightweight, extensible code editor. - [Download](https://code.visualstudio.com/)
-6. **Supabase**: Open-source Firebase alternative with authentication, database, and serverless functions. - [Learn More](https://supabase.com/)
+6. **Supabase**: Open-source Firebase alternative with authentication, database, and serverless functions. - [Learn More](https://supabase.com/) // * Cloud Version - https://supabase.com/ * //
 7. **Docker**: Containerization platform for building and deploying apps. - [Download](https://www.docker.com/)
 8. **StackBlitz**: Online IDE for web development. - [Visit](https://stackblitz.com/) // * Cloud Version - stackblitz.com * //
-9. **Gist**: Share and save code snippets. - [Visit](https://gist.github.com/)
+9. **Gist**: Share and save code snippets. - [Visit](https://gist.github.com/) // * Cloud Version - https://gist.github.com/ * //
 10. **Tailwind CSS**: Utility-first CSS framework for rapid UI development. - [Learn More](https://tailwindcss.com/)
 11. **Vercel**: Platform for deploying and hosting frontend applications. - [Visit](https://vercel.com/)
 12. **Node.JS**: JavaScript runtime for building server-side applications. - [Download](https://nodejs.org/)
@@ -89,4 +89,5 @@
 # AI GPTS
 1. **Install Deepseek (Web Catalogue)**: AI tool for advanced tasks and automation. - [Download Web Catalogue](https://webcatalog.io/)
 
-
+# AI VOICE
+1. https://fish.audio/ - Voice Cloning, Voice Library, VoiceOver, and more
