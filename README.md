@@ -77,7 +77,7 @@
 13. **Next.JS**: React framework for server-rendered and static websites. - [Learn More](https://nextjs.org/)
 14. **Sentry**: Tracks and fixes errors in real-time. - [Learn More](https://sentry.io/)
 15. **New Relic**: Monitors application performance and infrastructure. - [Learn More](https://newrelic.com/)
-16. **Bolt.new**: AI-powered coding assistant for faster development. - [Visit](https://bolt.new/) // *Can Install Locally*
+16. **Bolt.new**: AI-powered coding assistant for faster development. - [Visit](https://bolt.new/) // *Can Install Locally - https://github.com/stackblitz-labs/bolt.diy*
 17. **Fleek**: Builds and deploys decentralized apps and AI agents. - [Learn More](https://fleek.xyz/)
 18. **Arweave**: Decentralized storage for permanent data archiving. - [Learn More](https://arweave.org/)
 19. **lambda**: Testing web apps. - [Learn More](https://www.lambdatest.com/)
