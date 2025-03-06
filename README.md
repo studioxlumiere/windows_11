@@ -21,6 +21,12 @@
 # Admin
 1. **Project Management: Clickup** - All-in-one project management tool. - [Visit Clickup](https://www.clickup.com/)
 
+# Gaming
+1. Steam
+2. Ubisoft
+3. Epic games
+
+
 # Cloud
 1. **Install Opera**: Lightweight browser for simple use. - [Download Opera](https://www.opera.com/)
 2. **Install Firefox**: Main browser for bookmarks and syncing. - [Download Firefox](https://www.mozilla.org/firefox/)
