@@ -57,7 +57,7 @@
 
 # Notes & Research
 1. **Windows Notepad** - Built-in text editor for quick notes.
-2. **Notebook LLM (Web Catalogue)** - AI-powered note-taking tool. - [Download Web Catalogue](https://webcatalog.io/)
+2. **Notebook LLM (Web Catalogue)** - AI-powered note-taking tool. - [Download Web Catalogue](https://webcatalog.io/) // * CLoud Version - https://notebooklm.google.com/ * //
 3. https://www.perplexity.ai/
 
 # Mind Mapping
