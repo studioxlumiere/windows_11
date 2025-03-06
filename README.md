@@ -33,6 +33,7 @@
 4. **Install Google Drive**: Cloud storage and file synchronization. - [Download Google Drive](https://www.google.com/drive/)
 5. **Install Web Catalogue**: Organize and access web apps. - [Download Web Catalogue](https://webcatalog.io/)
 6. https://open.spotify.com/
+7. https://raindrop.io/
 
 # Work
 1. **Install Airbnb (Web Catalogue)** - Access Airbnb via the Web Catalogue app. - [Download Web Catalogue](https://webcatalog.io/)
@@ -63,7 +64,7 @@
 
 # Create Coding Development Environment
 1. **Github Desktop**: GUI for managing Git repositories. - [Download](https://desktop.github.com/)
-2. **Github CoPilot**: AI-powered code completion tool. - [Learn More](https://copilot.github.com/)
+2. **Github CoPilot**: AI-powered code completion tool. - [Learn More](https://copilot.github.com/) // * Cloud Version - https://github.com/copilot * //
 3. **Github Codespaces**: Cloud-based development environments. - [Learn More](https://github.com/features/codespaces)
 4. **Github Actions**: Automates builds, tests, and deployments. - [Learn More](https://github.com/features/actions)
 5. **Visual Studio Code**: Lightweight, extensible code editor. - [Download](https://code.visualstudio.com/)
@@ -77,7 +78,7 @@
 13. **Next.JS**: React framework for server-rendered and static websites. - [Learn More](https://nextjs.org/)
 14. **Sentry**: Tracks and fixes errors in real-time. - [Learn More](https://sentry.io/)
 15. **New Relic**: Monitors application performance and infrastructure. - [Learn More](https://newrelic.com/)
-16. **Bolt.new**: AI-powered coding assistant for faster development. - [Visit](https://bolt.new/) // *Can Install Locally - https://github.com/stackblitz-labs/bolt.diy*
+16. **Bolt.new**: AI-powered coding assistant for faster development. - [Visit](https://bolt.new/) // * Can Install Locally - https://github.com/stackblitz-labs/bolt.diy * //
 17. **Fleek**: Builds and deploys decentralized apps and AI agents. - [Learn More](https://fleek.xyz/)
 18. **Arweave**: Decentralized storage for permanent data archiving. - [Learn More](https://arweave.org/)
 19. **lambda**: Testing web apps. - [Learn More](https://www.lambdatest.com/)
