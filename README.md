@@ -26,7 +26,6 @@
 2. Ubisoft
 3. Epic games
 
-
 # Cloud
 1. **Install Opera**: Lightweight browser for simple use. - [Download Opera](https://www.opera.com/)
 2. **Install Firefox**: Main browser for bookmarks and syncing. - [Download Firefox](https://www.mozilla.org/firefox/)
@@ -78,7 +77,7 @@
 13. **Next.JS**: React framework for server-rendered and static websites. - [Learn More](https://nextjs.org/)
 14. **Sentry**: Tracks and fixes errors in real-time. - [Learn More](https://sentry.io/)
 15. **New Relic**: Monitors application performance and infrastructure. - [Learn More](https://newrelic.com/)
-16. **Bolt.new**: AI-powered coding assistant for faster development. - [Visit](https://bolt.new/)
+16. **Bolt.new**: AI-powered coding assistant for faster development. - [Visit](https://bolt.new/) // *Can Install Locally*
 17. **Fleek**: Builds and deploys decentralized apps and AI agents. - [Learn More](https://fleek.xyz/)
 18. **Arweave**: Decentralized storage for permanent data archiving. - [Learn More](https://arweave.org/)
 19. **lambda**: Testing web apps. - [Learn More](https://www.lambdatest.com/)
