@@ -70,7 +70,7 @@
 5. **Visual Studio Code**: Lightweight, extensible code editor. - [Download](https://code.visualstudio.com/)
 6. **Supabase**: Open-source Firebase alternative with authentication, database, and serverless functions. - [Learn More](https://supabase.com/)
 7. **Docker**: Containerization platform for building and deploying apps. - [Download](https://www.docker.com/)
-8. **StackBlitz**: Online IDE for web development. - [Visit](https://stackblitz.com/)
+8. **StackBlitz**: Online IDE for web development. - [Visit](https://stackblitz.com/) // * Cloud Version - stackblitz.com * //
 9. **Gist**: Share and save code snippets. - [Visit](https://gist.github.com/)
 10. **Tailwind CSS**: Utility-first CSS framework for rapid UI development. - [Learn More](https://tailwindcss.com/)
 11. **Vercel**: Platform for deploying and hosting frontend applications. - [Visit](https://vercel.com/)
