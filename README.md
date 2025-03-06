@@ -41,8 +41,7 @@
 # Notes & Research
 1. **Windows Notepad** - Built-in text editor for quick notes.
 2. **Notebook LLM (Web Catalogue)** - AI-powered note-taking tool. - [Download Web Catalogue](https://webcatalog.io/)
-3. **Mindmaps: Obsidian** - Knowledge management and note-taking tool. - [Download Obsidian](https://obsidian.md/)
-4. https://www.perplexity.ai/
+3. https://www.perplexity.ai/
 
 # Mind Mapping
 1. **Obsidian** - Create and manage mind maps. - [Download Obsidian](https://obsidian.md/)
