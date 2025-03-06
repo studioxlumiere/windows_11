@@ -36,14 +36,19 @@
 # Design
 1. **Affinity Designer** - Professional graphic design software. - [Download Affinity Designer](https://affinity.serif.com/designer/)
 2. **Affinity Publisher** - Professional publishing software. - [Download Affinity Publisher](https://affinity.serif.com/publisher/)
+3. **Install SeaArt.ai (Web Catalogue)**: AI-powered art and design tool. - [Download Web Catalogue](https://webcatalog.io/)
 
 # Notes & Research
 1. **Windows Notepad** - Built-in text editor for quick notes.
 2. **Notebook LLM (Web Catalogue)** - AI-powered note-taking tool. - [Download Web Catalogue](https://webcatalog.io/)
 3. **Mindmaps: Obsidian** - Knowledge management and note-taking tool. - [Download Obsidian](https://obsidian.md/)
+4. https://www.perplexity.ai/
 
 # Mind Mapping
 1. **Obsidian** - Create and manage mind maps. - [Download Obsidian](https://obsidian.md/)
+2. https://app.milanote.com
+3. https://mindmapai.app/canvas
+4. https://whimsical.com
 
 # Create Coding Development Environment
 1. **Github Desktop**: GUI for managing Git repositories. - [Download](https://desktop.github.com/)
@@ -69,4 +74,4 @@
 # AI Environment
 1. **Self Operating Computer**: AI-powered automation tool for computer tasks. - [Visit Hyperwrite AI](https://www.hyperwriteai.com) | [GitHub Repository](https://github.com/OthersideAI/self-operating-computer) *(Not Free)*
 2. **Install Deepseek (Web Catalogue)**: AI tool for advanced tasks and automation. - [Download Web Catalogue](https://webcatalog.io/)
-3. **Install SeaArt.ai (Web Catalogue)**: AI-powered art and design tool. - [Download Web Catalogue](https://webcatalog.io/)
+
