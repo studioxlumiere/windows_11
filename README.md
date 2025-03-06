@@ -42,6 +42,7 @@
 1. **Email: Thunderbird** - Connect email accounts and calendars. - [Download Thunderbird](https://www.thunderbird.net/)
 2. **Proton Mail (Web Catalogue)** - Secure email service. - [Download Web Catalogue](https://webcatalog.io/)
 3. **Install WhatsApp Desktop**: Desktop version of WhatsApp. - [Download WhatsApp](https://www.whatsapp.com/download)
+4. https://app.shortwave.com/
 
 # Prototyping
 1. **Figma** - Collaborative design and prototyping tool. - [Visit Figma](https://www.figma.com/)
@@ -83,6 +84,9 @@
 18. **Arweave**: Decentralized storage for permanent data archiving. - [Learn More](https://arweave.org/)
 19. **lambda**: Testing web apps. - [Learn More](https://www.lambdatest.com/)
 20. https://www.cursor.com/ - Cursor is the best way to code with AI
+
+# WEB DEVELOPMENT
+1. https://webflow.com/
 
 # AI Environment
 1. **Self Operating Computer**: AI-powered automation tool for computer tasks. - [Visit Hyperwrite AI](https://www.hyperwriteai.com) | [GitHub Repository](https://github.com/OthersideAI/self-operating-computer) *(Not Free)*
