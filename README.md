@@ -40,6 +40,7 @@
 
 # Work
 1. **Install Airbnb (Web Catalogue)** - Access Airbnb via the Web Catalogue app. - [Download Web Catalogue](https://webcatalog.io/)
+2. https://www.bpsimulator.com - Business Process Simulation
 
 # Communication
 1. **Email: Thunderbird** - Connect email accounts and calendars. - [Download Thunderbird](https://www.thunderbird.net/)
@@ -92,6 +93,9 @@
 # WEB DEVELOPMENT
 1. https://webflow.com/
 
+# AI LLMS
+1. https://ollama.com/ - Run Llama 3.3, DeepSeek-R1, Phi-4, Mistral, Gemma 2, and other models, locally. 
+
 # AI Environment
 1. **Self Operating Computer**: AI-powered automation tool for computer tasks. - [Visit Hyperwrite AI](https://www.hyperwriteai.com) | [GitHub Repository](https://github.com/OthersideAI/self-operating-computer) *(Not Free)*
 
@@ -104,6 +108,7 @@
 # AI AGENT
 1. make.com
 2. https://n8n.io/
+3. https://vapi.ai/
 
 # CAR MANAGEMENT
 1. https://drivertechnologies.com/
