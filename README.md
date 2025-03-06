@@ -33,6 +33,7 @@
 3. **Install Proton Drive**: Secure cloud storage. - [Download Proton Drive](https://proton.me/drive)
 4. **Install Google Drive**: Cloud storage and file synchronization. - [Download Google Drive](https://www.google.com/drive/)
 5. **Install Web Catalogue**: Organize and access web apps. - [Download Web Catalogue](https://webcatalog.io/)
+6. https://open.spotify.com/
 
 # Work
 1. **Install Airbnb (Web Catalogue)** - Access Airbnb via the Web Catalogue app. - [Download Web Catalogue](https://webcatalog.io/)
