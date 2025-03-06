@@ -1,27 +1,32 @@
 # Windows 11 Environment
 1. **Install and Configure a Fresh Copy of Windows 10/11**: Set up a clean installation or upgrade. - [Download Windows 10](https://www.microsoft.com/software-download/windows10) | [Download Windows 11](https://www.microsoft.com/software-download/windows11)
-2. **Chris Windows Debloat**: Optimize and debloat Windows. - [Chris Windows Debloat](https://github.com/ChrisTitusTech/winutil) - Run: `irm "https://christitus.com/win" | iex`
-3. **Manually Debloat Windows**: Remove unnecessary apps and services manually.
-4. **Partition Hard Drives**: Organize storage by creating partitions.
-5. **Create Shared Drives & Network**: Set up shared drives and network access.
-6. **Install Warp Terminal**: Modern terminal for developers. - [Download Warp](https://www.warp.dev/)
-7. **Install Nushell**: A new shell for modern systems. - [Download Nushell](https://www.nushell.sh/)
-8. **Install Opera**: Lightweight browser for simple use. - [Download Opera](https://www.opera.com/)
-9. **Install Firefox**: Main browser for bookmarks and syncing. - [Download Firefox](https://www.mozilla.org/firefox/)
-10. **Create Remote Network**: Set up remote access to your network.
-11. **Install Proton Drive**: Secure cloud storage. - [Download Proton Drive](https://proton.me/drive)
-12. **Install Google Drive**: Cloud storage and file synchronization. - [Download Google Drive](https://www.google.com/drive/)
-13. **System File Checker**: Scan and repair corrupted system files. - Run: `sfc /scannow` in Command Prompt.
-14. **DISM Command**: Repair Windows image. - Run: `DISM /Online /Cleanup-Image /RestoreHealth` in Command Prompt.
-15. **Graphics Card Drivers**: Install the latest drivers for your GPU. - [Download Drivers](https://www.gigabyte.com/Graphics-Card/GV-N166SOC-6GD/support#support-dl-utility)
-16. **Install Glasswire**: Monitor network activity and security. - [Download Glasswire](https://www.glasswire.com/)
-17. **Install WhatsApp Desktop**: Desktop version of WhatsApp. - [Download WhatsApp](https://www.whatsapp.com/download)
-18. **Activate Windows Security Systems**: Enable built-in security features.
-19. **Install Spotify Desktop**: Music streaming app. - [Download Spotify](https://www.spotify.com/download/)
-20. **Install Web Catalogue**: Organize and access web apps. - [Download Web Catalogue](https://webcatalog.io/)
+
+# Windows Tools
+1. **Install Warp Terminal**: Modern terminal for developers. - [Download Warp](https://www.warp.dev/)
+2. **Install Nushell**: A new shell for modern systems. - [Download Nushell](https://www.nushell.sh/)
+3. **Install Glasswire**: Monitor network activity and security. - [Download Glasswire](https://www.glasswire.com/)
+4. **Chris Windows Debloat**: Optimize and debloat Windows. - [Chris Windows Debloat](https://github.com/ChrisTitusTech/winutil) - Run: `irm "https://christitus.com/win" | iex`
+
+# Windows Tasks
+1. **System File Checker**: Scan and repair corrupted system files. - Run: `sfc /scannow` in Command Prompt.
+2. **DISM Command**: Repair Windows image. - Run: `DISM /Online /Cleanup-Image /RestoreHealth` in Command Prompt.
+3. **Activate Windows Security Systems**: Enable built-in security features.
+4. **Install Spotify Desktop**: Music streaming app. - [Download Spotify](https://www.spotify.com/download/)
+5. **Graphics Card Drivers**: Install the latest drivers for your GPU. - [Download Drivers](https://www.gigabyte.com/Graphics-Card/GV-N166SOC-6GD/support#support-dl-utility)
+6. **Manually Debloat Windows**: Remove unnecessary apps and services manually.
+7. **Partition Hard Drives**: Organize storage by creating partitions.
+8. **Create Shared Drives & Network**: Set up shared drives and network access.
+9. **Create Remote Network**: Set up remote access to your network.
 
 # Admin
 1. **Project Management: Clickup** - All-in-one project management tool. - [Visit Clickup](https://www.clickup.com/)
+
+# Cloud
+1. **Install Opera**: Lightweight browser for simple use. - [Download Opera](https://www.opera.com/)
+2. **Install Firefox**: Main browser for bookmarks and syncing. - [Download Firefox](https://www.mozilla.org/firefox/)
+3. **Install Proton Drive**: Secure cloud storage. - [Download Proton Drive](https://proton.me/drive)
+4. **Install Google Drive**: Cloud storage and file synchronization. - [Download Google Drive](https://www.google.com/drive/)
+5. **Install Web Catalogue**: Organize and access web apps. - [Download Web Catalogue](https://webcatalog.io/)
 
 # Work
 1. **Install Airbnb (Web Catalogue)** - Access Airbnb via the Web Catalogue app. - [Download Web Catalogue](https://webcatalog.io/)
@@ -29,6 +34,7 @@
 # Communication
 1. **Email: Thunderbird** - Connect email accounts and calendars. - [Download Thunderbird](https://www.thunderbird.net/)
 2. **Proton Mail (Web Catalogue)** - Secure email service. - [Download Web Catalogue](https://webcatalog.io/)
+3. **Install WhatsApp Desktop**: Desktop version of WhatsApp. - [Download WhatsApp](https://www.whatsapp.com/download)
 
 # Prototyping
 1. **Figma** - Collaborative design and prototyping tool. - [Visit Figma](https://www.figma.com/)
