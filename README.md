@@ -18,6 +18,9 @@
 8. **Create Shared Drives & Network**: Set up shared drives and network access.
 9. **Create Remote Network**: Set up remote access to your network.
 
+# NETWORK
+1. http://10.0.0.2/login/login.html - Zyxel Router - User: Admin / Pass: Admin
+
 # Admin
 1. **Project Management: Clickup** - All-in-one project management tool. - [Visit Clickup](https://www.clickup.com/)
 
@@ -96,3 +99,10 @@
 
 # AI VOICE
 1. https://fish.audio/ - Voice Cloning, Voice Library, VoiceOver, and more
+
+# AI AGENT
+1. make.com
+
+# CAR MANAGEMENT
+1. https://drivertechnologies.com/
+2. https://www.topdon.com/products/TopScan
