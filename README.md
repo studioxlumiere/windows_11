@@ -61,6 +61,17 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 1. On Demand Printing: https://www.printful.com/
 2. Online Marketplace: https://www.etsy.com
 3. Online Store: shopify.com
+4. Online Marketplace: https://www.takealot.com/sell
+5. Online Marketplace: https://seller.alibaba.com/
+6. Online Marketplace: https://sellercentral.amazon.com/
+7. Etsy Analysis: https://www.listadum.com/
+8. Seller Tool:  https://getvela.com/
+9. Seller Tool: https://www.alura.io/
+10. Seller Tool: https://marmalead.com/
+11. Seller Tool: https://ehunt.ai
+
+# Merchandising
+1. Patterns: https://www.lekala.co/
 
 # DOCUMENTS
 1. Tool: https://www.ilovepdf.com/
