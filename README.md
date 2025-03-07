@@ -38,7 +38,8 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 
 # SECURITY
 1. Network  Mapper: https://www.cellmapper.net
-2. Network Security: [https://www.blackbox.ai/](https://www.netmaker.io/)
+2. Network VPN Security: [https://www.blackbox.ai/](https://www.netmaker.io/)
+3. Network VP  Security: https://www.twingate.com/
 
 # ADMIN  
 1. **Project Management: Clickup**: All-in-one project management tool. - [Visit Clickup](https://www.clickup.com/)
@@ -158,6 +159,10 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 #  CLoud Computing
 24. Google Colab: https://colab.google/
 25. Oracle  Cloud: [Cloud Computing](https://www.oracle.com/cloud)
+26. Digitalocean: https://www.digitalocean.com/
+27. Linode: https://www.linode.com/
+28. Pomerium: https://www.pomerium.com/
+29. Tailscale: https://tailscale.com/
 
 # Web Development  
 1. **Webflow**: Visual web development platform. - [Visit Webflow](https://webflow.com/)
