@@ -117,7 +117,8 @@
 19. **LambdaTest**: Testing web apps. - [Learn More](https://www.lambdatest.com/)  
 20. **Cursor**: AI-powered code editor. - [Visit Cursor](https://www.cursor.com/)  
 21. **Pipedream**: API integration platform. - [Visit Pipedream](https://pipedream.com/)
-22. 2. GPT: https://aistudio.google.com
+22. GPT: https://aistudio.google.com
+23. Cloud Computing: https://colab.google/ 
 
 ---
 
@@ -128,6 +129,7 @@
 
 # Ai Tools
 1. Scraper: https://www.browse.ai/
+2. Transcription: https://www.cockatoo.com/
 
 
 # AI LLMs  
@@ -152,6 +154,23 @@
 
 # AI Voice  
 1. **Fish Audio**: Voice cloning, voice library, voiceover, and more. - [Visit Fish Audio](https://fish.audio/)  
+
+
+# AI CONTENT GENERATORS
+1. Video generator: https://www.genmo.ai/
+2. All: https://www.hedra.com/
+3. Video: https://ai.invideo.io
+4. Video: https://dream-machine.lumalabs.ai/
+5. Video: https://app.pixverse.ai
+6. Video: https://openai.com/sora/
+7. All: https://openai.com/sora/
+8. All: https://klingai.com/
+9. All: https://www.immersity.ai/
+10. Film: https://ltx.studio/
+11. Film: https://www.skyreels.ai
+12. Video Characters: https://www.d-id.com/
+13. Video: https://www.veed.io/
+
 
 ---
 
