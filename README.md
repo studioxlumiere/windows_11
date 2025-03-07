@@ -1,3 +1,5 @@
+Notes: Automation Centric / Desktop, Cloud, Autonomous
+
 # Windows 11 Environment  
 1. **Install and Configure a Fresh Copy of Windows 10/11**: Set up a clean installation or upgrade. - [Download Windows 10](https://www.microsoft.com/software-download/windows10) | [Download Windows 11](https://www.microsoft.com/software-download/windows11) (Serial: `W62VF-DNQ6W-9TB43-HRVGV-YY49F`)  
 
@@ -80,7 +82,10 @@
 
 # Work  
 1. **Install Airbnb (Web Catalogue)**: Access Airbnb via the Web Catalogue app. - [Download Web Catalogue](https://webcatalog.io/)  
-2. **Business Process Simulator**: Simulate and optimize business processes. - [Visit BPSimulator](https://www.bpsimulator.com)  
+2. **Business Process Simulator**: Simulate and optimize business processes. - [Visit BPSimulator](https://www.bpsimulator.com)
+
+# PROPERTY MANAGEMENT
+1. Host Sharing: https://www.hostshare.co/
 
 # Communication  
 1. **Email: Thunderbird**: Connect email accounts and calendars. - [Download Thunderbird](https://www.thunderbird.net/)  
