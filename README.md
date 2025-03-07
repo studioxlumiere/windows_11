@@ -33,6 +33,11 @@
 1. **Project Management: Clickup**: All-in-one project management tool. - [Visit Clickup](https://www.clickup.com/)
 2. Proton Apps: https://account.proton.me/apps
 
+# LIFE
+1. Timeline: https://time.graphics
+2. Geneology: https://www.ancestry.com/
+4. Geneology: https://www.mori.co/
+
 ---
 
 # Gaming  
@@ -49,7 +54,9 @@
 4. **Install Google Drive**: Cloud storage and file synchronization. - [Download Google Drive](https://www.google.com/drive/)  
 5. **Install Web Catalogue**: Organize and access web apps. - [Download Web Catalogue](https://webcatalog.io/)  
 6. **Spotify Web**: Music streaming app. - [Open Spotify](https://open.spotify.com/)  
-7. **Raindrop.io**: Bookmark manager and organizer. - [Visit Raindrop](https://raindrop.io/)  
+7. **Raindrop.io**: Bookmark manager and organizer. - [Visit Raindrop](https://raindrop.io/)
+8. Cloud Catloging: https://www.mori.co/
+9. Maps: https://www.google.com/mymaps/
 
 ---
 
@@ -207,6 +214,8 @@
 # PHOTOGRAPHY
 1. Photo Generation: https://photoai.com/
 
+# VIDEO
+1. Screen Writing: https://www.arcstudiopro.com/
 
 ---
 
