@@ -10,7 +10,7 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 4. **Chris Windows Debloat**: Optimize and debloat Windows. - [Chris Windows Debloat](https://github.com/ChrisTitusTech/winutil) - Run: `irm "https://christitus.com/win" | iex`
 5. Encryption: https://www.veracrypt.fr
 
-# Windows Tasks  
+# WINDOWS  TASKS  
 1. **System File Checker**: Scan and repair corrupted system files. - Run: `sfc /scannow` in Command Prompt.  
 2. **DISM Command**: Repair Windows image. - Run: `DISM /Online /Cleanup-Image /RestoreHealth` in Command Prompt.  
 3. **Activate Windows Security Systems**: Enable built-in security features.  
@@ -21,25 +21,25 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 8. **Create Shared Drives & Network**: Set up shared drives and network access.  
 9. **Create Remote Network**: Set up remote access to your network.  
 
-#PERSONAL
+# PERSONAL
 1. Carrd: https://mariomorgan.carrd.co/
 
-# Network  
+# NETWORK  
 1. **Zyxel Router**: Access: `http://10.0.0.2/login/login.html` - User: `Admin` / Pass: `Admin`
 
 # HOME
-1.  Security  Cameras: https://ieu.hik-connect.com // * Live * //
-2.  Google Home: https://home.google.com // * Live * //
+1. Security  Cameras: https://ieu.hik-connect.com // * Live * //
+2. Google Home: https://home.google.com // * Live * //
 
-# Live // Split Screen
-1.  Emergency  & Disaster: https://rsoe-edis.org/eventmap
-2.  Conflict Tracker: https://www.cfr.org/global-conflict-tracker
-3.  Disaster ALerts: https://disasteralert.pdc.org/disasteralert/
+# LIVE // SPLIT SCREEN
+1. Emergency  & Disaster: https://rsoe-edis.org/eventmap
+2. Conflict Tracker: https://www.cfr.org/global-conflict-tracker
+3. Disaster ALerts: https://disasteralert.pdc.org/disasteralert/
 
-# Security
+# SECURITY
 1. Network  Mapper: https://www.cellmapper.net
 
-# Admin  
+# ADMIN  
 1. **Project Management: Clickup**: All-in-one project management tool. - [Visit Clickup](https://www.clickup.com/)
 2. Proton Apps: https://account.proton.me/apps
 3. Password Management: bitwarden.com
@@ -48,6 +48,12 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 1. Business Hub: https://www.govchain.co.za/
 2. Trademarks & Patents: https://righthub.com/ - Patents, Trademarks and Designs all in one place.
 3. Proffesional Networking: https://intch.org/
+
+# FINANCE
+1. Banking: [22seven.com](https://www.vault22.io)
+2. Accounting: waveapps.com
+3. Accounting: xero.com
+4. Reciepts: sparkreceipt.com
 
 # DOCUMENTS
 1. Tool: https://www.ilovepdf.com/
@@ -81,12 +87,14 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 10. Cloud Storage: https://icedrive.net
 11. Maps: https://earth.google.com
 
-# Work  
+# WORK  
 1. **Install Airbnb (Web Catalogue)**: Access Airbnb via the Web Catalogue app. - [Download Web Catalogue](https://webcatalog.io/)  
 2. **Business Process Simulator**: Simulate and optimize business processes. - [Visit BPSimulator](https://www.bpsimulator.com)
 
 # PROPERTY MANAGEMENT
 1. Host Sharing: https://www.hostshare.co/
+2. Accommodation: https://www.lekkeslaap.co.za
+3. Accommodation Analysis: https://airbtics.com/ - Short Term Rental Market Intelligence
 
 # Communication  
 1. **Email: Thunderbird**: Connect email accounts and calendars. - [Download Thunderbird](https://www.thunderbird.net/)  
@@ -144,10 +152,15 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 20. **Cursor**: AI-powered code editor. - [Visit Cursor](https://www.cursor.com/)  
 21. **Pipedream**: API integration platform. - [Visit Pipedream](https://pipedream.com/)
 22. GPT: https://aistudio.google.com
-23. Cloud Computing: https://colab.google/ 
+
+#  CLoud Computing
+24. Google Colab: https://colab.google/
+25. Oracle  Cloud: [Cloud Computing](https://www.oracle.com/cloud)
 
 # Web Development  
-1. **Webflow**: Visual web development platform. - [Visit Webflow](https://webflow.com/)  
+1. **Webflow**: Visual web development platform. - [Visit Webflow](https://webflow.com/)
+2. App Builder:  flutterflow.io
+3. App Builder: https://www.codux.com/
 
 # Ai Tools
 1. Scraper: https://www.browse.ai/
