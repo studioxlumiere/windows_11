@@ -124,6 +124,9 @@
 
 ---
 
+# Ai Tools
+1. Scraper: https://www.browse.ai/
+
 # AI LLMs  
 1. **Ollama**: Run Llama 3.3, DeepSeek-R1, Phi-4, Mistral, Gemma 2, and other models locally. - [Visit Ollama](https://ollama.com/)  
 
