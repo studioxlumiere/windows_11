@@ -98,12 +98,15 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 7. Email: https://mail.google.com
 
 # Prototyping  
-1. **Figma**: Collaborative design and prototyping tool. - [Visit Figma](https://www.figma.com/)  
+1. **Figma**: Collaborative design and prototyping tool. - [Visit Figma](https://www.figma.com/)
+2. Prototyping: https://app.quant-ux.com
 
 # Design  
 1. **Affinity Designer**: Professional graphic design software. - [Download Affinity Designer](https://affinity.serif.com/designer/)  
 2. **Affinity Publisher**: Professional publishing software. - [Download Affinity Publisher](https://affinity.serif.com/publisher/)  
-3. **Install SeaArt.ai (Web Catalogue)**: AI-powered art and design tool. - [Download Web Catalogue](https://webcatalog.io/)  
+3. **Install SeaArt.ai (Web Catalogue)**: AI-powered art and design tool. - [Download Web Catalogue](https://webcatalog.io/)
+4. Assets: https://www.pixelbin.io/
+5. Assets: https://designlobby.app/
 
 # Notes & Research  
 1. **Windows Notepad**: Built-in text editor for quick notes.  
@@ -206,18 +209,23 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 29. Image Generation: https://www.basedlabs.ai/
 30. Image Tools: https://dgb.lol/
 31. image Generation: https://openart.ai
+32. All: https://kive.ai/
 
 # DESIGN
 1. Vectorizer: https://vectorizer.ai/
 2. Vectorizer: https://vectorart.ai/
-3. Patterns: https://www.patterned.ai/
-4. Design Generator: https://playground.com/
+3. Vectorizer: https://imgvector.com/
+4. Patterns: https://www.patterned.ai/
+5. Design Generator: https://playground.com/
 
 # PHOTOGRAPHY
 1. Photo Generation: https://photoai.com/
 
 # VIDEO
 1. Screen Writing: https://www.arcstudiopro.com/
+2. Cloud Sync: cloud.blackmagicdesign.co
+3. Video Broadcasting: https://obsproject.com/
+4. Streaming: https://streamlabs.com/
 
 # AI Agents  
 1. **Make.com**: Automation platform for workflows. - [Visit Make](https://make.com/)  
