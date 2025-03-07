@@ -57,6 +57,11 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 3. Accounting: xero.com
 4. Reciepts: sparkreceipt.com
 
+# Retail
+1. On Demand Printing: https://www.printful.com/
+2. Online Marketplace: https://www.etsy.com
+3. Online Store: shopify.com
+
 # DOCUMENTS
 1. Tool: https://www.ilovepdf.com/
 2. Tools: https://www.thetoolbus.ai/
@@ -186,6 +191,7 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 3. App Builder: https://www.codux.com/
 4. Web Hosting: https://www.infinityfree.com/
 5. Web Hosting: https://www.hostinger.com
+6. Website Builder: https://www.wix.com/
 
 # Ai Tools
 1. Scraper: https://www.browse.ai/
