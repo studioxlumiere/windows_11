@@ -145,6 +145,7 @@
 2. Gemini: https://gemini.google.com/
 3. MEta: https://www.meta.ai/
 4. Grok: https://grok.com/
+5. ChatGPT: https://chatgpt.com/
 
 ---
 
