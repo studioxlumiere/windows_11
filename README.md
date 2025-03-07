@@ -115,7 +115,8 @@
 18. **Arweave**: Decentralized storage for permanent data archiving. - [Learn More](https://arweave.org/)  
 19. **LambdaTest**: Testing web apps. - [Learn More](https://www.lambdatest.com/)  
 20. **Cursor**: AI-powered code editor. - [Visit Cursor](https://www.cursor.com/)  
-21. **Pipedream**: API integration platform. - [Visit Pipedream](https://pipedream.com/)  
+21. **Pipedream**: API integration platform. - [Visit Pipedream](https://pipedream.com/)
+22. 2. GPT: https://aistudio.google.com
 
 ---
 
@@ -126,6 +127,7 @@
 
 # Ai Tools
 1. Scraper: https://www.browse.ai/
+
 
 # AI LLMs  
 1. **Ollama**: Run Llama 3.3, DeepSeek-R1, Phi-4, Mistral, Gemma 2, and other models locally. - [Visit Ollama](https://ollama.com/)  
@@ -138,7 +140,8 @@
 ---
 
 # AI GPTs  
-1. **Install Deepseek (Web Catalogue)**: AI tool for advanced tasks and automation. - [Download Web Catalogue](https://webcatalog.io/)  
+1. **Install Deepseek (Web Catalogue)**: AI tool for advanced tasks and automation. - [Download Web Catalogue](https://webcatalog.io/)
+2. Gemini: https://gemini.google.com/
 
 ---
 
