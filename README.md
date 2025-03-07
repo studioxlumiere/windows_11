@@ -177,6 +177,20 @@
 13. Video: https://www.veed.io/
 14. All: https://arvin.chat/
 15. Image & 3d Model Creation: https://cgdream.ai/
+16. All: https://clipdrop.co/
+17. All: https://www.cutout.pro/
+18. All: https://getimg.ai/
+19. All: https://www.eluna.ai/
+20. Image Generation: https://www.krea.ai/
+21. All: https://runwayml.com/
+22. Image & Video Enhancer: https://tensorpix.ai/
+23. Image Generation: https://impossibleimages.ai/
+24. Image generation: https://civitai.com/
+25. Image generation: https://lexica.art/
+
+# DESIGN
+1. Vectorizer: https://vectorizer.ai/
+2. Vectorizer: https://vectorart.ai/
 
 
 ---
