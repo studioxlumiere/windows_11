@@ -156,6 +156,8 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 22. **Cursor**: AI-powered code editor. - [Visit Cursor](https://www.cursor.com/)  
 23. **Pipedream**: API integration platform. - [Visit Pipedream](https://pipedream.com/)
 24. GPT: https://aistudio.google.com
+25. Android Development: https://developer.android.com/
+26. Databases: [https://developer.android.com/](https://www.mysql.com/)
 
 #  CLoud Computing
 24. Google Colab: https://colab.google/
@@ -177,6 +179,9 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 1. Scraper: https://www.browse.ai/
 2. Transcription: https://www.cockatoo.com/
 3. Legal: [https://www.veed.io/](https://ailawyer.pro/)
+4. AI Training: https://gymnasium.farama.org/
+5. AI Model Creation: https://www.tensorflow.org/
+6. AI Creation and Training: https://platform.openai.com
 
 # AI 3D
 1. Model Creation: https://hyper3d.ai/
