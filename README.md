@@ -52,6 +52,15 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 2. Trademarks & Patents: https://righthub.com/ - Patents, Trademarks and Designs all in one place.
 3. Proffesional Networking: https://intch.org/
 4. Data & Lead Scraper: https://phantombuster.com/
+5. Business & Lead Connections: https://www.lusha.com/
+6. Business & Lead Connections: https://www.f6s.com/
+7. Service Providers: https://www.sortlist.com/
+8. Data: https://www.statista.com/
+
+# Data
+1. World Bank: https://data.worldbank.org/
+2. Humdata: https://data.humdata.org/
+3. Statista: https://www.statista.com/
 
 # FINANCE
 1. Banking: [22seven.com](https://www.vault22.io)
