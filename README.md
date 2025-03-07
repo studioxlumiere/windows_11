@@ -300,6 +300,13 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 
 # MUSIC
 1. Playlist Transfer: https://www.tunemymusic.com/
+2. DJ Software: https://mixxx.org/
+3. Sound Engineering: https://www.landr.com/
+4. Sample Library: https://samplefocus.com/
+5. Cloud DAW: https://ampedstudio.com
+6. Remote Production: https://www.source-elements.com/
+7. Cloud DAW: https://www.audiotool.com/
+8. Cloud Production: https://boombox.io/
 
 # PHOTOGRAPHY
 1. Photo Generation: https://photoai.com/
