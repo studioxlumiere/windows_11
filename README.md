@@ -137,24 +137,25 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 3. **Github Codespaces**: Cloud-based development environments. - [Learn More](https://github.com/features/codespaces) - *Cloud Version*: [Github Codespaces](https://github.com/codespaces)  
 4. **Github Actions**: Automates builds, tests, and deployments. - [Learn More](https://github.com/features/actions)
 5. Github Pages: https://pages.github.com/
-6. **Visual Studio Code**: Lightweight, extensible code editor. - [Download](https://code.visualstudio.com/)  
-7. **Supabase**: Open-source Firebase alternative. - [Learn More](https://supabase.com/) - *Cloud Version*: [Supabase](https://supabase.com/)  
-8. **Docker**: Containerization platform for building and deploying apps. - [Download](https://www.docker.com/)  
-9. **StackBlitz**: Online IDE for web development. - [Visit](https://stackblitz.com/) - *Cloud Version*: [StackBlitz](https://stackblitz.com/)  
-10. **Gist**: Share and save code snippets. - [Visit](https://gist.github.com/) - *Cloud Version*: [Gist](https://gist.github.com/)  
-11. **Tailwind CSS**: Utility-first CSS framework for rapid UI development. - [Learn More](https://tailwindcss.com/)  
-12. **Vercel**: Platform for deploying and hosting frontend applications. - [Visit](https://vercel.com/)  
-13. **Node.JS**: JavaScript runtime for building server-side applications. - [Download](https://nodejs.org/)  
-14. **Next.JS**: React framework for server-rendered and static websites. - [Learn More](https://nextjs.org/)  
-15. **Sentry**: Tracks and fixes errors in real-time. - [Learn More](https://sentry.io/)  
-16. **New Relic**: Monitors application performance and infrastructure. - [Learn More](https://newrelic.com/)  
-17. **Bolt.new**: AI-powered coding assistant for faster development. - [Visit](https://bolt.new/) - *Can Install Locally*: [Bolt DIY](https://github.com/stackblitz-labs/bolt.diy)  
-18. **Fleek**: Builds and deploys decentralized apps and AI agents. - [Learn More](https://fleek.xyz/)  
-19. **Arweave**: Decentralized storage for permanent data archiving. - [Learn More](https://arweave.org/)  
-20. **LambdaTest**: Testing web apps. - [Learn More](https://www.lambdatest.com/)  
-21. **Cursor**: AI-powered code editor. - [Visit Cursor](https://www.cursor.com/)  
-22. **Pipedream**: API integration platform. - [Visit Pipedream](https://pipedream.com/)
-23. GPT: https://aistudio.google.com
+6. Git: https://git-scm.com/
+7. **Visual Studio Code**: Lightweight, extensible code editor. - [Download](https://code.visualstudio.com/)  
+8. **Supabase**: Open-source Firebase alternative. - [Learn More](https://supabase.com/) - *Cloud Version*: [Supabase](https://supabase.com/)  
+9. **Docker**: Containerization platform for building and deploying apps. - [Download](https://www.docker.com/)  
+10. **StackBlitz**: Online IDE for web development. - [Visit](https://stackblitz.com/) - *Cloud Version*: [StackBlitz](https://stackblitz.com/)  
+11. **Gist**: Share and save code snippets. - [Visit](https://gist.github.com/) - *Cloud Version*: [Gist](https://gist.github.com/)  
+12. **Tailwind CSS**: Utility-first CSS framework for rapid UI development. - [Learn More](https://tailwindcss.com/)  
+13. **Vercel**: Platform for deploying and hosting frontend applications. - [Visit](https://vercel.com/)  
+14. **Node.JS**: JavaScript runtime for building server-side applications. - [Download](https://nodejs.org/)  
+15. **Next.JS**: React framework for server-rendered and static websites. - [Learn More](https://nextjs.org/)  
+16. **Sentry**: Tracks and fixes errors in real-time. - [Learn More](https://sentry.io/)  
+17. **New Relic**: Monitors application performance and infrastructure. - [Learn More](https://newrelic.com/)  
+18. **Bolt.new**: AI-powered coding assistant for faster development. - [Visit](https://bolt.new/) - *Can Install Locally*: [Bolt DIY](https://github.com/stackblitz-labs/bolt.diy)  
+19. **Fleek**: Builds and deploys decentralized apps and AI agents. - [Learn More](https://fleek.xyz/)  
+20. **Arweave**: Decentralized storage for permanent data archiving. - [Learn More](https://arweave.org/)  
+21. **LambdaTest**: Testing web apps. - [Learn More](https://www.lambdatest.com/)  
+22. **Cursor**: AI-powered code editor. - [Visit Cursor](https://www.cursor.com/)  
+23. **Pipedream**: API integration platform. - [Visit Pipedream](https://pipedream.com/)
+24. GPT: https://aistudio.google.com
 
 #  CLoud Computing
 24. Google Colab: https://colab.google/
@@ -163,6 +164,7 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 27. Linode: https://www.linode.com/
 28. Pomerium: https://www.pomerium.com/
 29. Tailscale: https://tailscale.com/
+30. Anaconda: https://www.anaconda.com
 
 # Web Development  
 1. **Webflow**: Visual web development platform. - [Visit Webflow](https://webflow.com/)
