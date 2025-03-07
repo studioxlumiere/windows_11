@@ -47,6 +47,7 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 # BUSINESS
 1. Business Hub: https://www.govchain.co.za/
 2. Trademarks & Patents: https://righthub.com/ - Patents, Trademarks and Designs all in one place.
+3. Proffesional Networking: https://intch.org/
 
 # DOCUMENTS
 1. Tool: https://www.ilovepdf.com/
