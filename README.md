@@ -295,15 +295,27 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 3. Vectorizer: https://imgvector.com/
 4. Patterns: https://www.patterned.ai/
 5. Design Generator: https://playground.com/
+6. Stock Design, Photo & Video: https://www.vecteezy.com
+7. Stock Photo & Video: https://www.pexels.com
+
+# MUSIC
+1. Playlist Transfer: https://www.tunemymusic.com/
 
 # PHOTOGRAPHY
 1. Photo Generation: https://photoai.com/
+2. Photo Editor: https://www.fotor.com/
 
 # VIDEO
 1. Screen Writing: https://www.arcstudiopro.com/
 2. Cloud Sync: cloud.blackmagicdesign.co
 3. Video Broadcasting: https://obsproject.com/
 4. Streaming: https://streamlabs.com/
+5. Stock Video: https://www.videvo.net
+6. Stock Photo & Video: https://pixabay.com
+7. Video Tools: https://clideo.com/
+8. Video Editor: https://flixier.com/
+9. Video Editor: https://www.capcut.com/
+10. Film Inspiration: https://shot.cafe/
 
 # AI Agents  
 1. **Make.com**: Automation platform for workflows. - [Visit Make](https://make.com/)  
