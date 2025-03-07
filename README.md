@@ -38,6 +38,7 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 
 # SECURITY
 1. Network  Mapper: https://www.cellmapper.net
+2. Network Security: [https://www.blackbox.ai/](https://www.netmaker.io/)
 
 # ADMIN  
 1. **Project Management: Clickup**: All-in-one project management tool. - [Visit Clickup](https://www.clickup.com/)
@@ -133,25 +134,26 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 1. **Github Desktop**: GUI for managing Git repositories. - [Download](https://desktop.github.com/)  
 2. **Github CoPilot**: AI-powered code completion tool. - [Learn More](https://copilot.github.com/) - *Cloud Version*: [Github CoPilot](https://github.com/copilot)  
 3. **Github Codespaces**: Cloud-based development environments. - [Learn More](https://github.com/features/codespaces) - *Cloud Version*: [Github Codespaces](https://github.com/codespaces)  
-4. **Github Actions**: Automates builds, tests, and deployments. - [Learn More](https://github.com/features/actions)  
-5. **Visual Studio Code**: Lightweight, extensible code editor. - [Download](https://code.visualstudio.com/)  
-6. **Supabase**: Open-source Firebase alternative. - [Learn More](https://supabase.com/) - *Cloud Version*: [Supabase](https://supabase.com/)  
-7. **Docker**: Containerization platform for building and deploying apps. - [Download](https://www.docker.com/)  
-8. **StackBlitz**: Online IDE for web development. - [Visit](https://stackblitz.com/) - *Cloud Version*: [StackBlitz](https://stackblitz.com/)  
-9. **Gist**: Share and save code snippets. - [Visit](https://gist.github.com/) - *Cloud Version*: [Gist](https://gist.github.com/)  
-10. **Tailwind CSS**: Utility-first CSS framework for rapid UI development. - [Learn More](https://tailwindcss.com/)  
-11. **Vercel**: Platform for deploying and hosting frontend applications. - [Visit](https://vercel.com/)  
-12. **Node.JS**: JavaScript runtime for building server-side applications. - [Download](https://nodejs.org/)  
-13. **Next.JS**: React framework for server-rendered and static websites. - [Learn More](https://nextjs.org/)  
-14. **Sentry**: Tracks and fixes errors in real-time. - [Learn More](https://sentry.io/)  
-15. **New Relic**: Monitors application performance and infrastructure. - [Learn More](https://newrelic.com/)  
-16. **Bolt.new**: AI-powered coding assistant for faster development. - [Visit](https://bolt.new/) - *Can Install Locally*: [Bolt DIY](https://github.com/stackblitz-labs/bolt.diy)  
-17. **Fleek**: Builds and deploys decentralized apps and AI agents. - [Learn More](https://fleek.xyz/)  
-18. **Arweave**: Decentralized storage for permanent data archiving. - [Learn More](https://arweave.org/)  
-19. **LambdaTest**: Testing web apps. - [Learn More](https://www.lambdatest.com/)  
-20. **Cursor**: AI-powered code editor. - [Visit Cursor](https://www.cursor.com/)  
-21. **Pipedream**: API integration platform. - [Visit Pipedream](https://pipedream.com/)
-22. GPT: https://aistudio.google.com
+4. **Github Actions**: Automates builds, tests, and deployments. - [Learn More](https://github.com/features/actions)
+5. Github Pages: https://pages.github.com/
+6. **Visual Studio Code**: Lightweight, extensible code editor. - [Download](https://code.visualstudio.com/)  
+7. **Supabase**: Open-source Firebase alternative. - [Learn More](https://supabase.com/) - *Cloud Version*: [Supabase](https://supabase.com/)  
+8. **Docker**: Containerization platform for building and deploying apps. - [Download](https://www.docker.com/)  
+9. **StackBlitz**: Online IDE for web development. - [Visit](https://stackblitz.com/) - *Cloud Version*: [StackBlitz](https://stackblitz.com/)  
+10. **Gist**: Share and save code snippets. - [Visit](https://gist.github.com/) - *Cloud Version*: [Gist](https://gist.github.com/)  
+11. **Tailwind CSS**: Utility-first CSS framework for rapid UI development. - [Learn More](https://tailwindcss.com/)  
+12. **Vercel**: Platform for deploying and hosting frontend applications. - [Visit](https://vercel.com/)  
+13. **Node.JS**: JavaScript runtime for building server-side applications. - [Download](https://nodejs.org/)  
+14. **Next.JS**: React framework for server-rendered and static websites. - [Learn More](https://nextjs.org/)  
+15. **Sentry**: Tracks and fixes errors in real-time. - [Learn More](https://sentry.io/)  
+16. **New Relic**: Monitors application performance and infrastructure. - [Learn More](https://newrelic.com/)  
+17. **Bolt.new**: AI-powered coding assistant for faster development. - [Visit](https://bolt.new/) - *Can Install Locally*: [Bolt DIY](https://github.com/stackblitz-labs/bolt.diy)  
+18. **Fleek**: Builds and deploys decentralized apps and AI agents. - [Learn More](https://fleek.xyz/)  
+19. **Arweave**: Decentralized storage for permanent data archiving. - [Learn More](https://arweave.org/)  
+20. **LambdaTest**: Testing web apps. - [Learn More](https://www.lambdatest.com/)  
+21. **Cursor**: AI-powered code editor. - [Visit Cursor](https://www.cursor.com/)  
+22. **Pipedream**: API integration platform. - [Visit Pipedream](https://pipedream.com/)
+23. GPT: https://aistudio.google.com
 
 #  CLoud Computing
 24. Google Colab: https://colab.google/
@@ -161,6 +163,8 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 1. **Webflow**: Visual web development platform. - [Visit Webflow](https://webflow.com/)
 2. App Builder:  flutterflow.io
 3. App Builder: https://www.codux.com/
+4. Web Hosting: https://www.infinityfree.com/
+5. Web Hosting: https://www.hostinger.com
 
 # Ai Tools
 1. Scraper: https://www.browse.ai/
@@ -186,6 +190,7 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 4. Grok: https://grok.com/
 5. ChatGPT: https://chatgpt.com/
 6. Deepseek: https://chat.deepseek.com
+7. Blackbox: https://www.blackbox.ai/
 
 # AI Voice  
 1. **Fish Audio**: Voice cloning, voice library, voiceover, and more. - [Visit Fish Audio](https://fish.audio/)  
