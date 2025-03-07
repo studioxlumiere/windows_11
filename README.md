@@ -132,6 +132,10 @@
 2. Transcription: https://www.cockatoo.com/
 3. Legal: [https://www.veed.io/](https://ailawyer.pro/)
 
+# AI 3D
+1. Model Creation: https://hyper3d.ai/
+2. Model Creation: https://www.meshy.ai/
+3. Unity Cloud: https://cloud.unity.com
 
 # AI LLMs  
 1. **Ollama**: Run Llama 3.3, DeepSeek-R1, Phi-4, Mistral, Gemma 2, and other models locally. - [Visit Ollama](https://ollama.com/)  
@@ -172,6 +176,7 @@
 12. Video Characters: https://www.d-id.com/
 13. Video: https://www.veed.io/
 14. All: https://arvin.chat/
+15. Image & 3d Model Creation: https://cgdream.ai/
 
 
 ---
