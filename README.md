@@ -205,6 +205,7 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 25. Android Development: https://developer.android.com/
 26. Databases: [https://developer.android.com/](https://www.mysql.com/)
 27. Electron: Cross Platform HTML, CSS, JAVASCRIPT Desktop Apps: https://www.electronjs.org/
+28. AI APIs: https://replicate.com
 
 #  CLoud Computing
 24. Google Colab: https://colab.google/
@@ -297,6 +298,8 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 5. Design Generator: https://playground.com/
 6. Stock Design, Photo & Video: https://www.vecteezy.com
 7. Stock Photo & Video: https://www.pexels.com
+8. Image Upscaler: https://imgupscaler.com
+9. Image Tools: https://magnific.ai/
 
 # MUSIC
 1. Playlist Transfer: https://www.tunemymusic.com/
@@ -316,6 +319,15 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 5. Photo Scaler: https://github.com/Djdefrag/QualityScaler
 6. Photo Tools: https://picma.magictiger.ai/
 7. Photo & Video Enhancer: https://app.remini.ai/
+8. Photo Metadata: https://exif.photos/
+9. Photo Metadata: https://www.metadata2go.com/
+10. Photo Metadata: https://jimpl.com
+11. Photo Metadata: https://imagemetadatachecker.com
+12. Photo Geo & Metadata: https://www.geocords.com/
+13. Photo Geolocation: https://picarta.ai/
+14. Photo Tools: https://picwish.com/
+15. Contact SHeets: https://www.contactsheetmaker.com/
+16. Photo & Video Enhancer: https://www.topazlabs.com/
 
 # VIDEO
 1. Screen Writing: https://www.arcstudiopro.com/
