@@ -111,10 +111,16 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 1. **Figma**: Collaborative design and prototyping tool. - [Visit Figma](https://www.figma.com/)
 2. Prototyping: https://app.quant-ux.com
 
+# Unix
+1. Compositor: https://hyprland.org/
+
 # Electronics
 1. Arduino: https://www.arduino.cc
 2. Electronic User Interfaces: [https://www.arduino.cc/](https://electricui.com/)
 3. Design & Development: https://www.qt.io/
+4. UI Library: https://lvgl.io/
+5. Interface Design & Development: https://squareline.io/
+6. Tinkercad: https://www.tinkercad.com
 
 # Design  
 1. **Affinity Designer**: Professional graphic design software. - [Download Affinity Designer](https://affinity.serif.com/designer/)  
@@ -268,6 +274,7 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 2. **n8n.io**: Open-source workflow automation tool. - [Visit n8n](https://n8n.io/)  
 3. **Vapi.ai**: Voice AI platform for building voice assistants. - [Visit Vapi](https://vapi.ai/)
 4. AutoGPT: https://github.com/Significant-Gravitas/AutoGPT
+5. DialogueFlow: [dialogflow](https://dialogflow.cloud.google.com)
 
 # Car Management  
 1. **Driver Technologies**: AI-powered driver assistance. - [Visit Driver Technologies](https://drivertechnologies.com/)  
