@@ -63,12 +63,18 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 3. Statista: https://www.statista.com/
 4. WHO: https://www.who.int/
 5. OECD: https://www.oecd.org/
+6. https://www.worldometers.info/
+7. Data Commons: https://datacommons.org/
+8. DHS: https://dhsprogram.com/
 
 # FINANCE
 1. Banking: [22seven.com](https://www.vault22.io)
 2. Accounting: waveapps.com
 3. Accounting: xero.com
 4. Reciepts: sparkreceipt.com
+
+# Trading
+1. Financial Data: https://tradingeconomics.com/
 
 # Retail
 1. On Demand Printing: https://www.printful.com/
