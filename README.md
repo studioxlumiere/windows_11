@@ -30,7 +30,8 @@
 ---
 
 # Admin  
-1. **Project Management: Clickup**: All-in-one project management tool. - [Visit Clickup](https://www.clickup.com/)  
+1. **Project Management: Clickup**: All-in-one project management tool. - [Visit Clickup](https://www.clickup.com/)
+2. Proton Apps: https://account.proton.me/apps
 
 ---
 
@@ -61,8 +62,11 @@
 # Communication  
 1. **Email: Thunderbird**: Connect email accounts and calendars. - [Download Thunderbird](https://www.thunderbird.net/)  
 2. **Proton Mail (Web Catalogue)**: Secure email service. - [Download Web Catalogue](https://webcatalog.io/)  
-3. **Install WhatsApp Desktop**: Desktop version of WhatsApp. - [Download WhatsApp](https://www.whatsapp.com/download)  
-4. **Shortwave**: Email client with AI-powered features. - [Visit Shortwave](https://app.shortwave.com/)  
+3. **Install WhatsApp Desktop**: Desktop version of WhatsApp. - [Download WhatsApp](https://www.whatsapp.com/download)  // * Cloud Version - https://web.whatsapp.com/ * //
+4. **Shortwave**: Email client with AI-powered features. - [Visit Shortwave](https://app.shortwave.com/)
+5. Google Messages: https://messages.google.com
+6. Contacts: contactsplus.com
+7. Email: https://mail.google.com
 
 ---
 
