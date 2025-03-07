@@ -142,6 +142,7 @@
 # AI GPTs  
 1. **Install Deepseek (Web Catalogue)**: AI tool for advanced tasks and automation. - [Download Web Catalogue](https://webcatalog.io/)
 2. Gemini: https://gemini.google.com/
+3. MEta: https://www.meta.ai/
 
 ---
 
