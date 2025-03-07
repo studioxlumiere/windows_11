@@ -27,6 +27,12 @@
 # Network  
 1. **Zyxel Router**: Access: `http://10.0.0.2/login/login.html` - User: `Admin` / Pass: `Admin`  
 
+
+# Live // Split Screen
+1.  Emergency  & Disaster: https://rsoe-edis.org/eventmap
+2.  Conflict Tracker: https://www.cfr.org/global-conflict-tracker
+3.  Disaster ALerts: https://disasteralert.pdc.org/disasteralert/
+
 ---
 
 # Admin  
