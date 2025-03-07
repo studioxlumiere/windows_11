@@ -311,6 +311,11 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 # PHOTOGRAPHY
 1. Photo Generation: https://photoai.com/
 2. Photo Editor: https://www.fotor.com/
+3. Image Organization: https://edenphotos.io/
+4. Photo Tools: https://www.pica-ai.com/
+5. Photo Scaler: https://github.com/Djdefrag/QualityScaler
+6. Photo Tools: https://picma.magictiger.ai/
+7. Photo & Video Enhancer: https://app.remini.ai/
 
 # VIDEO
 1. Screen Writing: https://www.arcstudiopro.com/
