@@ -187,10 +187,17 @@
 23. Image Generation: https://impossibleimages.ai/
 24. Image generation: https://civitai.com/
 25. Image generation: https://lexica.art/
+26. Image Generation: https://www.seaart.ai/
+27. Image Generation: https://www.imagine.art/
 
 # DESIGN
 1. Vectorizer: https://vectorizer.ai/
 2. Vectorizer: https://vectorart.ai/
+3. Patterns: https://www.patterned.ai/
+4. Design Generator: https://playground.com/
+
+# PHOTOGRAPHY
+1. Photo Generation: https://photoai.com/
 
 
 ---
