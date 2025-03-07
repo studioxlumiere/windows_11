@@ -138,7 +138,7 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 4. **Github Actions**: Automates builds, tests, and deployments. - [Learn More](https://github.com/features/actions)
 5. Github Pages: https://pages.github.com/
 6. Git: https://git-scm.com/
-7. **Visual Studio Code**: Lightweight, extensible code editor. - [Download](https://code.visualstudio.com/)  
+7. **Visual Studio Code**: Lightweight, extensible code editor. - [Download](https://code.visualstudio.com/)  //  * Cloud  Version - https://vscode.dev/ * //
 8. **Supabase**: Open-source Firebase alternative. - [Learn More](https://supabase.com/) - *Cloud Version*: [Supabase](https://supabase.com/)  
 9. **Docker**: Containerization platform for building and deploying apps. - [Download](https://www.docker.com/)  
 10. **StackBlitz**: Online IDE for web development. - [Visit](https://stackblitz.com/) - *Cloud Version*: [StackBlitz](https://stackblitz.com/)  
