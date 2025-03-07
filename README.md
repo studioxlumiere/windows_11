@@ -1,16 +1,12 @@
 # Windows 11 Environment  
 1. **Install and Configure a Fresh Copy of Windows 10/11**: Set up a clean installation or upgrade. - [Download Windows 10](https://www.microsoft.com/software-download/windows10) | [Download Windows 11](https://www.microsoft.com/software-download/windows11) (Serial: `W62VF-DNQ6W-9TB43-HRVGV-YY49F`)  
 
----
-
 # Windows Tools  
 1. **Install Warp Terminal**: Modern terminal for developers. - [Download Warp](https://www.warp.dev/)  
 2. **Install Nushell**: A new shell for modern systems. - [Download Nushell](https://www.nushell.sh/)  
 3. **Install Glasswire**: Monitor network activity and security. - [Download Glasswire](https://www.glasswire.com/)  
 4. **Chris Windows Debloat**: Optimize and debloat Windows. - [Chris Windows Debloat](https://github.com/ChrisTitusTech/winutil) - Run: `irm "https://christitus.com/win" | iex`
 5. Encryption: https://www.veracrypt.fr
-
----
 
 # Windows Tasks  
 1. **System File Checker**: Scan and repair corrupted system files. - Run: `sfc /scannow` in Command Prompt.  
@@ -23,7 +19,8 @@
 8. **Create Shared Drives & Network**: Set up shared drives and network access.  
 9. **Create Remote Network**: Set up remote access to your network.  
 
----
+#PERSONAL
+1. Carrd: https://mariomorgan.carrd.co/
 
 # Network  
 1. **Zyxel Router**: Access: `http://10.0.0.2/login/login.html` - User: `Admin` / Pass: `Admin`
@@ -32,7 +29,6 @@
 1.  Security  Cameras: https://ieu.hik-connect.com // * Live * //
 2.  Google Home: https://home.google.com // * Live * //
 
-
 # Live // Split Screen
 1.  Emergency  & Disaster: https://rsoe-edis.org/eventmap
 2.  Conflict Tracker: https://www.cfr.org/global-conflict-tracker
@@ -40,8 +36,6 @@
 
 # Security
 1. Network  Mapper: https://www.cellmapper.net
-
----
 
 # Admin  
 1. **Project Management: Clickup**: All-in-one project management tool. - [Visit Clickup](https://www.clickup.com/)
@@ -66,14 +60,10 @@
 2. Geneology: https://www.ancestry.com/
 4. Geneology: https://www.mori.co/
 
----
-
 # Gaming  
 1. **Steam**: Gaming platform for PC. - [Visit Steam](https://store.steampowered.com/)  
 2. **Ubisoft**: Gaming platform for Ubisoft games. - [Visit Ubisoft](https://www.ubisoft.com/)  
 3. **Epic Games**: Gaming platform for PC. - [Visit Epic Games](https://www.epicgames.com/store/)  
-
----
 
 # Cloud  
 1. **Install Opera**: Lightweight browser for simple use. - [Download Opera](https://www.opera.com/)  
@@ -88,13 +78,9 @@
 10. Cloud Storage: https://icedrive.net
 11. Maps: https://earth.google.com
 
----
-
 # Work  
 1. **Install Airbnb (Web Catalogue)**: Access Airbnb via the Web Catalogue app. - [Download Web Catalogue](https://webcatalog.io/)  
 2. **Business Process Simulator**: Simulate and optimize business processes. - [Visit BPSimulator](https://www.bpsimulator.com)  
-
----
 
 # Communication  
 1. **Email: Thunderbird**: Connect email accounts and calendars. - [Download Thunderbird](https://www.thunderbird.net/)  
@@ -105,19 +91,13 @@
 6. Contacts: contactsplus.com
 7. Email: https://mail.google.com
 
----
-
 # Prototyping  
 1. **Figma**: Collaborative design and prototyping tool. - [Visit Figma](https://www.figma.com/)  
-
----
 
 # Design  
 1. **Affinity Designer**: Professional graphic design software. - [Download Affinity Designer](https://affinity.serif.com/designer/)  
 2. **Affinity Publisher**: Professional publishing software. - [Download Affinity Publisher](https://affinity.serif.com/publisher/)  
 3. **Install SeaArt.ai (Web Catalogue)**: AI-powered art and design tool. - [Download Web Catalogue](https://webcatalog.io/)  
-
----
 
 # Notes & Research  
 1. **Windows Notepad**: Built-in text editor for quick notes.  
@@ -126,15 +106,11 @@
 4. **Julius.ai**: AI-powered data analysis and visualization tool. - [Visit Julius](https://julius.ai/)
 5. Perpelexity: https://www.perplexity.ai/ 
 
----
-
 # Mind Mapping  
 1. **Obsidian**: Create and manage mind maps. - [Download Obsidian](https://obsidian.md/)  
 2. **Milanote**: Visual collaboration tool for organizing ideas. - [Visit Milanote](https://app.milanote.com)  
 3. **Mindmap AI**: AI-powered mind mapping tool. - [Visit Mindmap AI](https://mindmapai.app/canvas)  
 4. **Whimsical**: Collaborative visual workspace. - [Visit Whimsical](https://whimsical.com)  
-
----
 
 # Coding Development Environment  
 1. **Github Desktop**: GUI for managing Git repositories. - [Download](https://desktop.github.com/)  
@@ -161,12 +137,8 @@
 22. GPT: https://aistudio.google.com
 23. Cloud Computing: https://colab.google/ 
 
----
-
 # Web Development  
 1. **Webflow**: Visual web development platform. - [Visit Webflow](https://webflow.com/)  
-
----
 
 # Ai Tools
 1. Scraper: https://www.browse.ai/
@@ -182,12 +154,8 @@
 # AI LLMs  
 1. **Ollama**: Run Llama 3.3, DeepSeek-R1, Phi-4, Mistral, Gemma 2, and other models locally. - [Visit Ollama](https://ollama.com/)  
 
----
-
 # AI Environment  
 1. **Self Operating Computer**: AI-powered automation tool for computer tasks. - [Visit Hyperwrite AI](https://www.hyperwriteai.com) | [GitHub Repository](https://github.com/OthersideAI/self-operating-computer) *(Not Free)*  
-
----
 
 # AI GPTs  
 1. **Install Deepseek (Web Catalogue)**: AI tool for advanced tasks and automation. - [Download Web Catalogue](https://webcatalog.io/)
@@ -197,11 +165,8 @@
 5. ChatGPT: https://chatgpt.com/
 6. Deepseek: https://chat.deepseek.com
 
----
-
 # AI Voice  
 1. **Fish Audio**: Voice cloning, voice library, voiceover, and more. - [Visit Fish Audio](https://fish.audio/)  
-
 
 # AI CONTENT GENERATORS
 1. Video generator: https://www.genmo.ai/
@@ -248,15 +213,11 @@
 # VIDEO
 1. Screen Writing: https://www.arcstudiopro.com/
 
----
-
 # AI Agents  
 1. **Make.com**: Automation platform for workflows. - [Visit Make](https://make.com/)  
 2. **n8n.io**: Open-source workflow automation tool. - [Visit n8n](https://n8n.io/)  
 3. **Vapi.ai**: Voice AI platform for building voice assistants. - [Visit Vapi](https://vapi.ai/)
 4. AutoGPT: https://github.com/Significant-Gravitas/AutoGPT
-
----
 
 # Car Management  
 1. **Driver Technologies**: AI-powered driver assistance. - [Visit Driver Technologies](https://drivertechnologies.com/)  
