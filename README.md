@@ -146,6 +146,7 @@
 3. MEta: https://www.meta.ai/
 4. Grok: https://grok.com/
 5. ChatGPT: https://chatgpt.com/
+6. Deepseek: https://chat.deepseek.com
 
 ---
 
