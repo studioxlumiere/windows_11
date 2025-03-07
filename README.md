@@ -40,6 +40,7 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 1. Network  Mapper: https://www.cellmapper.net
 2. Network VPN Security: [https://www.blackbox.ai/](https://www.netmaker.io/)
 3. Network VP  Security: https://www.twingate.com/
+4. OSINT FAce Search: https://pimeyes.com
 
 # ADMIN  
 1. **Project Management: Clickup**: All-in-one project management tool. - [Visit Clickup](https://www.clickup.com/)
@@ -50,6 +51,7 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 1. Business Hub: https://www.govchain.co.za/
 2. Trademarks & Patents: https://righthub.com/ - Patents, Trademarks and Designs all in one place.
 3. Proffesional Networking: https://intch.org/
+4. Data & Lead Scraper: https://phantombuster.com/
 
 # FINANCE
 1. Banking: [22seven.com](https://www.vault22.io)
@@ -71,7 +73,7 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 11. Seller Tool: https://ehunt.ai
 
 # Merchandising
-1. Patterns: https://www.lekala.co/
+1. Sewing Patterns: https://www.lekala.co/
 
 # DOCUMENTS
 1. Tool: https://www.ilovepdf.com/
