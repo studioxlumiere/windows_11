@@ -49,6 +49,15 @@
 1. Business Hub: https://www.govchain.co.za/
 2. Trademarks & Patents: https://righthub.com/ - Patents, Trademarks and Designs all in one place.
 
+# DOCUMENTS
+1. Tool: https://www.ilovepdf.com/
+2. Tools: https://www.thetoolbus.ai/
+3. OCR: https://ocr.space/
+4. Document Publishing: https://issuu.com
+
+# IMAGE
+1. Compression: https://compressor.io/
+
 # LIFE
 1. Timeline: https://time.graphics
 2. Geneology: https://www.ancestry.com/
@@ -164,6 +173,7 @@
 1. Model Creation: https://hyper3d.ai/
 2. Model Creation: https://www.meshy.ai/
 3. Unity Cloud: https://cloud.unity.com
+4. Model Poser: https://zhuyu1997.github.io/open-pose-editor/
 
 # AI LLMs  
 1. **Ollama**: Run Llama 3.3, DeepSeek-R1, Phi-4, Mistral, Gemma 2, and other models locally. - [Visit Ollama](https://ollama.com/)  
