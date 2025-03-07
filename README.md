@@ -55,7 +55,7 @@
 5. **Install Web Catalogue**: Organize and access web apps. - [Download Web Catalogue](https://webcatalog.io/)  
 6. **Spotify Web**: Music streaming app. - [Open Spotify](https://open.spotify.com/)  
 7. **Raindrop.io**: Bookmark manager and organizer. - [Visit Raindrop](https://raindrop.io/)
-8. Cloud Catloging: https://www.mori.co/
+8. Cloud Cataloging: https://www.mori.co/
 9. Maps: https://www.google.com/mymaps/
 
 ---
