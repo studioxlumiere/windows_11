@@ -189,6 +189,10 @@
 25. Image generation: https://lexica.art/
 26. Image Generation: https://www.seaart.ai/
 27. Image Generation: https://www.imagine.art/
+28. Image Generation: https://blackforestlabs.ai/ // Flux
+29. Image Generation: https://www.basedlabs.ai/
+30. Image Tools: https://dgb.lol/
+31. image Generation: https://openart.ai
 
 # DESIGN
 1. Vectorizer: https://vectorizer.ai/
