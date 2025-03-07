@@ -300,6 +300,7 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 7. Stock Photo & Video: https://www.pexels.com
 8. Image Upscaler: https://imgupscaler.com
 9. Image Tools: https://magnific.ai/
+10. Image Tools: https://imglarger.com/
 
 # MUSIC
 1. Playlist Transfer: https://www.tunemymusic.com/
@@ -328,6 +329,8 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 14. Photo Tools: https://picwish.com/
 15. Contact SHeets: https://www.contactsheetmaker.com/
 16. Photo & Video Enhancer: https://www.topazlabs.com/
+17. Photo Editor: https://www.pixelcut.ai/
+18. Photo Upscaler: https://upscayl.org/
 
 # VIDEO
 1. Screen Writing: https://www.arcstudiopro.com/
