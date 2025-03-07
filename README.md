@@ -7,7 +7,8 @@
 1. **Install Warp Terminal**: Modern terminal for developers. - [Download Warp](https://www.warp.dev/)  
 2. **Install Nushell**: A new shell for modern systems. - [Download Nushell](https://www.nushell.sh/)  
 3. **Install Glasswire**: Monitor network activity and security. - [Download Glasswire](https://www.glasswire.com/)  
-4. **Chris Windows Debloat**: Optimize and debloat Windows. - [Chris Windows Debloat](https://github.com/ChrisTitusTech/winutil) - Run: `irm "https://christitus.com/win" | iex`  
+4. **Chris Windows Debloat**: Optimize and debloat Windows. - [Chris Windows Debloat](https://github.com/ChrisTitusTech/winutil) - Run: `irm "https://christitus.com/win" | iex`
+5. Encryption: https://www.veracrypt.fr
 
 ---
 
@@ -25,7 +26,11 @@
 ---
 
 # Network  
-1. **Zyxel Router**: Access: `http://10.0.0.2/login/login.html` - User: `Admin` / Pass: `Admin`  
+1. **Zyxel Router**: Access: `http://10.0.0.2/login/login.html` - User: `Admin` / Pass: `Admin`
+
+# HOME
+1.  Security  Cameras: https://ieu.hik-connect.com // * Live * //
+2.  Google Home: https://home.google.com // * Live * //
 
 
 # Live // Split Screen
@@ -38,6 +43,11 @@
 # Admin  
 1. **Project Management: Clickup**: All-in-one project management tool. - [Visit Clickup](https://www.clickup.com/)
 2. Proton Apps: https://account.proton.me/apps
+3. Password Management: bitwarden.com
+
+# BUSINESS
+1. Business Hub: https://www.govchain.co.za/
+2. Trademarks & Patents: https://righthub.com/ - Patents, Trademarks and Designs all in one place.
 
 # LIFE
 1. Timeline: https://time.graphics
@@ -63,6 +73,7 @@
 7. **Raindrop.io**: Bookmark manager and organizer. - [Visit Raindrop](https://raindrop.io/)
 8. Cloud Cataloging: https://www.mori.co/
 9. Maps: https://www.google.com/mymaps/
+10. Cloud Storage: https://icedrive.net
 
 ---
 
