@@ -17,33 +17,90 @@
 6. **Manually Debloat Windows**: Remove unnecessary apps and services manually.  
 7. **Partition Hard Drives**: Organize storage by creating partitions.  
 8. **Create Shared Drives & Network**: Set up shared drives and network access.  
-9. **Create Remote Network**: Set up remote access to your network.  
+9. **Create Remote Network**: Set up remote access to your network.
 
-# Personal  
-1. **Carrd**: Create simple one-page websites. - [Visit Carrd](https://mariomorgan.carrd.co/)  
+# Unix  
+1. **Compositor**: Create dynamic window management. - [Hyprland](https://hyprland.org/)  
 
 # Network  
-1. **Zyxel Router**: Access your router settings. - [Access Zyxel Router](http://10.0.0.2/login/login.html) - User: `Admin` / Pass: `Admin`  
-
-# Home  
-1. **Security Cameras**: Monitor your home security cameras. - [Hik-Connect](https://ieu.hik-connect.com)  
-2. **Google Home**: Manage your smart home devices. - [Google Home](https://home.google.com)  
-
-# Live // Split Screen  
-1. **Emergency & Disaster**: Track global emergencies and disasters. - [RSOE EDIS](https://rsoe-edis.org/eventmap)  
-2. **Conflict Tracker**: Monitor global conflicts. - [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker)  
-3. **Disaster Alerts**: Get real-time disaster alerts. - [Disaster Alert](https://disasteralert.pdc.org/disasteralert/)  
+1. **Zyxel Router**: Access your router settings. - [Access Zyxel Router](http://10.0.0.2/login/login.html) - User: `Admin` / Pass: `Admin`
 
 # Security  
 1. **Network Mapper**: Map and analyze network coverage. - [CellMapper](https://www.cellmapper.net)  
 2. **Network VPN Security**: Secure your network with Netmaker. - [Netmaker](https://www.netmaker.io/)  
 3. **Network VPN Security**: Secure your network with Twingate. - [Twingate](https://www.twingate.com/)  
-4. **OSINT Face Search**: Search for faces using AI. - [PimEyes](https://pimeyes.com)  
+4. **OSINT Face Search**: Search for faces using AI. - [PimEyes](https://pimeyes.com)
+
+# Cloud  
+1. **Install Opera**: Lightweight browser for simple use. - [Download Opera](https://www.opera.com/)  
+2. **Install Firefox**: Main browser for bookmarks and syncing. - [Download Firefox](https://www.mozilla.org/firefox/)  
+3. **Install Proton Drive**: Secure cloud storage. - [Download Proton Drive](https://proton.me/drive)  
+4. **Install Google Drive**: Cloud storage and file synchronization. - [Download Google Drive](https://www.google.com/drive/)  
+5. **Install Web Catalogue**: Organize and access web apps. - [Download Web Catalogue](https://webcatalog.io/)  
+6. **Spotify Web**: Music streaming app. - [Open Spotify](https://open.spotify.com/)  
+7. **Raindrop.io**: Bookmark manager and organizer. - [Visit Raindrop](https://raindrop.io/)  
+8. **Cloud Cataloging**: Organize your cloud data. - [Mori](https://www.mori.co/)  
+9. **Maps**: Create custom maps. - [Google My Maps](https://www.google.com/mymaps/)  
+10. **Cloud Storage**: Store your files securely. - [Icedrive](https://icedrive.net)  
+11. **Maps**: Explore the world. - [Google Earth](https://earth.google.com)
+
+# Cloud Computing  
+1. **Google Colab**: Develop and run Python code in the cloud. - [Google Colab](https://colab.google/)  
+2. **Oracle Cloud**: Cloud computing services. - [Oracle Cloud](https://www.oracle.com/cloud)  
+3. **DigitalOcean**: Cloud infrastructure provider. - [DigitalOcean](https://www.digitalocean.com/)  
+4. **Linode**: Cloud hosting provider. - [Linode](https://www.linode.com/)  
+5. **Pomerium**: Secure access to internal applications. - [Pomerium](https://www.pomerium.com/)  
+6. **Tailscale**: Secure network connections. - [Tailscale](https://tailscale.com/)  
+7. **Anaconda**: Data science platform. - [Anaconda](https://www.anaconda.com)  
+
+# Communication  
+1. **Email: Thunderbird**: Connect email accounts and calendars. - [Download Thunderbird](https://www.thunderbird.net/)  
+2. **Proton Mail (Web Catalogue)**: Secure email service. - [Download Web Catalogue](https://webcatalog.io/)  
+3. **Install WhatsApp Desktop**: Desktop version of WhatsApp. - [Download WhatsApp](https://www.whatsapp.com/download)  // * Cloud Version - https://web.whatsapp.com/ * //  
+4. **Shortwave**: Email client with AI-powered features. - [Visit Shortwave](https://app.shortwave.com/)  
+5. **Google Messages**: Send and receive messages. - [Google Messages](https://messages.google.com)  
+6. **Contacts**: Manage your contacts. - [Contacts+](https://contactsplus.com)  
+7. **Email**: Access your email. - [Gmail](https://mail.google.com)  
 
 # Admin  
 1. **Project Management: Clickup**: All-in-one project management tool. - [Visit Clickup](https://www.clickup.com/)  
 2. **Proton Apps**: Access Proton's suite of privacy-focused apps. - [Proton Apps](https://account.proton.me/apps)  
 3. **Password Management**: Manage your passwords securely. - [Bitwarden](https://bitwarden.com)  
+
+# Personal  
+1. **Carrd**: Create simple one-page websites. - [Visit Carrd](https://mariomorgan.carrd.co/)
+
+# Life  
+1. **Timeline**: Create timelines. - [Time Graphics](https://time.graphics)  
+2. **Genealogy**: Trace your ancestry. - [Ancestry](https://www.ancestry.com/)  
+3. **Genealogy**: Trace your ancestry. - [Mori](https://www.mori.co/)  
+
+# Home  
+1. **Security Cameras**: Monitor your home security cameras. - [Hik-Connect](https://ieu.hik-connect.com)  
+2. **Google Home**: Manage your smart home devices. - [Google Home](https://home.google.com)
+
+# Live // Split Screen  
+1. **Emergency & Disaster**: Track global emergencies and disasters. - [RSOE EDIS](https://rsoe-edis.org/eventmap)  
+2. **Conflict Tracker**: Monitor global conflicts. - [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker)  
+3. **Disaster Alerts**: Get real-time disaster alerts. - [Disaster Alert](https://disasteralert.pdc.org/disasteralert/)
+
+# Car Management  
+1. **Driver Technologies**: AI-powered driver assistance. - [Visit Driver Technologies](https://drivertechnologies.com/)  
+2. **Topdon**: Automotive diagnostic tools. - [Visit Topdon](https://www.topdon.com/products/TopScan)  
+
+# Gaming  
+1. **Steam**: Gaming platform for PC. - [Visit Steam](https://store.steampowered.com/)  
+2. **Ubisoft**: Gaming platform for Ubisoft games. - [Visit Ubisoft](https://www.ubisoft.com/)  
+3. **Epic Games**: Gaming platform for PC. - [Visit Epic Games](https://www.epicgames.com/store/)
+
+# Work  
+1. **Install Airbnb (Web Catalogue)**: Access Airbnb via the Web Catalogue app. - [Download Web Catalogue](https://webcatalog.io/)  
+2. **Business Process Simulator**: Simulate and optimize business processes. - [Visit BPSimulator](https://www.bpsimulator.com)
+
+# Property Management  
+1. **Host Sharing**: Share your property. - [Hostshare](https://www.hostshare.co/)  
+2. **Accommodation**: Find accommodations. - [Lekkeslaap](https://www.lekkeslaap.co.za)  
+3. **Accommodation Analysis**: Analyze short-term rental markets. - [Airbtics](https://airbtics.com/)  
 
 # Business  
 1. **Business Hub**: Access business resources and tools. - [GovChain](https://www.govchain.co.za/)  
@@ -53,26 +110,7 @@
 5. **Business & Lead Connections**: Find business leads. - [Lusha](https://www.lusha.com/)  
 6. **Business & Lead Connections**: Connect with startups. - [F6S](https://www.f6s.com/)  
 7. **Service Providers**: Find service providers. - [Sortlist](https://www.sortlist.com/)  
-8. **CIA World Factbook**: Access global intelligence data. - [CIA World Factbook](https://www.cia.gov/the-world-factbook/)  
-
-# Data  
-1. **World Bank**: Access global development data. - [World Bank Data](https://data.worldbank.org/)  
-2. **Humdata**: Access humanitarian data. - [Humdata](https://data.humdata.org/)  
-3. **Statista**: Access statistical data. - [Statista](https://www.statista.com/)  
-4. **WHO**: Access global health data. - [WHO](https://www.who.int/)  
-5. **OECD**: Access economic data. - [OECD](https://www.oecd.org/)  
-6. **Worldometers**: Access real-time world statistics. - [Worldometers](https://www.worldometers.info/)  
-7. **Data Commons**: Access public datasets. - [Data Commons](https://datacommons.org/)  
-8. **DHS**: Access demographic and health surveys. - [DHS](https://dhsprogram.com/)  
-
-# Finance  
-1. **Banking**: Manage your finances. - [22seven](https://www.vault22.io)  
-2. **Accounting**: Manage your accounts. - [Wave](https://waveapps.com)  
-3. **Accounting**: Manage your accounts. - [Xero](https://xero.com)  
-4. **Receipts**: Manage your receipts. - [SparkReceipt](https://sparkreceipt.com)  
-
-# Trading  
-1. **Financial Data**: Access financial data. - [Trading Economics](https://tradingeconomics.com/)  
+8. **CIA World Factbook**: Access global intelligence data. - [CIA World Factbook](https://www.cia.gov/the-world-factbook/)
 
 # Retail  
 1. **On Demand Printing**: Print on demand. - [Printful](https://www.printful.com/)  
@@ -88,171 +126,64 @@
 11. **Seller Tool**: Manage your sales. - [Ehunt](https://ehunt.ai)  
 
 # Merchandising  
-1. **Sewing Patterns**: Create sewing patterns. - [Lekala](https://www.lekala.co/)  
+1. **Sewing Patterns**: Create sewing patterns. - [Lekala](https://www.lekala.co/)
+
+# Finance  
+1. **Banking**: Manage your finances. - [22seven](https://www.vault22.io)  
+2. **Accounting**: Manage your accounts. - [Wave](https://waveapps.com)  
+3. **Accounting**: Manage your accounts. - [Xero](https://xero.com)  
+4. **Receipts**: Manage your receipts. - [SparkReceipt](https://sparkreceipt.com)  
+
+# Trading  
+1. **Financial Data**: Access financial data. - [Trading Economics](https://tradingeconomics.com/)  
 
 # Documents  
 1. **Tool**: Manage PDFs. - [ILovePDF](https://www.ilovepdf.com/)  
 2. **Tools**: Access various tools. - [The Tool Bus](https://www.thetoolbus.ai/)  
 3. **OCR**: Convert images to text. - [OCR Space](https://ocr.space/)  
-4. **Document Publishing**: Publish documents online. - [Issuu](https://issuu.com)  
-
-# Image  
-1. **Compression**: Compress images. - [Compressor](https://compressor.io/)  
-
-# Life  
-1. **Timeline**: Create timelines. - [Time Graphics](https://time.graphics)  
-2. **Genealogy**: Trace your ancestry. - [Ancestry](https://www.ancestry.com/)  
-3. **Genealogy**: Trace your ancestry. - [Mori](https://www.mori.co/)  
-
-# Gaming  
-1. **Steam**: Gaming platform for PC. - [Visit Steam](https://store.steampowered.com/)  
-2. **Ubisoft**: Gaming platform for Ubisoft games. - [Visit Ubisoft](https://www.ubisoft.com/)  
-3. **Epic Games**: Gaming platform for PC. - [Visit Epic Games](https://www.epicgames.com/store/)  
-
-# Cloud  
-1. **Install Opera**: Lightweight browser for simple use. - [Download Opera](https://www.opera.com/)  
-2. **Install Firefox**: Main browser for bookmarks and syncing. - [Download Firefox](https://www.mozilla.org/firefox/)  
-3. **Install Proton Drive**: Secure cloud storage. - [Download Proton Drive](https://proton.me/drive)  
-4. **Install Google Drive**: Cloud storage and file synchronization. - [Download Google Drive](https://www.google.com/drive/)  
-5. **Install Web Catalogue**: Organize and access web apps. - [Download Web Catalogue](https://webcatalog.io/)  
-6. **Spotify Web**: Music streaming app. - [Open Spotify](https://open.spotify.com/)  
-7. **Raindrop.io**: Bookmark manager and organizer. - [Visit Raindrop](https://raindrop.io/)  
-8. **Cloud Cataloging**: Organize your cloud data. - [Mori](https://www.mori.co/)  
-9. **Maps**: Create custom maps. - [Google My Maps](https://www.google.com/mymaps/)  
-10. **Cloud Storage**: Store your files securely. - [Icedrive](https://icedrive.net)  
-11. **Maps**: Explore the world. - [Google Earth](https://earth.google.com)  
-
-# Work  
-1. **Install Airbnb (Web Catalogue)**: Access Airbnb via the Web Catalogue app. - [Download Web Catalogue](https://webcatalog.io/)  
-2. **Business Process Simulator**: Simulate and optimize business processes. - [Visit BPSimulator](https://www.bpsimulator.com)  
-
-# Property Management  
-1. **Host Sharing**: Share your property. - [Hostshare](https://www.hostshare.co/)  
-2. **Accommodation**: Find accommodations. - [Lekkeslaap](https://www.lekkeslaap.co.za)  
-3. **Accommodation Analysis**: Analyze short-term rental markets. - [Airbtics](https://airbtics.com/)  
-
-# Communication  
-1. **Email: Thunderbird**: Connect email accounts and calendars. - [Download Thunderbird](https://www.thunderbird.net/)  
-2. **Proton Mail (Web Catalogue)**: Secure email service. - [Download Web Catalogue](https://webcatalog.io/)  
-3. **Install WhatsApp Desktop**: Desktop version of WhatsApp. - [Download WhatsApp](https://www.whatsapp.com/download)  // * Cloud Version - https://web.whatsapp.com/ * //  
-4. **Shortwave**: Email client with AI-powered features. - [Visit Shortwave](https://app.shortwave.com/)  
-5. **Google Messages**: Send and receive messages. - [Google Messages](https://messages.google.com)  
-6. **Contacts**: Manage your contacts. - [Contacts+](https://contactsplus.com)  
-7. **Email**: Access your email. - [Gmail](https://mail.google.com)  
-
-# Prototyping  
-1. **Figma**: Collaborative design and prototyping tool. - [Visit Figma](https://www.figma.com/)  
-2. **Prototyping**: Create interactive prototypes. - [Quant-UX](https://app.quant-ux.com)  
-
-# Unix  
-1. **Compositor**: Create dynamic window management. - [Hyprland](https://hyprland.org/)  
-
-# Electronics  
-1. **Arduino**: Develop electronic projects. - [Arduino](https://www.arduino.cc)  
-2. **Electronic User Interfaces**: Develop user interfaces. - [Electric UI](https://electricui.com/)  
-3. **Design & Development**: Develop cross-platform applications. - [Qt](https://www.qt.io/)  
-4. **UI Library**: Create graphical user interfaces. - [LVGL](https://lvgl.io/)  
-5. **Interface Design & Development**: Design and develop interfaces. - [Squareline](https://squareline.io/)  
-6. **Tinkercad**: Create 3D designs. - [Tinkercad](https://tinkercad.com)  
-
-# Design  
-1. **Affinity Designer**: Professional graphic design software. - [Download Affinity Designer](https://affinity.serif.com/designer/)  
-2. **Affinity Publisher**: Professional publishing software. - [Download Affinity Publisher](https://affinity.serif.com/publisher/)  
-3. **Install SeaArt.ai (Web Catalogue)**: AI-powered art and design tool. - [Download Web Catalogue](https://webcatalog.io/)  
-4. **Assets**: Access design assets. - [Pixelbin](https://www.pixelbin.io/)  
-5. **Assets**: Access design assets. - [Design Lobby](https://designlobby.app/)  
+4. **Document Publishing**: Publish documents online. - [Issuu](https://issuu.com)
 
 # Notes & Research  
 1. **Windows Notepad**: Built-in text editor for quick notes.  
 2. **Notebook LLM (Web Catalogue)**: AI-powered note-taking tool. - [Download Web Catalogue](https://webcatalog.io/) - *Cloud Version*: [NotebookLM](https://notebooklm.google.com/)  
 3. **Perplexity.ai**: AI-powered research and question-answering tool. - [Visit Perplexity](https://www.perplexity.ai/)  
 4. **Julius.ai**: AI-powered data analysis and visualization tool. - [Visit Julius](https://julius.ai/)  
-5. **Perplexity**: AI-powered research tool. - [Perplexity](https://www.perplexity.ai/)  
+5. **Perplexity**: AI-powered research tool. - [Perplexity](https://www.perplexity.ai/)
+
+# Data  
+1. **World Bank**: Access global development data. - [World Bank Data](https://data.worldbank.org/)  
+2. **Humdata**: Access humanitarian data. - [Humdata](https://data.humdata.org/)  
+3. **Statista**: Access statistical data. - [Statista](https://www.statista.com/)  
+4. **WHO**: Access global health data. - [WHO](https://www.who.int/)  
+5. **OECD**: Access economic data. - [OECD](https://www.oecd.org/)  
+6. **Worldometers**: Access real-time world statistics. - [Worldometers](https://www.worldometers.info/)  
+7. **Data Commons**: Access public datasets. - [Data Commons](https://datacommons.org/)  
+8. **DHS**: Access demographic and health surveys. - [DHS](https://dhsprogram.com/)  
 
 # Mind Mapping  
 1. **Obsidian**: Create and manage mind maps. - [Download Obsidian](https://obsidian.md/)  
 2. **Milanote**: Visual collaboration tool for organizing ideas. - [Visit Milanote](https://app.milanote.com)  
 3. **Mindmap AI**: AI-powered mind mapping tool. - [Visit Mindmap AI](https://mindmapai.app/canvas)  
-4. **Whimsical**: Collaborative visual workspace. - [Visit Whimsical](https://whimsical.com)  
+4. **Whimsical**: Collaborative visual workspace. - [Visit Whimsical](https://whimsical.com)
 
-# Coding Development Environment  
-1. **Github Desktop**: GUI for managing Git repositories. - [Download](https://desktop.github.com/)  
-2. **Github CoPilot**: AI-powered code completion tool. - [Learn More](https://copilot.github.com/) - *Cloud Version*: [Github CoPilot](https://github.com/copilot)  
-3. **Github Codespaces**: Cloud-based development environments. - [Learn More](https://github.com/features/codespaces) - *Cloud Version*: [Github Codespaces](https://github.com/codespaces)  
-4. **Github Actions**: Automates builds, tests, and deployments. - [Learn More](https://github.com/features/actions)  
-5. **Github Pages**: Host static websites. - [Github Pages](https://pages.github.com/)  
-6. **Git**: Version control system. - [Git](https://git-scm.com/)  
-7. **Visual Studio Code**: Lightweight, extensible code editor. - [Download](https://code.visualstudio.com/)  //  * Cloud  Version - https://vscode.dev/ * //  
-8. **Supabase**: Open-source Firebase alternative. - [Learn More](https://supabase.com/) - *Cloud Version*: [Supabase](https://supabase.com/)  
-9. **Docker**: Containerization platform for building and deploying apps. - [Download](https://www.docker.com/)  
-10. **StackBlitz**: Online IDE for web development. - [Visit](https://stackblitz.com/) - *Cloud Version*: [StackBlitz](https://stackblitz.com/)  
-11. **Gist**: Share and save code snippets. - [Visit](https://gist.github.com/) - *Cloud Version*: [Gist](https://gist.github.com/)  
-12. **Tailwind CSS**: Utility-first CSS framework for rapid UI development. - [Learn More](https://tailwindcss.com/)  
-13. **Vercel**: Platform for deploying and hosting frontend applications. - [Visit](https://vercel.com/)  
-14. **Node.JS**: JavaScript runtime for building server-side applications. - [Download](https://nodejs.org/)  
-15. **Next.JS**: React framework for server-rendered and static websites. - [Learn More](https://nextjs.org/)  
-16. **Sentry**: Tracks and fixes errors in real-time. - [Learn More](https://sentry.io/)  
-17. **New Relic**: Monitors application performance and infrastructure. - [Learn More](https://newrelic.com/)  
-18. **Bolt.new**: AI-powered coding assistant for faster development. - [Visit](https://bolt.new/) - *Can Install Locally*: [Bolt DIY](https://github.com/stackblitz-labs/bolt.diy)  
-19. **Fleek**: Builds and deploys decentralized apps and AI agents. - [Learn More](https://fleek.xyz/)  
-20. **Arweave**: Decentralized storage for permanent data archiving. - [Learn More](https://arweave.org/)  
-21. **LambdaTest**: Testing web apps. - [Learn More](https://www.lambdatest.com/)  
-22. **Cursor**: AI-powered code editor. - [Visit Cursor](https://www.cursor.com/)  
-23. **Pipedream**: API integration platform. - [Visit Pipedream](https://pipedream.com/)  
-24. **GPT**: AI development platform. - [Google AI Studio](https://aistudio.google.com)  
-25. **Android Development**: Develop Android apps. - [Android Developer](https://developer.android.com/)  
-26. **Databases**: Manage databases. - [MySQL](https://www.mysql.com/)  
-27. **Electron**: Build cross-platform desktop apps. - [Electron](https://www.electronjs.org/)  
-28. **AI APIs**: Access AI APIs. - [Replicate](https://replicate.com)  
+# Design  
+1. **Affinity Designer**: Professional graphic design software. - [Download Affinity Designer](https://affinity.serif.com/designer/)  
+2. **Affinity Publisher**: Professional publishing software. - [Download Affinity Publisher](https://affinity.serif.com/publisher/)  
+3. **Install SeaArt.ai (Web Catalogue)**: AI-powered art and design tool. - [Download Web Catalogue](https://webcatalog.io/)  
+4. **Assets**: Access design assets. - [Pixelbin](https://www.pixelbin.io/)  
+5. **Assets**: Access design assets. - [Design Lobby](https://designlobby.app/)
 
-# Cloud Computing  
-1. **Google Colab**: Develop and run Python code in the cloud. - [Google Colab](https://colab.google/)  
-2. **Oracle Cloud**: Cloud computing services. - [Oracle Cloud](https://www.oracle.com/cloud)  
-3. **DigitalOcean**: Cloud infrastructure provider. - [DigitalOcean](https://www.digitalocean.com/)  
-4. **Linode**: Cloud hosting provider. - [Linode](https://www.linode.com/)  
-5. **Pomerium**: Secure access to internal applications. - [Pomerium](https://www.pomerium.com/)  
-6. **Tailscale**: Secure network connections. - [Tailscale](https://tailscale.com/)  
-7. **Anaconda**: Data science platform. - [Anaconda](https://www.anaconda.com)  
-
-# Web Development  
-1. **Webflow**: Visual web development platform. - [Visit Webflow](https://webflow.com/)  
-2. **App Builder**: Build apps with FlutterFlow. - [FlutterFlow](https://flutterflow.io)  
-3. **App Builder**: Build apps with Codux. - [Codux](https://www.codux.com/)  
-4. **Web Hosting**: Free web hosting. - [InfinityFree](https://www.infinityfree.com/)  
-5. **Web Hosting**: Affordable web hosting. - [Hostinger](https://www.hostinger.com)  
-6. **Website Builder**: Build websites easily. - [Wix](https://www.wix.com/)  
-
-# AI Tools  
-1. **Scraper**: Scrape data from websites. - [Browse AI](https://www.browse.ai/)  
-2. **Transcription**: Transcribe audio and video. - [Cockatoo](https://www.cockatoo.com/)  
-3. **Legal**: AI-powered legal assistance. - [AI Lawyer](https://ailawyer.pro/)  
-4. **AI Training**: Train AI models. - [Gymnasium](https://gymnasium.farama.org/)  
-5. **AI Model Creation**: Create AI models. - [TensorFlow](https://www.tensorflow.org/)  
-6. **AI Creation and Training**: Create and train AI models. - [OpenAI](https://platform.openai.com)  
-
-# AI 3D  
-1. **Model Creation**: Create 3D models. - [Hyper3D](https://hyper3d.ai/)  
-2. **Model Creation**: Create 3D models. - [Meshy](https://www.meshy.ai/)  
-3. **Unity Cloud**: Cloud services for Unity. - [Unity Cloud](https://cloud.unity.com)  
-4. **Model Poser**: Pose 3D models. - [Open Pose Editor](https://zhuyu1997.github.io/open-pose-editor/)  
-
-# AI LLMs  
-1. **Ollama**: Run Llama 3.3, DeepSeek-R1, Phi-4, Mistral, Gemma 2, and other models locally. - [Visit Ollama](https://ollama.com/)  
-
-# AI Environment  
-1. **Self Operating Computer**: AI-powered automation tool for computer tasks. - [Visit Hyperwrite AI](https://www.hyperwriteai.com) | [GitHub Repository](https://github.com/OthersideAI/self-operating-computer) *(Not Free)*  
-
-# AI GPTs  
-1. **Install Deepseek (Web Catalogue)**: AI tool for advanced tasks and automation. - [Download Web Catalogue](https://webcatalog.io/)  
-2. **Gemini**: AI-powered assistant. - [Gemini](https://gemini.google.com/)  
-3. **Meta**: AI-powered assistant. - [Meta AI](https://www.meta.ai/)  
-4. **Grok**: AI-powered assistant. - [Grok](https://grok.com/)  
-5. **ChatGPT**: AI-powered chatbot. - [ChatGPT](https://chatgpt.com/)  
-6. **Deepseek**: AI-powered assistant. - [Deepseek](https://chat.deepseek.com)  
-7. **Blackbox**: AI-powered assistant. - [Blackbox](https://www.blackbox.ai/)  
-
-# AI Voice  
-1. **Fish Audio**: Voice cloning, voice library, voiceover, and more. - [Visit Fish Audio](https://fish.audio/)  
+# Design  
+1. **Vectorizer**: Convert images to vectors. - [Vectorizer](https://vectorizer.ai/)  
+2. **Vectorizer**: Convert images to vectors. - [VectorArt](https://vectorart.ai/)  
+3. **Vectorizer**: Convert images to vectors. - [ImgVector](https://imgvector.com/)  
+4. **Patterns**: Create patterns with AI. - [Patterned](https://www.patterned.ai/)  
+5. **Design Generator**: Generate designs with AI. - [Playground](https://playground.com/)  
+6. **Stock Design, Photo & Video**: Access stock assets. - [Vecteezy](https://www.vecteezy.com)  
+7. **Stock Photo & Video**: Access stock assets. - [Pexels](https://www.pexels.com)  
+8. **Image Upscaler**: Upscale images with AI. - [ImgUpscaler](https://imgupscaler.com)  
+9. **Image Tools**: Enhance and edit images. - [Magnific](https://magnific.ai/)  
+10. **Image Tools**: Enhance and edit images. - [ImgLarger](https://imglarger.com/)
 
 # AI Content Generators  
 1. **Video Generator**: Generate videos with AI. - [Genmo](https://www.genmo.ai/)  
@@ -288,17 +219,18 @@
 31. **Image Generation**: Generate images with AI. - [OpenArt](https://openart.ai)  
 32. **All**: AI-powered content generation. - [Kive](https://kive.ai/)  
 
-# Design  
-1. **Vectorizer**: Convert images to vectors. - [Vectorizer](https://vectorizer.ai/)  
-2. **Vectorizer**: Convert images to vectors. - [VectorArt](https://vectorart.ai/)  
-3. **Vectorizer**: Convert images to vectors. - [ImgVector](https://imgvector.com/)  
-4. **Patterns**: Create patterns with AI. - [Patterned](https://www.patterned.ai/)  
-5. **Design Generator**: Generate designs with AI. - [Playground](https://playground.com/)  
-6. **Stock Design, Photo & Video**: Access stock assets. - [Vecteezy](https://www.vecteezy.com)  
-7. **Stock Photo & Video**: Access stock assets. - [Pexels](https://www.pexels.com)  
-8. **Image Upscaler**: Upscale images with AI. - [ImgUpscaler](https://imgupscaler.com)  
-9. **Image Tools**: Enhance and edit images. - [Magnific](https://magnific.ai/)  
-10. **Image Tools**: Enhance and edit images. - [ImgLarger](https://imglarger.com/)  
+# Prototyping  
+1. **Figma**: Collaborative design and prototyping tool. - [Visit Figma](https://www.figma.com/)  
+2. **Prototyping**: Create interactive prototypes. - [Quant-UX](https://app.quant-ux.com)
+
+# 3D  
+1. **Model Creation**: Create 3D models. - [Hyper3D](https://hyper3d.ai/)  
+2. **Model Creation**: Create 3D models. - [Meshy](https://www.meshy.ai/)  
+3. **Unity Cloud**: Cloud services for Unity. - [Unity Cloud](https://cloud.unity.com)  
+4. **Model Poser**: Pose 3D models. - [Open Pose Editor](https://zhuyu1997.github.io/open-pose-editor/)  
+
+# Voice  
+1. **Fish Audio**: Voice cloning, voice library, voiceover, and more. - [Visit Fish Audio](https://fish.audio/)  
 
 # Music  
 1. **Playlist Transfer**: Transfer playlists between music services. - [TuneMyMusic](https://www.tunemymusic.com/)  
@@ -308,7 +240,10 @@
 5. **Cloud DAW**: Create music in the cloud. - [Amped Studio](https://ampedstudio.com)  
 6. **Remote Production**: Collaborate on music production. - [Source Elements](https://www.source-elements.com/)  
 7. **Cloud DAW**: Create music in the cloud. - [Audiotool](https://www.audiotool.com/)  
-8. **Cloud Production**: Collaborate on music production. - [Boombox](https://boombox.io/)  
+8. **Cloud Production**: Collaborate on music production. - [Boombox](https://boombox.io/)
+
+# Image  
+1. **Compression**: Compress images. - [Compressor](https://compressor.io/) 
 
 # Photography  
 1. **Photo Generation**: Generate photos with AI. - [PhotoAI](https://photoai.com/)  
@@ -342,13 +277,78 @@
 9. **Video Editor**: Edit videos with AI. - [Capcut](https://www.capcut.com/)  
 10. **Film Inspiration**: Get inspired for filmmaking. - [Shot Cafe](https://shot.cafe/)  
 
+# Coding Development Environment  
+1. **Github Desktop**: GUI for managing Git repositories. - [Download](https://desktop.github.com/)  
+2. **Github CoPilot**: AI-powered code completion tool. - [Learn More](https://copilot.github.com/) - *Cloud Version*: [Github CoPilot](https://github.com/copilot)  
+3. **Github Codespaces**: Cloud-based development environments. - [Learn More](https://github.com/features/codespaces) - *Cloud Version*: [Github Codespaces](https://github.com/codespaces)  
+4. **Github Actions**: Automates builds, tests, and deployments. - [Learn More](https://github.com/features/actions)  
+5. **Github Pages**: Host static websites. - [Github Pages](https://pages.github.com/)  
+6. **Git**: Version control system. - [Git](https://git-scm.com/)  
+7. **Visual Studio Code**: Lightweight, extensible code editor. - [Download](https://code.visualstudio.com/)  //  * Cloud  Version - https://vscode.dev/ * //  
+8. **Supabase**: Open-source Firebase alternative. - [Learn More](https://supabase.com/) - *Cloud Version*: [Supabase](https://supabase.com/)  
+9. **Docker**: Containerization platform for building and deploying apps. - [Download](https://www.docker.com/)  
+10. **StackBlitz**: Online IDE for web development. - [Visit](https://stackblitz.com/) - *Cloud Version*: [StackBlitz](https://stackblitz.com/)  
+11. **Gist**: Share and save code snippets. - [Visit](https://gist.github.com/) - *Cloud Version*: [Gist](https://gist.github.com/)  
+12. **Tailwind CSS**: Utility-first CSS framework for rapid UI development. - [Learn More](https://tailwindcss.com/)  
+13. **Vercel**: Platform for deploying and hosting frontend applications. - [Visit](https://vercel.com/)  
+14. **Node.JS**: JavaScript runtime for building server-side applications. - [Download](https://nodejs.org/)  
+15. **Next.JS**: React framework for server-rendered and static websites. - [Learn More](https://nextjs.org/)  
+16. **Sentry**: Tracks and fixes errors in real-time. - [Learn More](https://sentry.io/)  
+17. **New Relic**: Monitors application performance and infrastructure. - [Learn More](https://newrelic.com/)  
+18. **Bolt.new**: AI-powered coding assistant for faster development. - [Visit](https://bolt.new/) - *Can Install Locally*: [Bolt DIY](https://github.com/stackblitz-labs/bolt.diy)  
+19. **Fleek**: Builds and deploys decentralized apps and AI agents. - [Learn More](https://fleek.xyz/)  
+20. **Arweave**: Decentralized storage for permanent data archiving. - [Learn More](https://arweave.org/)  
+21. **LambdaTest**: Testing web apps. - [Learn More](https://www.lambdatest.com/)  
+22. **Cursor**: AI-powered code editor. - [Visit Cursor](https://www.cursor.com/)  
+23. **Pipedream**: API integration platform. - [Visit Pipedream](https://pipedream.com/)  
+24. **GPT**: AI development platform. - [Google AI Studio](https://aistudio.google.com)  
+25. **Android Development**: Develop Android apps. - [Android Developer](https://developer.android.com/)  
+26. **Databases**: Manage databases. - [MySQL](https://www.mysql.com/)  
+27. **Electron**: Build cross-platform desktop apps. - [Electron](https://www.electronjs.org/)  
+28. **AI APIs**: Access AI APIs. - [Replicate](https://replicate.com)
+
+# Web Development  
+1. **Webflow**: Visual web development platform. - [Visit Webflow](https://webflow.com/)  
+2. **App Builder**: Build apps with FlutterFlow. - [FlutterFlow](https://flutterflow.io)  
+3. **App Builder**: Build apps with Codux. - [Codux](https://www.codux.com/)  
+4. **Web Hosting**: Free web hosting. - [InfinityFree](https://www.infinityfree.com/)  
+5. **Web Hosting**: Affordable web hosting. - [Hostinger](https://www.hostinger.com)  
+6. **Website Builder**: Build websites easily. - [Wix](https://www.wix.com/)
+
+# Electronics  
+1. **Arduino**: Develop electronic projects. - [Arduino](https://www.arduino.cc)  
+2. **Electronic User Interfaces**: Develop user interfaces. - [Electric UI](https://electricui.com/)  
+3. **Design & Development**: Develop cross-platform applications. - [Qt](https://www.qt.io/)  
+4. **UI Library**: Create graphical user interfaces. - [LVGL](https://lvgl.io/)  
+5. **Interface Design & Development**: Design and develop interfaces. - [Squareline](https://squareline.io/)  
+6. **Tinkercad**: Create 3D designs. - [Tinkercad](https://tinkercad.com)  
+
+# AI Environment  
+1. **Self Operating Computer**: AI-powered automation tool for computer tasks. - [Visit Hyperwrite AI](https://www.hyperwriteai.com) | [GitHub Repository](https://github.com/OthersideAI/self-operating-computer) *(Not Free)*
+
+# AI Tools  
+1. **Scraper**: Scrape data from websites. - [Browse AI](https://www.browse.ai/)  
+2. **Transcription**: Transcribe audio and video. - [Cockatoo](https://www.cockatoo.com/)  
+3. **Legal**: AI-powered legal assistance. - [AI Lawyer](https://ailawyer.pro/)  
+4. **AI Training**: Train AI models. - [Gymnasium](https://gymnasium.farama.org/)  
+5. **AI Model Creation**: Create AI models. - [TensorFlow](https://www.tensorflow.org/)  
+6. **AI Creation and Training**: Create and train AI models. - [OpenAI](https://platform.openai.com)
+
+# AI LLMs  
+1. **Ollama**: Run Llama 3.3, DeepSeek-R1, Phi-4, Mistral, Gemma 2, and other models locally. - [Visit Ollama](https://ollama.com/)
+
+# AI GPTs  
+1. **Install Deepseek (Web Catalogue)**: AI tool for advanced tasks and automation. - [Download Web Catalogue](https://webcatalog.io/)  
+2. **Gemini**: AI-powered assistant. - [Gemini](https://gemini.google.com/)  
+3. **Meta**: AI-powered assistant. - [Meta AI](https://www.meta.ai/)  
+4. **Grok**: AI-powered assistant. - [Grok](https://grok.com/)  
+5. **ChatGPT**: AI-powered chatbot. - [ChatGPT](https://chatgpt.com/)  
+6. **Deepseek**: AI-powered assistant. - [Deepseek](https://chat.deepseek.com)  
+7. **Blackbox**: AI-powered assistant. - [Blackbox](https://www.blackbox.ai/)  
+
 # AI Agents  
 1. **Make.com**: Automation platform for workflows. - [Visit Make](https://make.com/)  
 2. **n8n.io**: Open-source workflow automation tool. - [Visit n8n](https://n8n.io/)  
 3. **Vapi.ai**: Voice AI platform for building voice assistants. - [Visit Vapi](https://vapi.ai/)  
 4. **AutoGPT**: AI-powered automation tool. - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)  
 5. **DialogueFlow**: Build conversational agents. - [Dialogflow](https://dialogflow.cloud.google.com)  
-
-# Car Management  
-1. **Driver Technologies**: AI-powered driver assistance. - [Visit Driver Technologies](https://drivertechnologies.com/)  
-2. **Topdon**: Automotive diagnostic tools. - [Visit Topdon](https://www.topdon.com/products/TopScan)  
