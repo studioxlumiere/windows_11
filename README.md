@@ -179,7 +179,8 @@
 # AI Agents  
 1. **Make.com**: Automation platform for workflows. - [Visit Make](https://make.com/)  
 2. **n8n.io**: Open-source workflow automation tool. - [Visit n8n](https://n8n.io/)  
-3. **Vapi.ai**: Voice AI platform for building voice assistants. - [Visit Vapi](https://vapi.ai/)  
+3. **Vapi.ai**: Voice AI platform for building voice assistants. - [Visit Vapi](https://vapi.ai/)
+4. AutoGPT: https://github.com/Significant-Gravitas/AutoGPT
 
 ---
 
