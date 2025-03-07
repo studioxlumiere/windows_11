@@ -130,6 +130,7 @@
 # Ai Tools
 1. Scraper: https://www.browse.ai/
 2. Transcription: https://www.cockatoo.com/
+3. Legal: [https://www.veed.io/](https://ailawyer.pro/)
 
 
 # AI LLMs  
@@ -170,6 +171,7 @@
 11. Film: https://www.skyreels.ai
 12. Video Characters: https://www.d-id.com/
 13. Video: https://www.veed.io/
+14. All: https://arvin.chat/
 
 
 ---
