@@ -111,6 +111,11 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 1. **Figma**: Collaborative design and prototyping tool. - [Visit Figma](https://www.figma.com/)
 2. Prototyping: https://app.quant-ux.com
 
+# Electronics
+1. Arduino: https://www.arduino.cc
+2. Electronic User Interfaces: [https://www.arduino.cc/](https://electricui.com/)
+3. Design & Development: https://www.qt.io/
+
 # Design  
 1. **Affinity Designer**: Professional graphic design software. - [Download Affinity Designer](https://affinity.serif.com/designer/)  
 2. **Affinity Publisher**: Professional publishing software. - [Download Affinity Publisher](https://affinity.serif.com/publisher/)  
@@ -158,6 +163,7 @@ Notes: Automation Centric / Desktop, Cloud, Autonomous
 24. GPT: https://aistudio.google.com
 25. Android Development: https://developer.android.com/
 26. Databases: [https://developer.android.com/](https://www.mysql.com/)
+27. Electron: Cross Platform HTML, CSS, JAVASCRIPT Desktop Apps: https://www.electronjs.org/
 
 #  CLoud Computing
 24. Google Colab: https://colab.google/
