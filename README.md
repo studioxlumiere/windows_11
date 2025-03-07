@@ -82,7 +82,8 @@
 1. **Windows Notepad**: Built-in text editor for quick notes.  
 2. **Notebook LLM (Web Catalogue)**: AI-powered note-taking tool. - [Download Web Catalogue](https://webcatalog.io/) - *Cloud Version*: [NotebookLM](https://notebooklm.google.com/)  
 3. **Perplexity.ai**: AI-powered research and question-answering tool. - [Visit Perplexity](https://www.perplexity.ai/)  
-4. **Julius.ai**: AI-powered data analysis and visualization tool. - [Visit Julius](https://julius.ai/)  
+4. **Julius.ai**: AI-powered data analysis and visualization tool. - [Visit Julius](https://julius.ai/)
+5. Perpelexity: https://www.perplexity.ai/ 
 
 ---
 
@@ -143,6 +144,7 @@
 1. **Install Deepseek (Web Catalogue)**: AI tool for advanced tasks and automation. - [Download Web Catalogue](https://webcatalog.io/)
 2. Gemini: https://gemini.google.com/
 3. MEta: https://www.meta.ai/
+4. Grok: https://grok.com/
 
 ---
 
