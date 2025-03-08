@@ -308,6 +308,14 @@
 27. **Electron**: Build cross-platform desktop apps. - [Electron](https://www.electronjs.org/)  
 28. **AI APIs**: Access AI APIs. - [Replicate](https://replicate.com)
 
+# CODING LIBRARIES
+1. React
+2. Python
+3. vn
+4. npx
+5. uv
+6. vite
+
 # Web Development  
 1. **Webflow**: Visual web development platform. - [Visit Webflow](https://webflow.com/)  
 2. **App Builder**: Build apps with FlutterFlow. - [FlutterFlow](https://flutterflow.io)  
