@@ -210,10 +210,11 @@
 22. **All**: AI-powered content generation. - [Getimg](https://getimg.ai/)  design tools
 23. **All**: AI-powered content generation. - [Eluna](https://www.eluna.ai/)  design tools
 24. **Image Generation**: Generate images with AI. - [Krea](https://www.krea.ai/)  design tools
-25. 
-26. **All**: AI-powered content generation. - [Runway](https://runwayml.com/)  
-27. **Image & Video Enhancer**: Enhance images and videos with AI. - [TensorPix](https://tensorpix.ai/)  
-28. **Image Generation**: Generate images with AI. - [Impossible Images](https://impossibleimages.ai/)  
+25. **Image & Video Enhancer**: Enhance images and videos with AI. - [TensorPix](https://tensorpix.ai/)  image and video enhancer
+26. **Image Generation**: Generate images with AI. - [Impossible Images](https://impossibleimages.ai/)  image creation
+    
+28. **All**: AI-powered content generation. - [Runway](https://runwayml.com/)  
+
 29. **Image Generation**: Generate images with AI. - [Civitai](https://civitai.com/)  
 30. **Image Generation**: Generate images with AI. - [Lexica](https://lexica.art/)  
 31. **Image Generation**: Generate images with AI. - [SeaArt](https://www.seaart.ai/)  
