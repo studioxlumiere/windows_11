@@ -345,7 +345,8 @@
 4. **Grok**: AI-powered assistant. - [Grok](https://grok.com/)  
 5. **ChatGPT**: AI-powered chatbot. - [ChatGPT](https://chatgpt.com/)  
 6. **Deepseek**: AI-powered assistant. - [Deepseek](https://chat.deepseek.com)  
-7. **Blackbox**: AI-powered assistant. - [Blackbox](https://www.blackbox.ai/)  
+7. **Blackbox**: AI-powered assistant. - [Blackbox](https://www.blackbox.ai/)
+8. Claude: https://claude.ai
 
 # AI Agents  
 1. **Make.com**: Automation platform for workflows. - [Visit Make](https://make.com/)  
