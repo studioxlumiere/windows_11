@@ -321,7 +321,7 @@
 2. Optionally, // pip install numpy // for faster math operations.
 3. // pip install taichi // A Python library for high-performance physics simulations
 
-# MCP SERVERS
+# MCP SERVERS ( https://www.youtube.com/watch?v=yOKwK-iIg3M )
 1. https://github.com/anaisbetts/mcp-installer
 2. https://github.com/modelcontextprotocol/servers
 
