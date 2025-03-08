@@ -132,7 +132,8 @@
 1. **Banking**: Manage your finances. - [22seven](https://www.vault22.io)  
 2. **Accounting**: Manage your accounts. - [Wave](https://waveapps.com)  
 3. **Accounting**: Manage your accounts. - [Xero](https://xero.com)  
-4. **Receipts**: Manage your receipts. - [SparkReceipt](https://sparkreceipt.com)  
+4. **Receipts**: Manage your receipts. - [SparkReceipt](https://sparkreceipt.com)
+5. Crypto Wallet & Exchange: https://www.exodus.com/
 
 # Trading  
 1. **Financial Data**: Access financial data. - [Trading Economics](https://tradingeconomics.com/)  
