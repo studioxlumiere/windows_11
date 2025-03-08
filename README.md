@@ -189,11 +189,11 @@
 
 # AI Content Generators  
 1. **All**: AI-powered content generation. - [Hedra](https://www.hedra.com/) Film
-  
-4. **Video Generator**: Generate videos with AI. - [Genmo](https://www.genmo.ai/)  Image to Video Motion
+2. **Video**: Generate videos with AI. - [Pixverse](https://app.pixverse.ai)  Film 2
+3. **Video**: Generate videos with AI. - [Dream Machine](https://dream-machine.lumalabs.ai/)  Anime / Manga
 
-6. **Video**: Generate videos with AI. - [Dream Machine](https://dream-machine.lumalabs.ai/)  
-7. **Video**: Generate videos with AI. - [Pixverse](https://app.pixverse.ai)  
+
+4. **Video Generator**: Generate videos with AI. - [Genmo](https://www.genmo.ai/)  Image to Video Motion
 8. **Video**: Generate videos with AI. - [Sora](https://openai.com/sora/)  
 9. **All**: AI-powered content generation. - [Sora](https://openai.com/sora/)  
 10. **All**: AI-powered content generation. - [Kling AI](https://klingai.com/)  
