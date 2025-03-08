@@ -3,10 +3,11 @@
 
 # Windows Tools  
 1. **Install Warp Terminal**: Modern terminal for developers. - [Download Warp](https://www.warp.dev/)  // * winget install Warp.Warp * //
-2. **Install Nushell**: A new shell for modern systems. - [Download Nushell](https://www.nushell.sh/)  
-3. **Install Glasswire**: Monitor network activity and security. - [Download Glasswire](https://www.glasswire.com/)  
-4. **Chris Windows Debloat**: Optimize and debloat Windows. - [Chris Windows Debloat](https://github.com/ChrisTitusTech/winutil) - Run: `irm "https://christitus.com/win" | iex`  
-5. **Encryption**: Secure your files with VeraCrypt. - [Download VeraCrypt](https://www.veracrypt.fr)  
+2. Warp Drive: https://www.warp.dev/warp-drive // * winget install Warp.Warp * //
+3. **Install Nushell**: A new shell for modern systems. - [Download Nushell](https://www.nushell.sh/)  
+4. **Install Glasswire**: Monitor network activity and security. - [Download Glasswire](https://www.glasswire.com/)  
+5. **Chris Windows Debloat**: Optimize and debloat Windows. - [Chris Windows Debloat](https://github.com/ChrisTitusTech/winutil) - Run: `irm "https://christitus.com/win" | iex`  
+6. **Encryption**: Secure your files with VeraCrypt. - [Download VeraCrypt](https://www.veracrypt.fr)  
 
 # Windows Tasks  
 1. **System File Checker**: Scan and repair corrupted system files. - Run: `sfc /scannow` in Command Prompt.  
