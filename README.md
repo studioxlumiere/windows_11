@@ -313,7 +313,7 @@
 2. Python
 3. vn
 4. npx
-5. uv
+5. UV: pip install uv
 6. vite
 
 # Web Development  
