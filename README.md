@@ -317,8 +317,9 @@
 6. vite: npm install -g vite
 
 # Python Libraries
-1. Run pip install pygame for graphics.
-2. Optionally, pip install numpy for faster math operations.
+1. // Run pip install // pygame for graphics.
+2. Optionally, // pip install numpy // for faster math operations.
+3. // pip install taichi // A Python library for high-performance physics simulations
 
 # MCP SERVERS
 1. https://github.com/anaisbetts/mcp-installer
