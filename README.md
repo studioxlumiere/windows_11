@@ -334,6 +334,7 @@
 4. **AI Training**: Train AI models. - [Gymnasium](https://gymnasium.farama.org/)  
 5. **AI Model Creation**: Create AI models. - [TensorFlow](https://www.tensorflow.org/)  
 6. **AI Creation and Training**: Create and train AI models. - [OpenAI](https://platform.openai.com)
+7. MCP Server: https://github.com/anaisbetts/mcp-installer // Claude
 
 # AI LLMs  
 1. **Ollama**: Run Llama 3.3, DeepSeek-R1, Phi-4, Mistral, Gemma 2, and other models locally. - [Visit Ollama](https://ollama.com/)
