@@ -309,12 +309,15 @@
 28. **AI APIs**: Access AI APIs. - [Replicate](https://replicate.com)
 
 # CODING LIBRARIES
-1. React
-2. Python
-3. vn
-4. npx
-5. UV: pip install uv
-6. vite
+1. React: npm install react react-dom
+2. Python: winget install Python.Python.3.12
+3. Node.js: winget install OpenJS.NodeJS
+4. UV: pip install uv
+6. vite: npm install -g vite
+
+# MCP SERVERS
+1. https://github.com/anaisbetts/mcp-installer
+2. https://github.com/modelcontextprotocol/servers
 
 # Web Development  
 1. **Webflow**: Visual web development platform. - [Visit Webflow](https://webflow.com/)  
