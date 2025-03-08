@@ -316,6 +316,10 @@
 4. UV: pip install uv
 6. vite: npm install -g vite
 
+# Python Libraries
+1. Run pip install pygame for graphics.
+2. Optionally, pip install numpy for faster math operations.
+
 # MCP SERVERS
 1. https://github.com/anaisbetts/mcp-installer
 2. https://github.com/modelcontextprotocol/servers
