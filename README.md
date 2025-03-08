@@ -202,25 +202,27 @@
 5. **All**: AI-powered content generation. - [Immersity](https://www.immersity.ai/)  video motion
 15. **Video**: Edit videos with AI. - [VEED](https://www.veed.io/)  video tools
 16. 
-17. **All**: AI-powered content generation. - [Arvin](https://arvin.chat/)  
-18. **Image & 3D Model Creation**: Create images and 3D models with AI. - [CG Dream](https://cgdream.ai/)  
-19. **All**: AI-powered content generation. - [Clipdrop](https://clipdrop.co/)  
-20. **All**: AI-powered content generation. - [Cutout](https://www.cutout.pro/)  
-21. **All**: AI-powered content generation. - [Getimg](https://getimg.ai/)  
-22. **All**: AI-powered content generation. - [Eluna](https://www.eluna.ai/)  
-23. **Image Generation**: Generate images with AI. - [Krea](https://www.krea.ai/)  
-24. **All**: AI-powered content generation. - [Runway](https://runwayml.com/)  
-25. **Image & Video Enhancer**: Enhance images and videos with AI. - [TensorPix](https://tensorpix.ai/)  
-26. **Image Generation**: Generate images with AI. - [Impossible Images](https://impossibleimages.ai/)  
-27. **Image Generation**: Generate images with AI. - [Civitai](https://civitai.com/)  
-28. **Image Generation**: Generate images with AI. - [Lexica](https://lexica.art/)  
-29. **Image Generation**: Generate images with AI. - [SeaArt](https://www.seaart.ai/)  
-30. **Image Generation**: Generate images with AI. - [Imagine](https://www.imagine.art/)  
-31. **Image Generation**: Generate images with AI. - [Black Forest Labs](https://blackforestlabs.ai/)  
-32. **Image Generation**: Generate images with AI. - [BasedLabs](https://www.basedlabs.ai/)  
-33. **Image Tools**: Enhance and edit images. - [DGB](https://dgb.lol/)  
-34. **Image Generation**: Generate images with AI. - [OpenArt](https://openart.ai)  
-35. **All**: AI-powered content generation. - [Kive](https://kive.ai/)  
+17. **All**: AI-powered content generation. - [Arvin](https://arvin.chat/)  personal assistant / design tools
+18. 
+19. **Image & 3D Model Creation**: Create images and 3D models with AI. - [CG Dream](https://cgdream.ai/)  
+20. **All**: AI-powered content generation. - [Clipdrop](https://clipdrop.co/)  design tools
+21. **All**: AI-powered content generation. - [Cutout](https://www.cutout.pro/)  design tools
+22. **All**: AI-powered content generation. - [Getimg](https://getimg.ai/)  design tools
+23. **All**: AI-powered content generation. - [Eluna](https://www.eluna.ai/)  design tools
+24. **Image Generation**: Generate images with AI. - [Krea](https://www.krea.ai/)  design tools
+25. 
+26. **All**: AI-powered content generation. - [Runway](https://runwayml.com/)  
+27. **Image & Video Enhancer**: Enhance images and videos with AI. - [TensorPix](https://tensorpix.ai/)  
+28. **Image Generation**: Generate images with AI. - [Impossible Images](https://impossibleimages.ai/)  
+29. **Image Generation**: Generate images with AI. - [Civitai](https://civitai.com/)  
+30. **Image Generation**: Generate images with AI. - [Lexica](https://lexica.art/)  
+31. **Image Generation**: Generate images with AI. - [SeaArt](https://www.seaart.ai/)  
+32. **Image Generation**: Generate images with AI. - [Imagine](https://www.imagine.art/)  
+33. **Image Generation**: Generate images with AI. - [Black Forest Labs](https://blackforestlabs.ai/)  
+34. **Image Generation**: Generate images with AI. - [BasedLabs](https://www.basedlabs.ai/)  
+35. **Image Tools**: Enhance and edit images. - [DGB](https://dgb.lol/)  
+36. **Image Generation**: Generate images with AI. - [OpenArt](https://openart.ai)  
+37. **All**: AI-powered content generation. - [Kive](https://kive.ai/)  
 
 # Prototyping  
 1. **Figma**: Collaborative design and prototyping tool. - [Visit Figma](https://www.figma.com/)  
