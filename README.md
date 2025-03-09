@@ -234,7 +234,25 @@ Create a storyboard for a tense, cinematic scene in **The Shattered Basin**, a v
 
 **Notes for Artist**: Use bold contrasts—golden light vs. deep shadows—to mimic 70mm film stock. Keep props (crate, dagger, satchel) detailed in close-ups for texture. Emphasize Kael’s silhouette and the frame’s width in wides—think *Lawrence of Arabia* scope. Add faint grain and soft lens flares for that analog Ultra Panavision feel. Keep motion deliberate, no quick cuts, to build tension organically.
 ```
+### Mood Board
+- **Prompt**:
+```
+Design a mood board for a film scene set in **The Shattered Basin**, a desolate desert canyon, shot in Ultra Panavision 70 with a 2.76:1 aspect ratio, evoking the raw, epic spirit of 1960s 70mm classics like *Lawrence of Arabia*. Center it on **Kael Draven**, a weathered wanderer, in a tense twilight moment as he faces an approaching threat. The board should fuse producer practicality, creative direction, and stylistic flair to define the film’s visual identity.
 
+- **Color Palette**: Anchor in twilight hues—deep oranges and golds bleeding into bruised purples and cool grays. Accent with the sun-bleached whites of sand and rock, punctuated by shadowy charcoals in Kael’s silhouette and the distant mesa. Add subtle anamorphic flares: soft blue streaks glinting off metal or horizon edges.
+
+- **Textures**: Rough and tactile—cracked salt flats with a dusty sheen, wind-eroded rock spires like gnarled bone, and dunes rippling in soft, organic waves. Layer in Kael’s world: splintered wood grain on the weathered crate, pitted rust on his dagger, and the brittle, frayed edges of his map. Aim for a 70mm film stock vibe—slight grain, no digital polish.
+
+- **Wardrobe (Kael’s Style)**: Kael’s look is survivalist-chic—tattered robes in faded earth tones (sand beige, muted olive), patched with coarse stitching. His threadbare hood, a sun-faded rust red, drapes loose, shadowing his scarred face. The leather satchel, cracked and worn, slings across his chest, its straps fraying. Boots are scuffed, ankle-high, with sand caked into the soles—functional, not flashy. Every piece feels lived-in, weathered by years in the Basin.
+
+- **Props**: Minimal but storytelling—place the rusted dagger with its etched sigil front and center, its blade dulled by time. The wooden crate, half-broken, spills tarnished bronze coins and a cracked clay jug. The leather satchel holds dry dates and a crumpled, ink-faded map—props that hint at Kael’s past and present. Scatter camel bones in the sand, bleached white, for eerie texture.
+
+- **Atmosphere**: Capture the vastness of the Ultra Panavision frame—Kael’s lone figure dwarfed by dunes and spires, with long shadows stretching across the salt flat. Infuse a sense of quiet dread: a faint dust cloud on the horizon, wind-streaked sand swirling in the foreground, and a golden glow fading into dusk. Add a retro filmic touch—soft lens flares, warm highlights, and a hint of grainy haze.
+
+- **Inspiration**: Pull from *Lawrence of Arabia*’s sweeping desert vistas, *The Revenant*’s gritty survivalism, and *Dune* (2021)’s tactile costumes—blend into a unique, analog epic. Think Kael as a rugged Peter O’Toole meets a lean Hugh Glass.
+
+**Notes**: Keep it practical for production—wardrobe and props should be sourceable (vintage fabrics, aged metal) yet bold enough for marketing posters. The mood is stoic yet majestic, balancing Kael’s personal stakes with the Basin’s grandeur. Arrange the board with wide landscape shots at the top, Kael’s close-up textures center, and prop details below—let the 2.76:1 frame breathe across it all.
+```
 ## Production
 ### Camera: Ultra Panavision 70
 - **Prompt**:
