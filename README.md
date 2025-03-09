@@ -193,10 +193,11 @@
 1. Production Workflow:: https://frame.io/ - Manage all of your media and assets — video, photos, design files, docs, PDFs, and more — on a single secure surface to create and deliver high-quality content faster.
 2. Producing: Shot Inspiration: https://shotdeck.com/
 3. Scriptwriting: https://www.celtx.com/
-4. Storyboarding:
-5. Scheduling:
-6. Location Scouting
-7. Casting:
+4. Screen Writing: https://www.arcstudiopro.com/
+5. Storyboarding: https://boords.com/
+6. Scheduling: https://www.studiobinder.com/, https://yamdu.com/
+7. Location Scouting: https://giggster.com/
+8. Casting: https://www.backstage.com/
 
 ## Production
 1. Camera
