@@ -190,11 +190,13 @@
 # Film Production
 
 ## Pre-Production
-1. Scriptwriting:
-2. Storyboarding:
-3. Scheduling:
-4. Location Scouting
-5. Casting:
+1. Production Workflow:: https://frame.io/ - Manage all of your media and assets — video, photos, design files, docs, PDFs, and more — on a single secure surface to create and deliver high-quality content faster.
+2. Producing: Shot Inspiration: https://shotdeck.com/
+3. Scriptwriting: https://www.celtx.com/
+4. Storyboarding:
+5. Scheduling:
+6. Location Scouting
+7. Casting:
 
 ## Production
 1. Camera
@@ -215,32 +217,33 @@ Ultra Panavision 70
 
     Engineer the audio for a scene shot in Ultra Panavision 70, with a 2.76:1 aspect ratio, set in a sprawling mountain valley at twilight—a rugged outlaw on foot navigates rocky terrain as a storm brews on the horizon. The sound must match the format’s epic scope and 1960s 70mm film feel—vast, organic, and immersive. On set, rig a hypercardioid shotgun mic (e.g., Sennheiser MKH 70) on a boom just outside the wide frame—coordinate with the gaffer to dodge HMI light stands and keep shadows off the mic pole—capturing the outlaw’s gruff dialogue and labored breaths with clarity, shielded by a zeppelin and windjammer against gusts. Pair it with a lav mic (e.g., Sanken COS-11D) hidden in their coat for backup, wired to a Sound Devices 633 recorder. For ambiance, deploy a spaced stereo pair (e.g., Schoeps CMC 6) off-camera, angled to catch the valley’s natural echo and distant thunder, panning wide to fill the Ultra Panavision frame. In post, layer foley: sharp boot scrapes on gravel, recorded with a large-diaphragm mic in a controlled pit, and the outlaw’s gear rattling subtly—keep it upfront in the mix. Build the background with a low rumble of wind through peaks, sourced from field recordings or a processed Moog synth, tapering off to silence for depth. Mix in 5.1
 
-5. Monitoring: 
-8. Directing:
+5. Monitoring: Cloud Production: Blackmagic Cloud
+8. Directing: https://www.unrealengine.com
 
 ## Post Production
-1. Editing:
-2. Color Grading:
-3. Sound Design:
-4. Visual Effects
-5. Music Composition:
-6. Export:
-8. Marketing:
+1. Editing: Premiere Pro, RunwayML, DaVinci Resolve
 
-7. Production Workflow:: https://frame.io/ - Manage all of your media and assets — video, photos, design files, docs, PDFs, and more — on a single secure surface to create and deliver high-quality content faster.
-9. Cloud Production: Blackmagic Cloud
-10. Shot Inspiration: https://shotdeck.com/
-11. Screen Writing: https://www.celtx.com/
-12. Directing: https://www.unrealengine.com
-13. Production Stock: https://artlist.io/
-14. Editing: Premiere Pro, RunwayML, DaVinci Resolve
-15. Color Grading: https://colourlab.ai/
-16. Color Correction: https://www.filmconvert.com/plugin/cinematch
-17. Film Look Stock: https://www.filmconvert.com/nitrate
-18. Audio Proiduction: https://professional.dolby.com/
-19. VFX: Adobe After Effects
-20. Audio Production: FL Studio - https://www.image-line.com/
-21. Music Generation: https://www.beatoven.ai/
+2. Color Grading:
+
+Color Grading: https://colourlab.ai/
+Color Correction: https://www.filmconvert.com/plugin/cinematch
+Film Look Stock: https://www.filmconvert.com/nitrate
+
+4. Sound Design:
+
+Audio Production: FL Studio - https://www.image-line.com/
+Audio Production: https://professional.dolby.com/
+
+5. Visual Effects: Adobe After Effects
+
+6. Music Composition: https://www.beatoven.ai/
+
+7. Export:
+
+Rendering: https://turborender.com/
+Video Transcoder: https://handbrake.fr/
+
+8. Marketing: https://app.film.io/
 
 ## Pipeline Summary
 
