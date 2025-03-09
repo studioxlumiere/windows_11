@@ -4,7 +4,7 @@
 # Windows Tools  
 - [ ] 1. **Install Warp Terminal**: Modern terminal for developers. - [Download Warp](https://www.warp.dev/)  `winget install Warp.Warp`
 - [ ] 2. Warp Drive: [Download Warp Drive](https://www.warp.dev/warp-drive) `winget install Warp.Warp`
-- [ ] > [!CAUTION]
+> [!CAUTION]
 > - [ ] 3. **Install Nushell**: A new shell for modern systems. - [Download Nushell](https://www.nushell.sh/)  
 - [ ] 4. **Install Glasswire**: Monitor network activity and security. - [Download Glasswire](https://www.glasswire.com/)  
 > [!CAUTION]
