@@ -235,6 +235,12 @@ Ultra Panavision 70
 13. Production Stock: https://artlist.io/
 14. Editing: Premiere Pro, RunwayML, DaVinci Resolve
 15. Color Grading: https://colourlab.ai/
+16. Color Correction: https://www.filmconvert.com/plugin/cinematch
+17. Film Look Stock: https://www.filmconvert.com/nitrate
+18. Audio Proiduction: https://professional.dolby.com/
+19. VFX: Adobe After Effects
+20. Audio Production: FL Studio - https://www.image-line.com/
+21. Music Generation: https://www.beatoven.ai/
 
 ## Pipeline Summary
 
