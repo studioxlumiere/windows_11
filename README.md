@@ -187,6 +187,39 @@
 9. **Image Tools**: Enhance and edit images. - [Magnific](https://magnific.ai/)  
 10. **Image Tools**: Enhance and edit images. - [ImgLarger](https://imglarger.com/)
 
+# Film Production
+
+## Pre-Production
+1. Scriptwriting:
+2. Storyboarding:
+3. Scheduling:
+4. Location Scouting
+5. Casting:
+
+## Production
+1. Camera
+2. Lighting
+3. Audio
+4. Monitoring:
+5. Directing:
+
+## Post Production
+1. Editing:
+2. Color Grading:
+3. Sound Design:
+4. Visual Effects
+5. Music Composition:
+6. Export:
+7. Collaboration:
+8. Marketing:
+
+## Pipeline Summary
+
+    Pre-Production: Scriptwriting → Storyboarding → Budgeting → Location Scouting → Casting.
+    Production: Filming with cameras, lights, and audio → On-set monitoring and directing.
+    Post-Production: Editing → Color grading → Sound design → VFX → Export.
+
+
 # AI Content Generators  
 1. **All**: AI-powered content generation. - [Hedra](https://www.hedra.com/) Film
 2. **All**: AI-powered content generation. - [Kling AI](https://klingai.com/) Film 3
