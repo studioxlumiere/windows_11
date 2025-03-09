@@ -11,15 +11,18 @@
 - [ ] 6. **Encryption**: Secure your files with VeraCrypt. - [Download VeraCrypt](https://www.veracrypt.fr)  
 
 # Windows Tasks  
-1. **System File Checker**: Scan and repair corrupted system files. - Run: `sfc /scannow` in Command Prompt.  
-2. **DISM Command**: Repair Windows image. - Run: `DISM /Online /Cleanup-Image /RestoreHealth` in Command Prompt.  
-3. **Activate Windows Security Systems**: Enable built-in security features.  
-4. **Install Spotify Desktop**: Music streaming app. - [Download Spotify](https://www.spotify.com/download/)  
-5. **Graphics Card Drivers**: Install the latest drivers for your GPU. - [Download Drivers](https://www.gigabyte.com/Graphics-Card/GV-N166SOC-6GD/support#support-dl-utility)  
-6. **Manually Debloat Windows**: Remove unnecessary apps and services manually.  
-7. **Partition Hard Drives**: Organize storage by creating partitions.  
-8. **Create Shared Drives & Network**: Set up shared drives and network access.  
-9. **Create Remote Network**: Set up remote access to your network.
+1. **System File Checker**: Scan and repair corrupted system files. - Run: `sfc /scannow` in Command Prompt.
+```
+sfc /scannow`
+```
+3. **DISM Command**: Repair Windows image. - Run: `DISM /Online /Cleanup-Image /RestoreHealth` in Command Prompt.  
+4. **Activate Windows Security Systems**: Enable built-in security features.  
+5. **Install Spotify Desktop**: Music streaming app. - [Download Spotify](https://www.spotify.com/download/)  
+6. **Graphics Card Drivers**: Install the latest drivers for your GPU. - [Download Drivers](https://www.gigabyte.com/Graphics-Card/GV-N166SOC-6GD/support#support-dl-utility)  
+7. **Manually Debloat Windows**: Remove unnecessary apps and services manually.  
+8. **Partition Hard Drives**: Organize storage by creating partitions.  
+9. **Create Shared Drives & Network**: Set up shared drives and network access.  
+10. **Create Remote Network**: Set up remote access to your network.
 
 # Unix  
 1. **Compositor**: Create dynamic window management. - [Hyprland](https://hyprland.org/)  
