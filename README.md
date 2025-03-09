@@ -8,7 +8,7 @@
 - [ ] 4. **Install Glasswire**: Monitor network activity and security. - [Download Glasswire](https://www.glasswire.com/)  
 - [ ] 5. **Chris Windows Debloat**: Optimize and debloat Windows. - [Chris Windows Debloat](https://github.com/ChrisTitusTech/winutil) *Run:* `irm "https://christitus.com/win" | iex`
 > [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+> Only recommended for users who know what they are doing.
 - [ ] 6. **Encryption**: Secure your files with VeraCrypt. - [Download VeraCrypt](https://www.veracrypt.fr)  
 
 # Windows Tasks  
