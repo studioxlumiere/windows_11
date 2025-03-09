@@ -194,36 +194,33 @@
 13. **Film**: Create films with AI. - [SkyReels](https://www.skyreels.ai) Film 4
 5. **Film**: Create films with AI. - [LTX Studio](https://ltx.studio/)  Storyboarding
 6. **Video**: Generate videos with AI. - [Dream Machine](https://dream-machine.lumalabs.ai/)  Anime / Manga
+7. **Image Generation**: Generate images with AI. - [OpenArt](https://openart.ai) Studio Tools
+8. **All**: AI-powered content generation. - [Kive](https://kive.ai/)  Studio Tools
+9. **Image Generation**: Generate images with AI. - [BasedLabs](https://www.basedlabs.ai/) Studio Tools
+10. **Image Generation**: Generate images with AI. - [Imagine](https://www.imagine.art/) Studio Tools
+11. **All**: AI-powered content generation. - [Runway](https://runwayml.com/)  Studio Tools
+12. 15. **Video**: Edit videos with AI. - [VEED](https://www.veed.io/)  video tools
 
-7. 14. **Video Characters**: Create video characters with AI. - [D-ID](https://www.d-id.com/)  Video Avatars
+13. 14. **Video Characters**: Create video characters with AI. - [D-ID](https://www.d-id.com/)  Video Avatars
 
-8. **Video**: Generate videos with AI. - [Sora](https://openai.com/sora/) Not bad
 4. **Video Generator**: Generate videos with AI. - [Genmo](https://www.genmo.ai/)  Image to Video Motion
 5. **All**: AI-powered content generation. - [Immersity](https://www.immersity.ai/)  video motion
-15. **Video**: Edit videos with AI. - [VEED](https://www.veed.io/)  video tools
-16. 
+
 17. **All**: AI-powered content generation. - [Arvin](https://arvin.chat/)  personal assistant / design tools
-18. 
-19. **Image & 3D Model Creation**: Create images and 3D models with AI. - [CG Dream](https://cgdream.ai/)  
+
 20. **All**: AI-powered content generation. - [Clipdrop](https://clipdrop.co/)  design tools
 21. **All**: AI-powered content generation. - [Cutout](https://www.cutout.pro/)  design tools
 22. **All**: AI-powered content generation. - [Getimg](https://getimg.ai/)  design tools
 23. **All**: AI-powered content generation. - [Eluna](https://www.eluna.ai/)  design tools
 24. **Image Generation**: Generate images with AI. - [Krea](https://www.krea.ai/)  design tools
-25. **Image & Video Enhancer**: Enhance images and videos with AI. - [TensorPix](https://tensorpix.ai/)  image and video enhancer
-26. **Image Generation**: Generate images with AI. - [Impossible Images](https://impossibleimages.ai/)  image creation
-    
-28. **All**: AI-powered content generation. - [Runway](https://runwayml.com/)  
 
-29. **Image Generation**: Generate images with AI. - [Civitai](https://civitai.com/)  
-30. **Image Generation**: Generate images with AI. - [Lexica](https://lexica.art/)  
-31. **Image Generation**: Generate images with AI. - [SeaArt](https://www.seaart.ai/)  
-32. **Image Generation**: Generate images with AI. - [Imagine](https://www.imagine.art/)  
-33. **Image Generation**: Generate images with AI. - [Black Forest Labs](https://blackforestlabs.ai/)  
-34. **Image Generation**: Generate images with AI. - [BasedLabs](https://www.basedlabs.ai/)  
-35. **Image Tools**: Enhance and edit images. - [DGB](https://dgb.lol/)  
-36. **Image Generation**: Generate images with AI. - [OpenArt](https://openart.ai)  
-37. **All**: AI-powered content generation. - [Kive](https://kive.ai/)  
+29. **Image Generation**: Generate images with AI. - [Civitai](https://civitai.com/)  Image Models
+31. **Image Generation**: Generate images with AI. - [SeaArt](https://www.seaart.ai/)  Image Creation
+32. **Image & 3D Model Creation**: Create images and 3D models with AI. - [CG Dream](https://cgdream.ai/)  image creation
+33. **Image Generation**: Generate images with AI. - [Impossible Images](https://impossibleimages.ai/)  image creation
+34. **Image & Video Enhancer**: Enhance images and videos with AI. - [TensorPix](https://tensorpix.ai/)  image and video enhancer
+
+35. **Image Generation**: Generate images with AI. - [Black Forest Labs](https://blackforestlabs.ai/)  
 
 # Prototyping  
 1. **Figma**: Collaborative design and prototyping tool. - [Visit Figma](https://www.figma.com/)  
