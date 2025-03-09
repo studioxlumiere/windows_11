@@ -207,6 +207,17 @@ DISM /Online /Cleanup-Image /RestoreHealth
 - **Location Scouting**: [Giggster](https://giggster.com/) - *Find and book filming locations.*
 - **Casting**: [Backstage](https://www.backstage.com/) - *Connect with actors and talent.*
 
+### Actor / Character
+- **Prompt**:
+```
+Develop a character named **Kael Draven**, a weathered desert wanderer in his late 40s, for a film shot in the style of Ultra Panavision 70, set against the endless dunes of a sun-scorched wasteland at twilight. Kael is a reluctant hero, once a revered tribal leader who lost everything—family, honor, and faith—to a rival clan’s betrayal a decade ago. Now, he roams as a scavenger, his wiry frame cloaked in tattered robes, a sun-bleached leather satchel slung across his chest, hiding a rusted dagger etched with his old clan’s sigil. His face is a map of survival: sharp cheekbones framed by a salt-and-pepper beard, eyes like storm clouds—piercing yet haunted—scarred by a jagged line across his left brow from a fight he barely won. Kael’s voice is low and gravelly, each word measured, carrying the weight of unspoken grief, but it cracks with dry wit when he’s pushed. He moves with a predator’s grace, deliberate and silent, yet his hands tremble faintly when he grips the dagger—a tell of buried rage and guilt. His arc is redemption through sacrifice: he’s drawn into a brewing war between clans over a hidden oasis, forced to lead again despite his distrust of others, ultimately giving his life to secure peace he’ll never see. For casting, seek an actor who can embody quiet intensity and physicality—think a lean, rugged type with a voice that resonates like distant thunder, capable of conveying both stoic resolve and raw vulnerability. Bonus if they’ve got experience with subtle, expressive silences that fill a widescreen frame.
+```
+### Scene / Location
+- **Prompt**:
+```
+Set the scene in **The Shattered Basin**, a sprawling desert canyon carved into the earth like a jagged wound, filmed in Ultra Panavision 70 with a 2.76:1 aspect ratio. It’s twilight, the sky a bruised tapestry of orange and violet, casting long, sharp shadows across dunes that ripple out to a distant, crumbling mesa. The air hums with the faint whine of wind through eroded rock spires—twisted natural sculptures, 20 feet tall, bleached bone-white by centuries of sun. In the foreground, a shallow, cracked salt flat reflects the fading light, its edges littered with sun-scorched scrub brush and the skeletal remains of a long-dead camel, half-buried in sand. Center stage is **Kael Draven**, crouched beside a **prop: weathered wooden crate**, its splintered lid pried open to reveal a stash of tarnished bronze coins and a cracked clay water jug—remnants of a caravan he’s scavenged. His **prop: rusted dagger** rests on his knee, its etched sigil catching the last rays of sun, while his **prop: tattered leather satchel** lies open beside him, spilling a few dry dates and a frayed map scribbled with faded ink. The scene: Kael hears a distant rumble—hoofbeats—and rises slowly, his shadow stretching across the salt flat like a dark omen. He grips the dagger, hands trembling faintly, and mutters, 'Not again,' his gravelly voice breaking the silence as he scans the horizon. A gust kicks up sand, stinging his scarred face, and he pulls his **prop: threadbare hood** tighter, squinting toward a dust cloud swelling in the distance—riders approaching. The camera pans wide, capturing the vastness of the Basin, then dollies in on Kael’s storm-cloud eyes, flickering with dread and defiance. For props, keep them minimal but tactile: the crate’s rough grain, the dagger’s pitted metal, the map’s brittle edges—all weathered like Kael himself, grounding the epic frame in gritty realism.
+```
+
 ## Production
 ### Camera: Ultra Panavision 70
 - **Prompt**:
@@ -215,7 +226,7 @@ Shoot a cinematic scene in Ultra Panavision 70 (2.76:1 aspect ratio). Capture a 
 ```
 
 ### Lighting: Ultra Panavision 70
-- **Promt**:
+- **Prompt**:
 ```
 Light a desert scene at magic hour in Ultra Panavision 70 (2.76:1). Use a low-angle 1k HMI with 1/2 CTO gel for a golden key on a horseback figure, camera-left, with a 4x4 bounce for subtle fill. Background dunes lit by natural orange/purple sky, enhanced with a 12k HMI (1/4 CTS gel) skimming low from camera-right, plus a 2k fresnel backlight for rimming. Add flicker, minimal diffusion, and 1/4 fog for organic 70mm clarity and anamorphic flare. Shadows are long, tones warm/cool, evoking raw grandeur.
 ```
