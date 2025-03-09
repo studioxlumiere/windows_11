@@ -195,70 +195,51 @@ DISM /Online /Cleanup-Image /RestoreHealth
 9. **Image Tools**: Enhance and edit images. - [Magnific](https://magnific.ai/)  
 10. **Image Tools**: Enhance and edit images. - [ImgLarger](https://imglarger.com/)
 
-# Film Production
+# Film Production Toolkit
 
 ## Pre-Production
-1. Production Workflow:: https://frame.io/ - Manage all of your media and assets — video, photos, design files, docs, PDFs, and more — on a single secure surface to create and deliver high-quality content faster.
-2. Producing: Shot Inspiration: https://shotdeck.com/
-3. Scriptwriting: https://www.celtx.com/
-4. Screen Writing: https://www.arcstudiopro.com/
-5. Storyboarding: https://boords.com/
-6. Scheduling: https://www.studiobinder.com/, https://yamdu.com/
-7. Location Scouting: https://giggster.com/
-8. Casting: https://www.backstage.com/
+- **Production Workflow**: [Frame.io](https://frame.io/) - *Securely manage media (video, photos, docs) for faster, high-quality content creation.*
+- **Shot Inspiration**: [Shotdeck](https://shotdeck.com/) - *Curated cinematic references for visual planning.*
+- **Scriptwriting**: [Celtx](https://www.celtx.com/) - Collaborative tools for writing scripts.
+- **Screenwriting**: [Arc Studio Pro](https://www.arcstudiopro.com/) - *Professional screenwriting software.*
+- **Storyboarding**: [Boords](https://boords.com/) - *Streamlined storyboard creation.*
+- **Scheduling**: [StudioBinder](https://www.studiobinder.com/), [Yamdu](https://yamdu.com/) - *Plan shoots and manage production timelines.*
+- **Location Scouting**: [Giggster](https://giggster.com/) - *Find and book filming locations.*
+- **Casting**: [Backstage](https://www.backstage.com/) - *Connect with actors and talent.*
 
 ## Production
-1. Camera
+### Camera: Ultra Panavision 70
+- **Prompt**: `Shoot a cinematic scene in Ultra Panavision 70 (2.76:1 aspect ratio). Capture a vast landscape—endless desert dunes at golden sunset, towering mountains, or a battlefield—with anamorphic lens effects curving the edges. Use natural, dramatic lighting (deep shadows, vibrant highlights) and 70mm film texture (slight grain, rich colors, soft glow). Emphasize depth: sharp foreground (e.g., lone figure, chariot, ruins) against a crisp horizon. Mood is epic, timeless, with slow pans or dolly shots for scale. Aim for a 1960s Hollywood analog feel, no digital sheen`
 
-Ultra Panavision 70
+### Lighting: Ultra Panavision 70
+- **Promt**: `Light a desert scene at magic hour in Ultra Panavision 70 (2.76:1). Use a low-angle 1k HMI with 1/2 CTO gel for a golden key on a horseback figure, camera-left, with a 4x4 bounce for subtle fill. Background dunes lit by natural orange/purple sky, enhanced with a 12k HMI (1/4 CTS gel) skimming low from camera-right, plus a 2k fresnel backlight for rimming. Add flicker, minimal diffusion, and 1/4 fog for organic 70mm clarity and anamorphic flare. Shadows are long, tones warm/cool, evoking raw grandeur.`
 
-    Create a cinematic scene shot in the style of Ultra Panavision 70, with a 2.76:1 aspect ratio. The frame showcases a vast, sweeping landscape—think endless desert dunes under a golden sunset, towering mountains, or a sprawling battlefield—with intricate details in both  the foreground and background. Use an anamorphic lens effect to subtly curve the edges, enhancing the widescreen grandeur. The lighting is natural and dramatic, with deep shadows and vibrant highlights, evoking a 70mm film stock texture—slight grain, rich colors, and a    soft, organic glow. The depth of field is pronounced: a sharp, detailed foreground (e.g., a lone figure, a horse-drawn chariot, or weathered ruins) contrasts against a crisp, expansive horizon. The mood is epic and timeless, with smooth, deliberate camera movement—slow    pans or a gentle dolly shot—to emphasize scale and majesty. No modern digital sheen; aim for the tactile, analog feel of 1960s Hollywood epics.    
+### Audio: Ultra Panavision 70
+- **Prompt**: `Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an outlaw on rocky terrain, storm brewing. Use a hypercardioid shotgun mic (e.g., Sennheiser MKH 70) on a boom for dialogue/breaths, paired with a lav mic (e.g., Sanken COS-11D) and Sound Devices 633. Capture ambiance with a stereo pair (e.g., Schoeps CMC 6) for echo/thunder. In post, layer foley (boot scrapes, gear rattles) and wind rumble (field recordings or Moog synth) in 5.1 for an immersive, 1960s 70mm feel.`
 
-3. Lighting
+- **Monitoring**: [Blackmagic Cloud](https://www.blackmagicdesign.com/products/blackmagiccloud) - *Cloud-based production monitoring.*
+- **Directing**: [Unreal Engine](https://www.unrealengine.com/) - *Real-time visualization and virtual production.*
 
-Ultra Panavision 70
-
-    "Design the lighting for a movie scene shot in Ultra Panavision 70, with a 2.76:1 aspect ratio, capturing the epic scope of a vast desert landscape at magic hour—just after sunset. The goal is a timeless, analog cinematic feel, evoking 70mm film stock from 1960s epics. Light a lone figure on horseback in the foreground with a soft, golden key light from a low-angle 1k HMI, gelled with 1/2 CTO to warm the fading sunlight, positioned camera-left to sculpt their silhouette against the horizon. Supplement with a subtle fill from a 4x4 bounce board, catching ambient glow, to keep shadow detail without flattening the contrast. For the background—rolling dunes stretching to infinity—rely on the natural deep orange and purple sky, augmented by a distant 12k HMI with a 1/4 CTS gel, skimmed low across the sand from camera-right to carve out texture and depth, mimicking the sun’s last rays. Add a faint backlight with a 2k fresnel, ungelled, rimming the horse and rider to pop them against the dusk. Keep the lighting organic: slight flicker from wind on silks, minimal diffusion for that crisp 70mm clarity, and a touch of atmospheric haze (1/4 fog) to soften the horizon and enhance the anamorphic lens flare. Shadows should fall long and sharp, with a rich interplay of warm and cool tones across the frame—no digital sterility, just raw, tactile grandeur."
-
-4. Audio
-
-Ultra Panavision 70
-
-    Engineer the audio for a scene shot in Ultra Panavision 70, with a 2.76:1 aspect ratio, set in a sprawling mountain valley at twilight—a rugged outlaw on foot navigates rocky terrain as a storm brews on the horizon. The sound must match the format’s epic scope and 1960s 70mm film feel—vast, organic, and immersive. On set, rig a hypercardioid shotgun mic (e.g., Sennheiser MKH 70) on a boom just outside the wide frame—coordinate with the gaffer to dodge HMI light stands and keep shadows off the mic pole—capturing the outlaw’s gruff dialogue and labored breaths with clarity, shielded by a zeppelin and windjammer against gusts. Pair it with a lav mic (e.g., Sanken COS-11D) hidden in their coat for backup, wired to a Sound Devices 633 recorder. For ambiance, deploy a spaced stereo pair (e.g., Schoeps CMC 6) off-camera, angled to catch the valley’s natural echo and distant thunder, panning wide to fill the Ultra Panavision frame. In post, layer foley: sharp boot scrapes on gravel, recorded with a large-diaphragm mic in a controlled pit, and the outlaw’s gear rattling subtly—keep it upfront in the mix. Build the background with a low rumble of wind through peaks, sourced from field recordings or a processed Moog synth, tapering off to silence for depth. Mix in 5.1
-
-5. Monitoring: Cloud Production: Blackmagic Cloud
-8. Directing: https://www.unrealengine.com
-
-## Post Production
-1. Editing: Premiere Pro, RunwayML, DaVinci Resolve
-
-2. Color Grading:
-
-Color Grading: https://colourlab.ai/
-Color Correction: https://www.filmconvert.com/plugin/cinematch
-Film Look Stock: https://www.filmconvert.com/nitrate
-
-4. Sound Design:
-
-Audio Production: FL Studio - https://www.image-line.com/
-Audio Production: https://professional.dolby.com/
-
-5. Visual Effects: Adobe After Effects
-
-6. Music Composition: https://www.beatoven.ai/
-
-7. Export:
-
-Rendering: https://turborender.com/
-Video Transcoder: https://handbrake.fr/
-
-8. Marketing: https://app.film.io/
+## Post-Production
+- **Editing**: [Premiere Pro](https://www.adobe.com/products/premiere.html), [RunwayML](https://runwayml.com/), [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - *Video editing suites.*
+- **Color Grading**:
+  - [Colourlab AI](https://colourlab.ai/) - *AI-powered color grading.*
+  - [Cinematch](https://www.filmconvert.com/plugin/cinematch) - *Precise color correction.*
+  - [FilmConvert Nitrate](https://www.filmconvert.com/nitrate) - *Authentic film stock looks.*
+- **Sound Design**:
+  - [FL Studio](https://www.image-line.com/) - *Audio production and mixing.*
+  - [Dolby Professional](https://professional.dolby.com/) - *Advanced sound tools.*
+- **Visual Effects**: [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) - *Motion graphics and VFX.*
+- **Music Composition**: [Beatoven.ai](https://www.beatoven.ai/) - *AI-generated music tracks.*
+- **Export**:
+  - [TurboRender](https://turborender.com/) - *Fast rendering service.*
+  - [HandBrake](https://handbrake.fr/) - *Open-source video transcoder.*
+- **Marketing**: [Film.io](https://app.film.io/) - *Promote and distribute your film.*
 
 ## Pipeline Summary
-
-    Pre-Production: Scriptwriting → Storyboarding → Budgeting → Location Scouting → Casting.
-    Production: Filming with cameras, lights, and audio → On-set monitoring and directing.
-    Post-Production: Editing → Color grading → Sound design → VFX → Export.
+- **Pre-Production**: Scriptwriting → Storyboarding → Budgeting → Location Scouting → Casting
+- **Production**: Filming (cameras, lights, audio) → On-set monitoring and directing
+- **Post-Production**: Editing → Color grading → Sound design → VFX → Export
 
 
 # AI Content Generators  
