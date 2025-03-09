@@ -1,5 +1,5 @@
 # Windows 11 Environment  
-- [ ] 1. **Install and Configure a Fresh Copy of Windows 10/11**: Set up a clean installation or upgrade. - [Download Windows 10](https://www.microsoft.com/software-download/windows10) | [Download Windows 11](https://www.microsoft.com/software-download/windows11) (Serial: `W62VF-DNQ6W-9TB43-HRVGV-YY49F`)  
+- [ ] 1. **Install and Configure a Fresh Copy of Windows 10/11**: Set up a clean installation or upgrade. - [Download Windows 10](https://www.microsoft.com/software-download/windows10) | [Download Windows 11](https://www.microsoft.com/software-download/windows11) ( Serial: `W62VF-DNQ6W-9TB43-HRVGV-YY49F` )  
 
 # Windows Tools  
 - [ ] 1. **Install Warp Terminal**: Modern terminal for developers. - [Download Warp](https://www.warp.dev/)  `winget install Warp.Warp`
