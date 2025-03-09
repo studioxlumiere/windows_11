@@ -204,9 +204,19 @@ Ultra Panavision 70
     Create a cinematic scene shot in the style of Ultra Panavision 70, with a 2.76:1 aspect ratio. The frame showcases a vast, sweeping landscape—think endless desert dunes under a golden sunset, towering mountains, or a sprawling battlefield—with intricate details in both  the foreground and background. Use an anamorphic lens effect to subtly curve the edges, enhancing the widescreen grandeur. The lighting is natural and dramatic, with deep shadows and vibrant highlights, evoking a 70mm film stock texture—slight grain, rich colors, and a    soft, organic glow. The depth of field is pronounced: a sharp, detailed foreground (e.g., a lone figure, a horse-drawn chariot, or weathered ruins) contrasts against a crisp, expansive horizon. The mood is epic and timeless, with smooth, deliberate camera movement—slow    pans or a gentle dolly shot—to emphasize scale and majesty. No modern digital sheen; aim for the tactile, analog feel of 1960s Hollywood epics.    
 
 3. Lighting
+
+Ultra Panavision 70
+
+    "Design the lighting for a movie scene shot in Ultra Panavision 70, with a 2.76:1 aspect ratio, capturing the epic scope of a vast desert landscape at magic hour—just after sunset. The goal is a timeless, analog cinematic feel, evoking 70mm film stock from 1960s epics. Light a lone figure on horseback in the foreground with a soft, golden key light from a low-angle 1k HMI, gelled with 1/2 CTO to warm the fading sunlight, positioned camera-left to sculpt their silhouette against the horizon. Supplement with a subtle fill from a 4x4 bounce board, catching ambient glow, to keep shadow detail without flattening the contrast. For the background—rolling dunes stretching to infinity—rely on the natural deep orange and purple sky, augmented by a distant 12k HMI with a 1/4 CTS gel, skimmed low across the sand from camera-right to carve out texture and depth, mimicking the sun’s last rays. Add a faint backlight with a 2k fresnel, ungelled, rimming the horse and rider to pop them against the dusk. Keep the lighting organic: slight flicker from wind on silks, minimal diffusion for that crisp 70mm clarity, and a touch of atmospheric haze (1/4 fog) to soften the horizon and enhance the anamorphic lens flare. Shadows should fall long and sharp, with a rich interplay of warm and cool tones across the frame—no digital sterility, just raw, tactile grandeur."
+
 4. Audio
-5. Monitoring:
-6. Directing:
+
+Ultra Panavision 70
+
+    Engineer the audio for a scene shot in Ultra Panavision 70, with a 2.76:1 aspect ratio, set in a sprawling mountain valley at twilight—a rugged outlaw on foot navigates rocky terrain as a storm brews on the horizon. The sound must match the format’s epic scope and 1960s 70mm film feel—vast, organic, and immersive. On set, rig a hypercardioid shotgun mic (e.g., Sennheiser MKH 70) on a boom just outside the wide frame—coordinate with the gaffer to dodge HMI light stands and keep shadows off the mic pole—capturing the outlaw’s gruff dialogue and labored breaths with clarity, shielded by a zeppelin and windjammer against gusts. Pair it with a lav mic (e.g., Sanken COS-11D) hidden in their coat for backup, wired to a Sound Devices 633 recorder. For ambiance, deploy a spaced stereo pair (e.g., Schoeps CMC 6) off-camera, angled to catch the valley’s natural echo and distant thunder, panning wide to fill the Ultra Panavision frame. In post, layer foley: sharp boot scrapes on gravel, recorded with a large-diaphragm mic in a controlled pit, and the outlaw’s gear rattling subtly—keep it upfront in the mix. Build the background with a low rumble of wind through peaks, sourced from field recordings or a processed Moog synth, tapering off to silence for depth. Mix in 5.1
+
+5. Monitoring: 
+8. Directing:
 
 ## Post Production
 1. Editing:
@@ -215,8 +225,16 @@ Ultra Panavision 70
 4. Visual Effects
 5. Music Composition:
 6. Export:
-7. Collaboration:
 8. Marketing:
+
+7. Production Workflow:: https://frame.io/ - Manage all of your media and assets — video, photos, design files, docs, PDFs, and more — on a single secure surface to create and deliver high-quality content faster.
+9. Cloud Production: Blackmagic Cloud
+10. Shot Inspiration: https://shotdeck.com/
+11. Screen Writing: https://www.celtx.com/
+12. Directing: https://www.unrealengine.com
+13. Production Stock: https://artlist.io/
+14. Editing: Premiere Pro, RunwayML, DaVinci Resolve
+15. Color Grading: https://colourlab.ai/
 
 ## Pipeline Summary
 
