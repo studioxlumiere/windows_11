@@ -209,13 +209,22 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ## Production
 ### Camera: Ultra Panavision 70
-- **Prompt**: `Shoot a cinematic scene in Ultra Panavision 70 (2.76:1 aspect ratio). Capture a vast landscape—endless desert dunes at golden sunset, towering mountains, or a battlefield—with anamorphic lens effects curving the edges. Use natural, dramatic lighting (deep shadows, vibrant highlights) and 70mm film texture (slight grain, rich colors, soft glow). Emphasize depth: sharp foreground (e.g., lone figure, chariot, ruins) against a crisp horizon. Mood is epic, timeless, with slow pans or dolly shots for scale. Aim for a 1960s Hollywood analog feel, no digital sheen`
+- **Prompt**:
+```
+Shoot a cinematic scene in Ultra Panavision 70 (2.76:1 aspect ratio). Capture a vast landscape—endless desert dunes at golden sunset, towering mountains, or a battlefield—with anamorphic lens effects curving the edges. Use natural, dramatic lighting (deep shadows, vibrant highlights) and 70mm film texture (slight grain, rich colors, soft glow). Emphasize depth: sharp foreground (e.g., lone figure, chariot, ruins) against a crisp horizon. Mood is epic, timeless, with slow pans or dolly shots for scale. Aim for a 1960s Hollywood analog feel, no digital sheen
+```
 
 ### Lighting: Ultra Panavision 70
-- **Promt**: `Light a desert scene at magic hour in Ultra Panavision 70 (2.76:1). Use a low-angle 1k HMI with 1/2 CTO gel for a golden key on a horseback figure, camera-left, with a 4x4 bounce for subtle fill. Background dunes lit by natural orange/purple sky, enhanced with a 12k HMI (1/4 CTS gel) skimming low from camera-right, plus a 2k fresnel backlight for rimming. Add flicker, minimal diffusion, and 1/4 fog for organic 70mm clarity and anamorphic flare. Shadows are long, tones warm/cool, evoking raw grandeur.`
+- **Promt**:
+```
+Light a desert scene at magic hour in Ultra Panavision 70 (2.76:1). Use a low-angle 1k HMI with 1/2 CTO gel for a golden key on a horseback figure, camera-left, with a 4x4 bounce for subtle fill. Background dunes lit by natural orange/purple sky, enhanced with a 12k HMI (1/4 CTS gel) skimming low from camera-right, plus a 2k fresnel backlight for rimming. Add flicker, minimal diffusion, and 1/4 fog for organic 70mm clarity and anamorphic flare. Shadows are long, tones warm/cool, evoking raw grandeur.
+```
 
 ### Audio: Ultra Panavision 70
-- **Prompt**: `Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an outlaw on rocky terrain, storm brewing. Use a hypercardioid shotgun mic (e.g., Sennheiser MKH 70) on a boom for dialogue/breaths, paired with a lav mic (e.g., Sanken COS-11D) and Sound Devices 633. Capture ambiance with a stereo pair (e.g., Schoeps CMC 6) for echo/thunder. In post, layer foley (boot scrapes, gear rattles) and wind rumble (field recordings or Moog synth) in 5.1 for an immersive, 1960s 70mm feel.`
+- **Prompt**:
+```
+Record a mountain valley scene in Ultra Panavision 70 (2.76:1) at twilight—an outlaw on rocky terrain, storm brewing. Use a hypercardioid shotgun mic (e.g., Sennheiser MKH 70) on a boom for dialogue/breaths, paired with a lav mic (e.g., Sanken COS-11D) and Sound Devices 633. Capture ambiance with a stereo pair (e.g., Schoeps CMC 6) for echo/thunder. In post, layer foley (boot scrapes, gear rattles) and wind rumble (field recordings or Moog synth) in 5.1 for an immersive, 1960s 70mm feel.
+```
 
 - **Monitoring**: [Blackmagic Cloud](https://www.blackmagicdesign.com/products/blackmagiccloud) - *Cloud-based production monitoring.*
 - **Directing**: [Unreal Engine](https://www.unrealengine.com/) - *Real-time visualization and virtual production.*
