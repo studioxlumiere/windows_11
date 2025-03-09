@@ -15,14 +15,17 @@
 ```
 sfc /scannow
 ```
-3. **DISM Command**: Repair Windows image. - Run: `DISM /Online /Cleanup-Image /RestoreHealth` in Command Prompt.  
-4. **Activate Windows Security Systems**: Enable built-in security features.  
-5. **Install Spotify Desktop**: Music streaming app. - [Download Spotify](https://www.spotify.com/download/)  
-6. **Graphics Card Drivers**: Install the latest drivers for your GPU. - [Download Drivers](https://www.gigabyte.com/Graphics-Card/GV-N166SOC-6GD/support#support-dl-utility)  
-7. **Manually Debloat Windows**: Remove unnecessary apps and services manually.  
-8. **Partition Hard Drives**: Organize storage by creating partitions.  
-9. **Create Shared Drives & Network**: Set up shared drives and network access.  
-10. **Create Remote Network**: Set up remote access to your network.
+3. **DISM Command**: Repair Windows image. - Run: `DISM /Online /Cleanup-Image /RestoreHealth` in Command Prompt.
+```
+DISM /Online /Cleanup-Image /RestoreHealth
+```
+5. **Activate Windows Security Systems**: Enable built-in security features.  
+6. **Install Spotify Desktop**: Music streaming app. - [Download Spotify](https://www.spotify.com/download/)  
+7. **Graphics Card Drivers**: Install the latest drivers for your GPU. - [Download Drivers](https://www.gigabyte.com/Graphics-Card/GV-N166SOC-6GD/support#support-dl-utility)  
+8. **Manually Debloat Windows**: Remove unnecessary apps and services manually.  
+9. **Partition Hard Drives**: Organize storage by creating partitions.  
+10. **Create Shared Drives & Network**: Set up shared drives and network access.  
+11. **Create Remote Network**: Set up remote access to your network.
 
 # Unix  
 1. **Compositor**: Create dynamic window management. - [Hyprland](https://hyprland.org/)  
