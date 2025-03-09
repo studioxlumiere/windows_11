@@ -6,7 +6,7 @@
 - [ ] 2. Warp Drive: [Download Warp Drive](https://www.warp.dev/warp-drive) `winget install Warp.Warp`
 - [ ] 3. **Install Nushell**: A new shell for modern systems. - [Download Nushell](https://www.nushell.sh/)  
 - [ ] 4. **Install Glasswire**: Monitor network activity and security. - [Download Glasswire](https://www.glasswire.com/)  
-- [ ] > [!CAUTION] 5. **Chris Windows Debloat**: Optimize and debloat Windows. - [Chris Windows Debloat](https://github.com/ChrisTitusTech/winutil) *Run:* `irm "https://christitus.com/win" | iex` 
+- [ ] > [!CAUTION] 5. **Chris Windows Debloat**: Optimize and debloat Windows. - [Chris Windows Debloat](https://github.com/ChrisTitusTech/winutil) *Run:* `irm "https://christitus.com/win" | iex` >
 - [ ] 6. **Encryption**: Secure your files with VeraCrypt. - [Download VeraCrypt](https://www.veracrypt.fr)  
 
 # Windows Tasks  
