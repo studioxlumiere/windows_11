@@ -13,7 +13,7 @@
 # Windows Tasks  
 1. **System File Checker**: Scan and repair corrupted system files. - Run: `sfc /scannow` in Command Prompt.
 ```
-sfc /scannow`
+sfc /scannow
 ```
 3. **DISM Command**: Repair Windows image. - Run: `DISM /Online /Cleanup-Image /RestoreHealth` in Command Prompt.  
 4. **Activate Windows Security Systems**: Enable built-in security features.  
