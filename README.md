@@ -235,7 +235,10 @@ DISM /Online /Cleanup-Image /RestoreHealth
 36. https://www.piclumen.com/
 37. https://github.com/ehristoforu/DeFooocus/tree/main
 38. https://github.com/lllyasviel/Fooocus/tree/main
-39. https://cgdream.ai
+40. https://www.midjourney.com
+41. https://www.rokoko.com/products/vision
+42. https://metahuman.unrealengine.com/
+43. https://www.storyblocks.com/
 
 # Prototyping  
 1. **Figma**: Collaborative design and prototyping tool. - [Visit Figma](https://www.figma.com/)  
