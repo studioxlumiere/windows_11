@@ -143,6 +143,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 3. **Accounting**: Manage your accounts. - [Xero](https://xero.com)  
 4. **Receipts**: Manage your receipts. - [SparkReceipt](https://sparkreceipt.com)
 5. Crypto Wallet & Exchange: https://www.exodus.com/
+6. Luno
 
 # Trading  
 1. **Financial Data**: Access financial data. - [Trading Economics](https://tradingeconomics.com/)  
@@ -152,6 +153,8 @@ DISM /Online /Cleanup-Image /RestoreHealth
 2. **Tools**: Access various tools. - [The Tool Bus](https://www.thetoolbus.ai/)  
 3. **OCR**: Convert images to text. - [OCR Space](https://ocr.space/)  
 4. **Document Publishing**: Publish documents online. - [Issuu](https://issuu.com)
+5. https://www.humanizer.pro/
+6. https://originality.ai/
 
 # Notes & Research  
 1. **Windows Notepad**: Built-in text editor for quick notes.  
@@ -374,6 +377,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 6. **Deepseek**: AI-powered assistant. - [Deepseek](https://chat.deepseek.com)  
 7. **Blackbox**: AI-powered assistant. - [Blackbox](https://www.blackbox.ai/)
 8. Claude: https://claude.ai
+9. https://chat.mistral.ai/
 
 # AI Agents  
 1. **Make.com**: Automation platform for workflows. - [Visit Make](https://make.com/)  
