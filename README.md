@@ -231,7 +231,10 @@ DISM /Online /Cleanup-Image /RestoreHealth
 33. **Image Generation**: Generate images with AI. - [Impossible Images](https://impossibleimages.ai/)  image creation
 34. **Image & Video Enhancer**: Enhance images and videos with AI. - [TensorPix](https://tensorpix.ai/)  image and video enhancer
 
-35. **Image Generation**: Generate images with AI. - [Black Forest Labs](https://blackforestlabs.ai/)  
+35. **Image Generation**: Generate images with AI. - [Black Forest Labs](https://blackforestlabs.ai/)   https://github.com/camenduru/flux-jupyter/blob/main/flux.1-dev_jupyter.ipynb
+36. https://www.piclumen.com/
+37. https://github.com/ehristoforu/DeFooocus/tree/main
+38. https://github.com/lllyasviel/Fooocus/tree/main
 
 # Prototyping  
 1. **Figma**: Collaborative design and prototyping tool. - [Visit Figma](https://www.figma.com/)  
@@ -364,6 +367,8 @@ DISM /Online /Cleanup-Image /RestoreHealth
 5. **AI Model Creation**: Create AI models. - [TensorFlow](https://www.tensorflow.org/)  
 6. **AI Creation and Training**: Create and train AI models. - [OpenAI](https://platform.openai.com)
 7. MCP Server: https://github.com/anaisbetts/mcp-installer // Claude
+8. https://www.runpod.io/
+9. https://www.gradio.app/
 
 # AI LLMs  
 1. **Ollama**: Run Llama 3.3, DeepSeek-R1, Phi-4, Mistral, Gemma 2, and other models locally. - [Visit Ollama](https://ollama.com/)
