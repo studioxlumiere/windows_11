@@ -258,6 +258,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 6. **Remote Production**: Collaborate on music production. - [Source Elements](https://www.source-elements.com/)  
 7. **Cloud DAW**: Create music in the cloud. - [Audiotool](https://www.audiotool.com/)  
 8. **Cloud Production**: Collaborate on music production. - [Boombox](https://boombox.io/)
+9. https://www.riffusion.com
 
 # Image  
 1. **Compression**: Compress images. - [Compressor](https://compressor.io/) 
@@ -292,7 +293,9 @@ DISM /Online /Cleanup-Image /RestoreHealth
 7. **Video Tools**: Edit and enhance videos. - [Clideo](https://clideo.com/)  
 8. **Video Editor**: Edit videos with AI. - [Flixier](https://flixier.com/)  
 9. **Video Editor**: Edit videos with AI. - [Capcut](https://www.capcut.com/)  
-10. **Film Inspiration**: Get inspired for filmmaking. - [Shot Cafe](https://shot.cafe/)  
+10. **Film Inspiration**: Get inspired for filmmaking. - [Shot Cafe](https://shot.cafe/)
+11. https://vidiq.com/
+12. https://addons.mozilla.org/en-US/firefox/addon/viewstats-youtube-analytics/
 
 # Coding Development Environment  
 1. **Github Desktop**: GUI for managing Git repositories. - [Download](https://desktop.github.com/)  
