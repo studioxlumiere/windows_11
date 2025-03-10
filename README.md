@@ -210,9 +210,10 @@ DISM /Online /Cleanup-Image /RestoreHealth
 9. **Image Generation**: Generate images with AI. - [BasedLabs](https://www.basedlabs.ai/) Studio Tools
 10. **Image Generation**: Generate images with AI. - [Imagine](https://www.imagine.art/) Studio Tools
 11. **All**: AI-powered content generation. - [Runway](https://runwayml.com/)  Studio Tools
-12. 15. **Video**: Edit videos with AI. - [VEED](https://www.veed.io/)  video tools
+12. https://app.rendernet.ai studio  tools
+13. 15. **Video**: Edit videos with AI. - [VEED](https://www.veed.io/)  video tools
 
-13. 14. **Video Characters**: Create video characters with AI. - [D-ID](https://www.d-id.com/)  Video Avatars
+14. 14. **Video Characters**: Create video characters with AI. - [D-ID](https://www.d-id.com/)  Video Avatars
 
 4. **Video Generator**: Generate videos with AI. - [Genmo](https://www.genmo.ai/)  Image to Video Motion
 5. **All**: AI-powered content generation. - [Immersity](https://www.immersity.ai/)  video motion
@@ -392,6 +393,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 7. **Blackbox**: AI-powered assistant. - [Blackbox](https://www.blackbox.ai/)
 8. Claude: https://claude.ai
 9. https://chat.mistral.ai/
+10. https://convergence.ai/
 
 # AI Agents  
 1. **Make.com**: Automation platform for workflows. - [Visit Make](https://make.com/)  
