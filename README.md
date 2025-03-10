@@ -235,6 +235,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 36. https://www.piclumen.com/
 37. https://github.com/ehristoforu/DeFooocus/tree/main
 38. https://github.com/lllyasviel/Fooocus/tree/main
+39. https://cgdream.ai
 
 # Prototyping  
 1. **Figma**: Collaborative design and prototyping tool. - [Visit Figma](https://www.figma.com/)  
@@ -259,6 +260,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 7. **Cloud DAW**: Create music in the cloud. - [Audiotool](https://www.audiotool.com/)  
 8. **Cloud Production**: Collaborate on music production. - [Boombox](https://boombox.io/)
 9. https://www.riffusion.com
+10. https://suno.com
 
 # Image  
 1. **Compression**: Compress images. - [Compressor](https://compressor.io/) 
@@ -296,6 +298,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 10. **Film Inspiration**: Get inspired for filmmaking. - [Shot Cafe](https://shot.cafe/)
 11. https://vidiq.com/
 12. https://addons.mozilla.org/en-US/firefox/addon/viewstats-youtube-analytics/
+13. https://socialblade.com/youtube/
 
 # Coding Development Environment  
 1. **Github Desktop**: GUI for managing Git repositories. - [Download](https://desktop.github.com/)  
