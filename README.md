@@ -54,7 +54,8 @@ DISM /Online /Cleanup-Image /RestoreHealth
 - [ ] 9. **Create Remote Network**: Set up remote access to your network.
 
 # Unix  
-1. **Compositor**: Create dynamic window management. - [Hyprland](https://hyprland.org/)  
+1. **Compositor**: Create dynamic window management. - [Hyprland](https://hyprland.org/)
+2. https://nixos.org/
 
 # Network  
 1. **Zyxel Router**: Access your router settings. - [Access Zyxel Router](http://10.0.0.2/login/login.html) - User: `Admin` / Pass: `Admin`
