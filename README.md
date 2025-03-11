@@ -1,5 +1,30 @@
-# Windows 11 Environment  
-- [ ] 1. **Install and Configure a Fresh Copy of Windows 10/11**: Set up a clean installation or upgrade. - [Download Windows 10](https://www.microsoft.com/software-download/windows10) | [Download Windows 11](https://www.microsoft.com/software-download/windows11) ( Serial: `W62VF-DNQ6W-9TB43-HRVGV-YY49F` )  
+# Windows 11 Environment Setup
+
+Watch the setup guide on YouTube: [Windows 11 Environment Setup](https://youtu.be/JUTdRZNqODY?si=BstOHqXD6EwVyeN4)
+
+This guide outlines the steps to create a customized Windows 11 environment using Microsoft's Answer Files and a fresh installation of Windows 10 or 11.
+
+## Tasks
+
+- [ ] **1. Install and Configure Microsoft's Answer Files**  
+  Microsoft's Answer Files (Unattend files) allow you to modify Windows settings and packages directly within the Windows ISO during setup. Use the following tools and resources to automate and customize your installation:  
+  - [UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - Personalized unattended answer files to debloat and customize Windows 10 & 11 during installation.  
+  - [Unattend Generator](https://schneegans.de/windows/unattend-generator/) - A web-based tool to generate custom unattended XML files.  
+  - [Rufus](https://rufus.ie/en/) or [Balena Etcher](https://etcher.balena.io/) - Tools to create bootable USB drives for installing Windows with your custom answer file.
+
+- [ ] **2. Install and Configure a Fresh Copy of Windows 10/11**  
+  Perform a clean installation or upgrade to Windows 10 or 11 using official Microsoft ISOs:  
+  - [Download Windows 10](https://www.microsoft.com/software-download/windows10) and use the Media Creation Tool to download an ISO or create installation media.
+  - [Download Windows 11](https://www.microsoft.com/software-download/windows11)  
+    - Serial Key: `W62VF-DNQ6W-9TB43-HRVGV-YY49F` (Use a valid license key for activation).
+
+## Steps for Customization
+
+### Using UnattendedWinstall
+1. Download the `autounattend.xml` file from [UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall).
+2. Place the `autounattend.xml` file at the root of your Windows installation media (USB or ISO).
+3. Use a tool like Rufus or Etcher to create a bootable USB drive with the official Windows ISO.
+4. Boot from the USB and follow the automated setup process.
 
 # Windows Tools  
 - [ ] 1. **Install Warp Terminal**: Modern terminal for developers. - [Download Warp](https://www.warp.dev/)  `winget install Warp.Warp`
