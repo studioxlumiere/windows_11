@@ -56,6 +56,12 @@ DISM /Online /Cleanup-Image /RestoreHealth
 # Unix  
 1. **Compositor**: Create dynamic window management. - [Hyprland](https://hyprland.org/)
 2. https://nixos.org/
+3. Arch Linux
+
+# VPS
+1. https://my.vultr.com/
+2. https://cloud.lambdalabs.com
+3. https://console.paperspace.com
 
 # Network  
 1. **Zyxel Router**: Access your router settings. - [Access Zyxel Router](http://10.0.0.2/login/login.html) - User: `Admin` / Pass: `Admin`
