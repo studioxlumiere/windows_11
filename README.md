@@ -433,6 +433,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 8. Claude: https://claude.ai
 9. https://chat.mistral.ai/
 10. https://convergence.ai/
+11. https://aistudio.google.com/live
 
 # AI Agents  
 1. **Make.com**: Automation platform for workflows. - [Visit Make](https://make.com/)  
