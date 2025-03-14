@@ -59,6 +59,10 @@ DISM /Online /Cleanup-Image /RestoreHealth
 2. https://nixos.org/
 3. Arch Linux
 
+# Bootloader
+1. Super grub
+2. [https://www.waveterm.dev/](https://netboot.xyz)
+
 # VPS
 1. https://my.vultr.com/
 2. https://cloud.lambdalabs.com
