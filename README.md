@@ -60,7 +60,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 3. Arch Linux
 
 # Bootloader
-1. Super grub
+1. Super grub - https://www.supergrubdisk.org/
 2. [https://www.waveterm.dev/](https://netboot.xyz)
 
 # VPS
