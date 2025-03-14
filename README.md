@@ -101,7 +101,11 @@ DISM /Online /Cleanup-Image /RestoreHealth
 4. **Shortwave**: Email client with AI-powered features. - [Visit Shortwave](https://app.shortwave.com/)  
 5. **Google Messages**: Send and receive messages. - [Google Messages](https://messages.google.com)  
 6. **Contacts**: Manage your contacts. - [Contacts+](https://contactsplus.com)  
-7. **Email**: Access your email. - [Gmail](https://mail.google.com)  
+7. **Email**: Access your email. - [Gmail](https://mail.google.com)
+
+# Webcam
+
+1. GoPro Webcam
 
 # Admin  
 1. **Project Management: Clickup**: All-in-one project management tool. - [Visit Clickup](https://www.clickup.com/)  
@@ -281,7 +285,10 @@ DISM /Online /Cleanup-Image /RestoreHealth
 1. **Model Creation**: Create 3D models. - [Hyper3D](https://hyper3d.ai/)  
 2. **Model Creation**: Create 3D models. - [Meshy](https://www.meshy.ai/)  
 3. **Unity Cloud**: Cloud services for Unity. - [Unity Cloud](https://cloud.unity.com)  
-4. **Model Poser**: Pose 3D models. - [Open Pose Editor](https://zhuyu1997.github.io/open-pose-editor/)  
+4. **Model Poser**: Pose 3D models. - [Open Pose Editor](https://zhuyu1997.github.io/open-pose-editor/)
+
+# Game Dev
+1. https://rive.app/
 
 # Voice  
 1. **Fish Audio**: Voice cloning, voice library, voiceover, and more. - [Visit Fish Audio](https://fish.audio/)  
