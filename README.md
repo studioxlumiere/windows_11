@@ -63,6 +63,9 @@ DISM /Online /Cleanup-Image /RestoreHealth
 1. Super grub - https://www.supergrubdisk.org/
 2. [https://www.waveterm.dev/](https://netboot.xyz)
 
+# Security
+1. https://www.kali.org
+
 # VPS
 1. https://my.vultr.com/
 2. https://cloud.lambdalabs.com
