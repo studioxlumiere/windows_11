@@ -65,6 +65,8 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 # Security
 1. https://www.kali.org
+2. https://www.hackthebox.com/
+3. https://tryhackme.com/
 
 # VPS
 1. https://my.vultr.com/
