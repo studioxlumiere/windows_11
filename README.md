@@ -380,6 +380,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 26. **Databases**: Manage databases. - [MySQL](https://www.mysql.com/)  
 27. **Electron**: Build cross-platform desktop apps. - [Electron](https://www.electronjs.org/)  
 28. **AI APIs**: Access AI APIs. - [Replicate](https://replicate.com)
+29. https://codeium.com/
 
 # CODING LIBRARIES
 1. React: npm install react react-dom
