@@ -68,6 +68,9 @@ DISM /Online /Cleanup-Image /RestoreHealth
 2. https://www.hackthebox.com/
 3. https://tryhackme.com/
 
+# VPN
+1. https://www.twingate.com/
+
 # VPS
 1. https://my.vultr.com/
 2. https://cloud.lambdalabs.com
@@ -75,6 +78,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 # Network  
 1. **Zyxel Router**: Access your router settings. - [Access Zyxel Router](http://10.0.0.2/login/login.html) - User: `Admin` / Pass: `Admin`
+2. https://checkmate.so/
 
 # Security  
 1. **Network Mapper**: Map and analyze network coverage. - [CellMapper](https://www.cellmapper.net)  
@@ -201,6 +205,11 @@ DISM /Online /Cleanup-Image /RestoreHealth
 4. **Document Publishing**: Publish documents online. - [Issuu](https://issuu.com)
 5. https://www.humanizer.pro/
 6. https://originality.ai/
+7. https://www.quadratichq.com/
+8. https://rows.com
+9. https://numerous.ai/
+10. https://www.sheetai.app/
+11. https://www.gigasheet.com/
 
 # Notes & Research  
 1. **Windows Notepad**: Built-in text editor for quick notes.  
@@ -452,6 +461,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 3. **Vapi.ai**: Voice AI platform for building voice assistants. - [Visit Vapi](https://vapi.ai/)  
 4. **AutoGPT**: AI-powered automation tool. - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)  
 5. **DialogueFlow**: Build conversational agents. - [Dialogflow](https://dialogflow.cloud.google.com)
+6. https://pipedream.com
 
 # Conversational AI Agents
 1. https://flowgent.ai/
