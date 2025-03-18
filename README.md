@@ -455,6 +455,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 10. https://convergence.ai/
 11. https://aistudio.google.com/live
 12. https://manus.im/
+13. novaapp.ai
 
 # AI Agents  
 1. **Make.com**: Automation platform for workflows. - [Visit Make](https://make.com/)  
