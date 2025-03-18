@@ -118,7 +118,6 @@ DISM /Online /Cleanup-Image /RestoreHealth
 7. **Email**: Access your email. - [Gmail](https://mail.google.com)
 
 # Webcam
-
 1. GoPro Webcam
 
 # Admin  
@@ -170,6 +169,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 6. **Business & Lead Connections**: Connect with startups. - [F6S](https://www.f6s.com/)  
 7. **Service Providers**: Find service providers. - [Sortlist](https://www.sortlist.com/)  
 8. **CIA World Factbook**: Access global intelligence data. - [CIA World Factbook](https://www.cia.gov/the-world-factbook/)
+9. https://www.harvey.ai/
 
 # Retail  
 1. **On Demand Printing**: Print on demand. - [Printful](https://www.printful.com/)  
@@ -454,6 +454,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 9. https://chat.mistral.ai/
 10. https://convergence.ai/
 11. https://aistudio.google.com/live
+12. https://manus.im/
 
 # AI Agents  
 1. **Make.com**: Automation platform for workflows. - [Visit Make](https://make.com/)  
