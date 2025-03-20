@@ -253,6 +253,10 @@ DISM /Online /Cleanup-Image /RestoreHealth
 9. **Image Tools**: Enhance and edit images. - [Magnific](https://magnific.ai/)  
 10. **Image Tools**: Enhance and edit images. - [ImgLarger](https://imglarger.com/)
 
+# Motion
+1. https://lottiefiles.com/
+2. https://jitter.video/
+
 # AI Content Generators  
 1. **All**: AI-powered content generation. - [Hedra](https://www.hedra.com/) Film
 2. **All**: AI-powered content generation. - [Kling AI](https://klingai.com/) Film 3
@@ -305,6 +309,7 @@ DISM /Online /Cleanup-Image /RestoreHealth
 2. **Model Creation**: Create 3D models. - [Meshy](https://www.meshy.ai/)  
 3. **Unity Cloud**: Cloud services for Unity. - [Unity Cloud](https://cloud.unity.com)  
 4. **Model Poser**: Pose 3D models. - [Open Pose Editor](https://zhuyu1997.github.io/open-pose-editor/)
+5. https://spline.design/
 
 # Game Dev
 1. https://rive.app/
@@ -419,6 +424,8 @@ DISM /Online /Cleanup-Image /RestoreHealth
 4. **Web Hosting**: Free web hosting. - [InfinityFree](https://www.infinityfree.com/)  
 5. **Web Hosting**: Affordable web hosting. - [Hostinger](https://www.hostinger.com)  
 6. **Website Builder**: Build websites easily. - [Wix](https://www.wix.com/)
+7. https://www.polymet.ai/
+8. https://v0.dev/
 
 # Electronics  
 1. **Arduino**: Develop electronic projects. - [Arduino](https://www.arduino.cc)  
