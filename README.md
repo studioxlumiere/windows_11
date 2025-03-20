@@ -345,7 +345,8 @@ DISM /Online /Cleanup-Image /RestoreHealth
 15. **Contact Sheets**: Create contact sheets. - [Contact Sheet Maker](https://www.contactsheetmaker.com/)  
 16. **Photo & Video Enhancer**: Enhance photos and videos with AI. - [Topaz Labs](https://www.topazlabs.com/)  
 17. **Photo Editor**: Edit photos with AI. - [Pixelcut](https://www.pixelcut.ai/)  
-18. **Photo Upscaler**: Upscale photos with AI. - [Upscayl](https://upscayl.org/)  
+18. **Photo Upscaler**: Upscale photos with AI. - [Upscayl](https://upscayl.org/)
+19. https://letsenhance.io/
 
 # Video  
 1. **Screen Writing**: Write screenplays. - [Arc Studio Pro](https://www.arcstudiopro.com/)  
@@ -391,7 +392,9 @@ DISM /Online /Cleanup-Image /RestoreHealth
 26. **Databases**: Manage databases. - [MySQL](https://www.mysql.com/)  
 27. **Electron**: Build cross-platform desktop apps. - [Electron](https://www.electronjs.org/)  
 28. **AI APIs**: Access AI APIs. - [Replicate](https://replicate.com)
-29. https://codeium.com/
+29. https://graphite.dev/
+30. https://codeium.com/
+31. https://www.tempo.new/
 
 # CODING LIBRARIES
 1. React: npm install react react-dom
