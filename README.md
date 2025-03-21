@@ -477,3 +477,9 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 # Conversational AI Agents
 1. https://flowgent.ai/
+2. studio.d-id.com
+3. https://app.synthesia.io/
+4. https://app.heygen.com
+5. https://www.aistudios.com
+6. https://app.elai.io/
+7. https://aiapp.vidnoz.com/
