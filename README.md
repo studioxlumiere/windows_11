@@ -123,7 +123,8 @@ DISM /Online /Cleanup-Image /RestoreHealth
 # Admin  
 1. **Project Management: Clickup**: All-in-one project management tool. - [Visit Clickup](https://www.clickup.com/)  
 2. **Proton Apps**: Access Proton's suite of privacy-focused apps. - [Proton Apps](https://account.proton.me/apps)  
-3. **Password Management**: Manage your passwords securely. - [Bitwarden](https://bitwarden.com)  
+3. **Password Management**: Manage your passwords securely. - [Bitwarden](https://bitwarden.com)
+4. https://huly.io
 
 # Personal  
 1. **Carrd**: Create simple one-page websites. - [Visit Carrd](https://mariomorgan.carrd.co/)
